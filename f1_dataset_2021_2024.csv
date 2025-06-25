@@ -1,0 +1,3799 @@
+Driver,Team,Circuit,Year,Session,GridPosition,Position
+Max Verstappen,Red Bull Racing,Bahrain,2021,Q,,1.0
+Lewis Hamilton,Mercedes,Bahrain,2021,Q,,2.0
+Valtteri Bottas,Mercedes,Bahrain,2021,Q,,3.0
+Charles Leclerc,Ferrari,Bahrain,2021,Q,,4.0
+Pierre Gasly,AlphaTauri,Bahrain,2021,Q,,5.0
+Daniel Ricciardo,McLaren,Bahrain,2021,Q,,6.0
+Lando Norris,McLaren,Bahrain,2021,Q,,7.0
+Carlos Sainz,Ferrari,Bahrain,2021,Q,,8.0
+Fernando Alonso,Alpine,Bahrain,2021,Q,,9.0
+Lance Stroll,Aston Martin,Bahrain,2021,Q,,10.0
+Sergio Perez,Red Bull Racing,Bahrain,2021,Q,,11.0
+Antonio Giovinazzi,Alfa Romeo Racing,Bahrain,2021,Q,,12.0
+Yuki Tsunoda,AlphaTauri,Bahrain,2021,Q,,13.0
+Kimi Räikkönen,Alfa Romeo Racing,Bahrain,2021,Q,,14.0
+George Russell,Williams,Bahrain,2021,Q,,15.0
+Esteban Ocon,Alpine,Bahrain,2021,Q,,16.0
+Nicholas Latifi,Williams,Bahrain,2021,Q,,17.0
+Sebastian Vettel,Aston Martin,Bahrain,2021,Q,,18.0
+Mick Schumacher,Haas F1 Team,Bahrain,2021,Q,,19.0
+Nikita Mazepin,Haas F1 Team,Bahrain,2021,Q,,20.0
+Lewis Hamilton,Mercedes,Bahrain,2021,R,2.0,1.0
+Max Verstappen,Red Bull Racing,Bahrain,2021,R,1.0,2.0
+Valtteri Bottas,Mercedes,Bahrain,2021,R,3.0,3.0
+Lando Norris,McLaren,Bahrain,2021,R,7.0,4.0
+Sergio Perez,Red Bull Racing,Bahrain,2021,R,0.0,5.0
+Charles Leclerc,Ferrari,Bahrain,2021,R,4.0,6.0
+Daniel Ricciardo,McLaren,Bahrain,2021,R,6.0,7.0
+Carlos Sainz,Ferrari,Bahrain,2021,R,8.0,8.0
+Yuki Tsunoda,AlphaTauri,Bahrain,2021,R,13.0,9.0
+Lance Stroll,Aston Martin,Bahrain,2021,R,10.0,10.0
+Kimi Räikkönen,Alfa Romeo Racing,Bahrain,2021,R,14.0,11.0
+Antonio Giovinazzi,Alfa Romeo Racing,Bahrain,2021,R,12.0,12.0
+Esteban Ocon,Alpine,Bahrain,2021,R,16.0,13.0
+George Russell,Williams,Bahrain,2021,R,15.0,14.0
+Sebastian Vettel,Aston Martin,Bahrain,2021,R,20.0,15.0
+Mick Schumacher,Haas F1 Team,Bahrain,2021,R,18.0,16.0
+Pierre Gasly,AlphaTauri,Bahrain,2021,R,5.0,17.0
+Nicholas Latifi,Williams,Bahrain,2021,R,17.0,18.0
+Fernando Alonso,Alpine,Bahrain,2021,R,9.0,19.0
+Nikita Mazepin,Haas F1 Team,Bahrain,2021,R,19.0,20.0
+Max Verstappen,Red Bull Racing,Sakhir,2021,Q,,1.0
+Lewis Hamilton,Mercedes,Sakhir,2021,Q,,2.0
+Valtteri Bottas,Mercedes,Sakhir,2021,Q,,3.0
+Charles Leclerc,Ferrari,Sakhir,2021,Q,,4.0
+Pierre Gasly,AlphaTauri,Sakhir,2021,Q,,5.0
+Daniel Ricciardo,McLaren,Sakhir,2021,Q,,6.0
+Lando Norris,McLaren,Sakhir,2021,Q,,7.0
+Carlos Sainz,Ferrari,Sakhir,2021,Q,,8.0
+Fernando Alonso,Alpine,Sakhir,2021,Q,,9.0
+Lance Stroll,Aston Martin,Sakhir,2021,Q,,10.0
+Sergio Perez,Red Bull Racing,Sakhir,2021,Q,,11.0
+Antonio Giovinazzi,Alfa Romeo Racing,Sakhir,2021,Q,,12.0
+Yuki Tsunoda,AlphaTauri,Sakhir,2021,Q,,13.0
+Kimi Räikkönen,Alfa Romeo Racing,Sakhir,2021,Q,,14.0
+George Russell,Williams,Sakhir,2021,Q,,15.0
+Esteban Ocon,Alpine,Sakhir,2021,Q,,16.0
+Nicholas Latifi,Williams,Sakhir,2021,Q,,17.0
+Sebastian Vettel,Aston Martin,Sakhir,2021,Q,,18.0
+Mick Schumacher,Haas F1 Team,Sakhir,2021,Q,,19.0
+Nikita Mazepin,Haas F1 Team,Sakhir,2021,Q,,20.0
+Lewis Hamilton,Mercedes,Sakhir,2021,R,2.0,1.0
+Max Verstappen,Red Bull Racing,Sakhir,2021,R,1.0,2.0
+Valtteri Bottas,Mercedes,Sakhir,2021,R,3.0,3.0
+Lando Norris,McLaren,Sakhir,2021,R,7.0,4.0
+Sergio Perez,Red Bull Racing,Sakhir,2021,R,0.0,5.0
+Charles Leclerc,Ferrari,Sakhir,2021,R,4.0,6.0
+Daniel Ricciardo,McLaren,Sakhir,2021,R,6.0,7.0
+Carlos Sainz,Ferrari,Sakhir,2021,R,8.0,8.0
+Yuki Tsunoda,AlphaTauri,Sakhir,2021,R,13.0,9.0
+Lance Stroll,Aston Martin,Sakhir,2021,R,10.0,10.0
+Kimi Räikkönen,Alfa Romeo Racing,Sakhir,2021,R,14.0,11.0
+Antonio Giovinazzi,Alfa Romeo Racing,Sakhir,2021,R,12.0,12.0
+Esteban Ocon,Alpine,Sakhir,2021,R,16.0,13.0
+George Russell,Williams,Sakhir,2021,R,15.0,14.0
+Sebastian Vettel,Aston Martin,Sakhir,2021,R,20.0,15.0
+Mick Schumacher,Haas F1 Team,Sakhir,2021,R,18.0,16.0
+Pierre Gasly,AlphaTauri,Sakhir,2021,R,5.0,17.0
+Nicholas Latifi,Williams,Sakhir,2021,R,17.0,18.0
+Fernando Alonso,Alpine,Sakhir,2021,R,9.0,19.0
+Nikita Mazepin,Haas F1 Team,Sakhir,2021,R,19.0,20.0
+Lewis Hamilton,Mercedes,Imola,2021,Q,,1.0
+Sergio Perez,Red Bull Racing,Imola,2021,Q,,2.0
+Max Verstappen,Red Bull Racing,Imola,2021,Q,,3.0
+Charles Leclerc,Ferrari,Imola,2021,Q,,4.0
+Pierre Gasly,AlphaTauri,Imola,2021,Q,,5.0
+Daniel Ricciardo,McLaren,Imola,2021,Q,,6.0
+Lando Norris,McLaren,Imola,2021,Q,,7.0
+Valtteri Bottas,Mercedes,Imola,2021,Q,,8.0
+Esteban Ocon,Alpine,Imola,2021,Q,,9.0
+Lance Stroll,Aston Martin,Imola,2021,Q,,10.0
+Carlos Sainz,Ferrari,Imola,2021,Q,,11.0
+George Russell,Williams,Imola,2021,Q,,12.0
+Sebastian Vettel,Aston Martin,Imola,2021,Q,,13.0
+Nicholas Latifi,Williams,Imola,2021,Q,,14.0
+Fernando Alonso,Alpine,Imola,2021,Q,,15.0
+Kimi Räikkönen,Alfa Romeo Racing,Imola,2021,Q,,16.0
+Antonio Giovinazzi,Alfa Romeo Racing,Imola,2021,Q,,17.0
+Mick Schumacher,Haas F1 Team,Imola,2021,Q,,18.0
+Nikita Mazepin,Haas F1 Team,Imola,2021,Q,,19.0
+Yuki Tsunoda,AlphaTauri,Imola,2021,Q,,20.0
+Max Verstappen,Red Bull Racing,Imola,2021,R,3.0,1.0
+Lewis Hamilton,Mercedes,Imola,2021,R,1.0,2.0
+Lando Norris,McLaren,Imola,2021,R,7.0,3.0
+Charles Leclerc,Ferrari,Imola,2021,R,4.0,4.0
+Carlos Sainz,Ferrari,Imola,2021,R,11.0,5.0
+Daniel Ricciardo,McLaren,Imola,2021,R,6.0,6.0
+Pierre Gasly,AlphaTauri,Imola,2021,R,5.0,7.0
+Lance Stroll,Aston Martin,Imola,2021,R,10.0,8.0
+Esteban Ocon,Alpine,Imola,2021,R,9.0,9.0
+Fernando Alonso,Alpine,Imola,2021,R,15.0,10.0
+Sergio Perez,Red Bull Racing,Imola,2021,R,2.0,11.0
+Yuki Tsunoda,AlphaTauri,Imola,2021,R,20.0,12.0
+Kimi Räikkönen,Alfa Romeo Racing,Imola,2021,R,16.0,13.0
+Antonio Giovinazzi,Alfa Romeo Racing,Imola,2021,R,17.0,14.0
+Sebastian Vettel,Aston Martin,Imola,2021,R,0.0,15.0
+Mick Schumacher,Haas F1 Team,Imola,2021,R,18.0,16.0
+Nikita Mazepin,Haas F1 Team,Imola,2021,R,19.0,17.0
+Valtteri Bottas,Mercedes,Imola,2021,R,8.0,18.0
+George Russell,Williams,Imola,2021,R,12.0,19.0
+Nicholas Latifi,Williams,Imola,2021,R,14.0,20.0
+Valtteri Bottas,Mercedes,Portimão,2021,Q,,1.0
+Lewis Hamilton,Mercedes,Portimão,2021,Q,,2.0
+Max Verstappen,Red Bull Racing,Portimão,2021,Q,,3.0
+Sergio Perez,Red Bull Racing,Portimão,2021,Q,,4.0
+Carlos Sainz,Ferrari,Portimão,2021,Q,,5.0
+Esteban Ocon,Alpine,Portimão,2021,Q,,6.0
+Lando Norris,McLaren,Portimão,2021,Q,,7.0
+Charles Leclerc,Ferrari,Portimão,2021,Q,,8.0
+Pierre Gasly,AlphaTauri,Portimão,2021,Q,,9.0
+Sebastian Vettel,Aston Martin,Portimão,2021,Q,,10.0
+George Russell,Williams,Portimão,2021,Q,,11.0
+Antonio Giovinazzi,Alfa Romeo Racing,Portimão,2021,Q,,12.0
+Fernando Alonso,Alpine,Portimão,2021,Q,,13.0
+Yuki Tsunoda,AlphaTauri,Portimão,2021,Q,,14.0
+Kimi Räikkönen,Alfa Romeo Racing,Portimão,2021,Q,,15.0
+Daniel Ricciardo,McLaren,Portimão,2021,Q,,16.0
+Lance Stroll,Aston Martin,Portimão,2021,Q,,17.0
+Nicholas Latifi,Williams,Portimão,2021,Q,,18.0
+Mick Schumacher,Haas F1 Team,Portimão,2021,Q,,19.0
+Nikita Mazepin,Haas F1 Team,Portimão,2021,Q,,20.0
+Lewis Hamilton,Mercedes,Portimão,2021,R,2.0,1.0
+Max Verstappen,Red Bull Racing,Portimão,2021,R,3.0,2.0
+Valtteri Bottas,Mercedes,Portimão,2021,R,1.0,3.0
+Sergio Perez,Red Bull Racing,Portimão,2021,R,4.0,4.0
+Lando Norris,McLaren,Portimão,2021,R,7.0,5.0
+Charles Leclerc,Ferrari,Portimão,2021,R,8.0,6.0
+Esteban Ocon,Alpine,Portimão,2021,R,6.0,7.0
+Fernando Alonso,Alpine,Portimão,2021,R,13.0,8.0
+Daniel Ricciardo,McLaren,Portimão,2021,R,16.0,9.0
+Pierre Gasly,AlphaTauri,Portimão,2021,R,9.0,10.0
+Carlos Sainz,Ferrari,Portimão,2021,R,5.0,11.0
+Antonio Giovinazzi,Alfa Romeo Racing,Portimão,2021,R,12.0,12.0
+Sebastian Vettel,Aston Martin,Portimão,2021,R,10.0,13.0
+Lance Stroll,Aston Martin,Portimão,2021,R,17.0,14.0
+Yuki Tsunoda,AlphaTauri,Portimão,2021,R,14.0,15.0
+George Russell,Williams,Portimão,2021,R,11.0,16.0
+Mick Schumacher,Haas F1 Team,Portimão,2021,R,19.0,17.0
+Nicholas Latifi,Williams,Portimão,2021,R,18.0,18.0
+Nikita Mazepin,Haas F1 Team,Portimão,2021,R,20.0,19.0
+Kimi Räikkönen,Alfa Romeo Racing,Portimão,2021,R,15.0,20.0
+Lewis Hamilton,Mercedes,Barcelona,2021,Q,,1.0
+Max Verstappen,Red Bull Racing,Barcelona,2021,Q,,2.0
+Valtteri Bottas,Mercedes,Barcelona,2021,Q,,3.0
+Charles Leclerc,Ferrari,Barcelona,2021,Q,,4.0
+Esteban Ocon,Alpine,Barcelona,2021,Q,,5.0
+Carlos Sainz,Ferrari,Barcelona,2021,Q,,6.0
+Daniel Ricciardo,McLaren,Barcelona,2021,Q,,7.0
+Sergio Perez,Red Bull Racing,Barcelona,2021,Q,,8.0
+Lando Norris,McLaren,Barcelona,2021,Q,,9.0
+Fernando Alonso,Alpine,Barcelona,2021,Q,,10.0
+Lance Stroll,Aston Martin,Barcelona,2021,Q,,11.0
+Pierre Gasly,AlphaTauri,Barcelona,2021,Q,,12.0
+Sebastian Vettel,Aston Martin,Barcelona,2021,Q,,13.0
+Antonio Giovinazzi,Alfa Romeo Racing,Barcelona,2021,Q,,14.0
+George Russell,Williams,Barcelona,2021,Q,,15.0
+Yuki Tsunoda,AlphaTauri,Barcelona,2021,Q,,16.0
+Kimi Räikkönen,Alfa Romeo Racing,Barcelona,2021,Q,,17.0
+Mick Schumacher,Haas F1 Team,Barcelona,2021,Q,,18.0
+Nicholas Latifi,Williams,Barcelona,2021,Q,,19.0
+Nikita Mazepin,Haas F1 Team,Barcelona,2021,Q,,20.0
+Lewis Hamilton,Mercedes,Barcelona,2021,R,1.0,1.0
+Max Verstappen,Red Bull Racing,Barcelona,2021,R,2.0,2.0
+Valtteri Bottas,Mercedes,Barcelona,2021,R,3.0,3.0
+Charles Leclerc,Ferrari,Barcelona,2021,R,4.0,4.0
+Sergio Perez,Red Bull Racing,Barcelona,2021,R,8.0,5.0
+Daniel Ricciardo,McLaren,Barcelona,2021,R,7.0,6.0
+Carlos Sainz,Ferrari,Barcelona,2021,R,6.0,7.0
+Lando Norris,McLaren,Barcelona,2021,R,9.0,8.0
+Esteban Ocon,Alpine,Barcelona,2021,R,5.0,9.0
+Pierre Gasly,AlphaTauri,Barcelona,2021,R,12.0,10.0
+Lance Stroll,Aston Martin,Barcelona,2021,R,11.0,11.0
+Kimi Räikkönen,Alfa Romeo Racing,Barcelona,2021,R,17.0,12.0
+Sebastian Vettel,Aston Martin,Barcelona,2021,R,13.0,13.0
+George Russell,Williams,Barcelona,2021,R,15.0,14.0
+Antonio Giovinazzi,Alfa Romeo Racing,Barcelona,2021,R,14.0,15.0
+Nicholas Latifi,Williams,Barcelona,2021,R,19.0,16.0
+Fernando Alonso,Alpine,Barcelona,2021,R,10.0,17.0
+Mick Schumacher,Haas F1 Team,Barcelona,2021,R,18.0,18.0
+Nikita Mazepin,Haas F1 Team,Barcelona,2021,R,20.0,19.0
+Yuki Tsunoda,AlphaTauri,Barcelona,2021,R,16.0,20.0
+Charles Leclerc,Ferrari,Monte Carlo,2021,Q,,1.0
+Max Verstappen,Red Bull Racing,Monte Carlo,2021,Q,,2.0
+Valtteri Bottas,Mercedes,Monte Carlo,2021,Q,,3.0
+Carlos Sainz,Ferrari,Monte Carlo,2021,Q,,4.0
+Lando Norris,McLaren,Monte Carlo,2021,Q,,5.0
+Pierre Gasly,AlphaTauri,Monte Carlo,2021,Q,,6.0
+Lewis Hamilton,Mercedes,Monte Carlo,2021,Q,,7.0
+Sebastian Vettel,Aston Martin,Monte Carlo,2021,Q,,8.0
+Sergio Perez,Red Bull Racing,Monte Carlo,2021,Q,,9.0
+Antonio Giovinazzi,Alfa Romeo Racing,Monte Carlo,2021,Q,,10.0
+Esteban Ocon,Alpine,Monte Carlo,2021,Q,,11.0
+Daniel Ricciardo,McLaren,Monte Carlo,2021,Q,,12.0
+Lance Stroll,Aston Martin,Monte Carlo,2021,Q,,13.0
+Kimi Räikkönen,Alfa Romeo Racing,Monte Carlo,2021,Q,,14.0
+George Russell,Williams,Monte Carlo,2021,Q,,15.0
+Yuki Tsunoda,AlphaTauri,Monte Carlo,2021,Q,,16.0
+Fernando Alonso,Alpine,Monte Carlo,2021,Q,,17.0
+Nicholas Latifi,Williams,Monte Carlo,2021,Q,,18.0
+Nikita Mazepin,Haas F1 Team,Monte Carlo,2021,Q,,19.0
+Mick Schumacher,Haas F1 Team,Monte Carlo,2021,Q,,
+Max Verstappen,Red Bull Racing,Monte Carlo,2021,R,2.0,1.0
+Carlos Sainz,Ferrari,Monte Carlo,2021,R,4.0,2.0
+Lando Norris,McLaren,Monte Carlo,2021,R,5.0,3.0
+Sergio Perez,Red Bull Racing,Monte Carlo,2021,R,9.0,4.0
+Sebastian Vettel,Aston Martin,Monte Carlo,2021,R,8.0,5.0
+Pierre Gasly,AlphaTauri,Monte Carlo,2021,R,6.0,6.0
+Lewis Hamilton,Mercedes,Monte Carlo,2021,R,7.0,7.0
+Lance Stroll,Aston Martin,Monte Carlo,2021,R,13.0,8.0
+Esteban Ocon,Alpine,Monte Carlo,2021,R,11.0,9.0
+Antonio Giovinazzi,Alfa Romeo Racing,Monte Carlo,2021,R,10.0,10.0
+Kimi Räikkönen,Alfa Romeo Racing,Monte Carlo,2021,R,14.0,11.0
+Daniel Ricciardo,McLaren,Monte Carlo,2021,R,12.0,12.0
+Fernando Alonso,Alpine,Monte Carlo,2021,R,17.0,13.0
+George Russell,Williams,Monte Carlo,2021,R,15.0,14.0
+Nicholas Latifi,Williams,Monte Carlo,2021,R,18.0,15.0
+Yuki Tsunoda,AlphaTauri,Monte Carlo,2021,R,16.0,16.0
+Nikita Mazepin,Haas F1 Team,Monte Carlo,2021,R,19.0,17.0
+Mick Schumacher,Haas F1 Team,Monte Carlo,2021,R,20.0,18.0
+Valtteri Bottas,Mercedes,Monte Carlo,2021,R,3.0,19.0
+Charles Leclerc,Ferrari,Monte Carlo,2021,R,1.0,20.0
+Charles Leclerc,Ferrari,Baku,2021,Q,,1.0
+Lewis Hamilton,Mercedes,Baku,2021,Q,,2.0
+Max Verstappen,Red Bull Racing,Baku,2021,Q,,3.0
+Pierre Gasly,AlphaTauri,Baku,2021,Q,,4.0
+Carlos Sainz,Ferrari,Baku,2021,Q,,5.0
+Lando Norris,McLaren,Baku,2021,Q,,6.0
+Sergio Perez,Red Bull Racing,Baku,2021,Q,,7.0
+Yuki Tsunoda,AlphaTauri,Baku,2021,Q,,8.0
+Fernando Alonso,Alpine,Baku,2021,Q,,9.0
+Valtteri Bottas,Mercedes,Baku,2021,Q,,10.0
+Sebastian Vettel,Aston Martin,Baku,2021,Q,,11.0
+Esteban Ocon,Alpine,Baku,2021,Q,,12.0
+Daniel Ricciardo,McLaren,Baku,2021,Q,,13.0
+Kimi Räikkönen,Alfa Romeo Racing,Baku,2021,Q,,14.0
+George Russell,Williams,Baku,2021,Q,,15.0
+Nicholas Latifi,Williams,Baku,2021,Q,,16.0
+Mick Schumacher,Haas F1 Team,Baku,2021,Q,,17.0
+Nikita Mazepin,Haas F1 Team,Baku,2021,Q,,18.0
+Lance Stroll,Aston Martin,Baku,2021,Q,,19.0
+Antonio Giovinazzi,Alfa Romeo Racing,Baku,2021,Q,,20.0
+Sergio Perez,Red Bull Racing,Baku,2021,R,6.0,1.0
+Sebastian Vettel,Aston Martin,Baku,2021,R,11.0,2.0
+Pierre Gasly,AlphaTauri,Baku,2021,R,4.0,3.0
+Charles Leclerc,Ferrari,Baku,2021,R,1.0,4.0
+Lando Norris,McLaren,Baku,2021,R,9.0,5.0
+Fernando Alonso,Alpine,Baku,2021,R,8.0,6.0
+Yuki Tsunoda,AlphaTauri,Baku,2021,R,7.0,7.0
+Carlos Sainz,Ferrari,Baku,2021,R,5.0,8.0
+Daniel Ricciardo,McLaren,Baku,2021,R,13.0,9.0
+Kimi Räikkönen,Alfa Romeo Racing,Baku,2021,R,14.0,10.0
+Antonio Giovinazzi,Alfa Romeo Racing,Baku,2021,R,20.0,11.0
+Valtteri Bottas,Mercedes,Baku,2021,R,10.0,12.0
+Mick Schumacher,Haas F1 Team,Baku,2021,R,17.0,13.0
+Nikita Mazepin,Haas F1 Team,Baku,2021,R,18.0,14.0
+Lewis Hamilton,Mercedes,Baku,2021,R,2.0,15.0
+Nicholas Latifi,Williams,Baku,2021,R,16.0,16.0
+George Russell,Williams,Baku,2021,R,15.0,17.0
+Max Verstappen,Red Bull Racing,Baku,2021,R,3.0,18.0
+Lance Stroll,Aston Martin,Baku,2021,R,19.0,19.0
+Esteban Ocon,Alpine,Baku,2021,R,12.0,20.0
+Max Verstappen,Red Bull Racing,Le Castellet,2021,Q,,1.0
+Lewis Hamilton,Mercedes,Le Castellet,2021,Q,,2.0
+Valtteri Bottas,Mercedes,Le Castellet,2021,Q,,3.0
+Sergio Perez,Red Bull Racing,Le Castellet,2021,Q,,4.0
+Carlos Sainz,Ferrari,Le Castellet,2021,Q,,5.0
+Pierre Gasly,AlphaTauri,Le Castellet,2021,Q,,6.0
+Charles Leclerc,Ferrari,Le Castellet,2021,Q,,7.0
+Lando Norris,McLaren,Le Castellet,2021,Q,,8.0
+Fernando Alonso,Alpine,Le Castellet,2021,Q,,9.0
+Daniel Ricciardo,McLaren,Le Castellet,2021,Q,,10.0
+Esteban Ocon,Alpine,Le Castellet,2021,Q,,11.0
+Sebastian Vettel,Aston Martin,Le Castellet,2021,Q,,12.0
+Antonio Giovinazzi,Alfa Romeo Racing,Le Castellet,2021,Q,,13.0
+George Russell,Williams,Le Castellet,2021,Q,,14.0
+Mick Schumacher,Haas F1 Team,Le Castellet,2021,Q,,15.0
+Nicholas Latifi,Williams,Le Castellet,2021,Q,,16.0
+Kimi Räikkönen,Alfa Romeo Racing,Le Castellet,2021,Q,,17.0
+Nikita Mazepin,Haas F1 Team,Le Castellet,2021,Q,,18.0
+Lance Stroll,Aston Martin,Le Castellet,2021,Q,,19.0
+Yuki Tsunoda,AlphaTauri,Le Castellet,2021,Q,,20.0
+Max Verstappen,Red Bull Racing,Le Castellet,2021,R,1.0,1.0
+Lewis Hamilton,Mercedes,Le Castellet,2021,R,2.0,2.0
+Sergio Perez,Red Bull Racing,Le Castellet,2021,R,4.0,3.0
+Valtteri Bottas,Mercedes,Le Castellet,2021,R,3.0,4.0
+Lando Norris,McLaren,Le Castellet,2021,R,8.0,5.0
+Daniel Ricciardo,McLaren,Le Castellet,2021,R,10.0,6.0
+Pierre Gasly,AlphaTauri,Le Castellet,2021,R,6.0,7.0
+Fernando Alonso,Alpine,Le Castellet,2021,R,9.0,8.0
+Sebastian Vettel,Aston Martin,Le Castellet,2021,R,12.0,9.0
+Lance Stroll,Aston Martin,Le Castellet,2021,R,19.0,10.0
+Carlos Sainz,Ferrari,Le Castellet,2021,R,5.0,11.0
+George Russell,Williams,Le Castellet,2021,R,14.0,12.0
+Yuki Tsunoda,AlphaTauri,Le Castellet,2021,R,0.0,13.0
+Esteban Ocon,Alpine,Le Castellet,2021,R,11.0,14.0
+Antonio Giovinazzi,Alfa Romeo Racing,Le Castellet,2021,R,13.0,15.0
+Charles Leclerc,Ferrari,Le Castellet,2021,R,7.0,16.0
+Kimi Räikkönen,Alfa Romeo Racing,Le Castellet,2021,R,17.0,17.0
+Nicholas Latifi,Williams,Le Castellet,2021,R,16.0,18.0
+Mick Schumacher,Haas F1 Team,Le Castellet,2021,R,15.0,19.0
+Nikita Mazepin,Haas F1 Team,Le Castellet,2021,R,18.0,20.0
+Max Verstappen,Red Bull Racing,Spielberg,2021,Q,,1.0
+Valtteri Bottas,Mercedes,Spielberg,2021,Q,,2.0
+Lewis Hamilton,Mercedes,Spielberg,2021,Q,,3.0
+Lando Norris,McLaren,Spielberg,2021,Q,,4.0
+Sergio Perez,Red Bull Racing,Spielberg,2021,Q,,5.0
+Pierre Gasly,AlphaTauri,Spielberg,2021,Q,,6.0
+Charles Leclerc,Ferrari,Spielberg,2021,Q,,7.0
+Yuki Tsunoda,AlphaTauri,Spielberg,2021,Q,,8.0
+Fernando Alonso,Alpine,Spielberg,2021,Q,,9.0
+Lance Stroll,Aston Martin,Spielberg,2021,Q,,10.0
+George Russell,Williams,Spielberg,2021,Q,,11.0
+Carlos Sainz,Ferrari,Spielberg,2021,Q,,12.0
+Daniel Ricciardo,McLaren,Spielberg,2021,Q,,13.0
+Sebastian Vettel,Aston Martin,Spielberg,2021,Q,,14.0
+Antonio Giovinazzi,Alfa Romeo Racing,Spielberg,2021,Q,,15.0
+Nicholas Latifi,Williams,Spielberg,2021,Q,,16.0
+Esteban Ocon,Alpine,Spielberg,2021,Q,,17.0
+Kimi Räikkönen,Alfa Romeo Racing,Spielberg,2021,Q,,18.0
+Mick Schumacher,Haas F1 Team,Spielberg,2021,Q,,19.0
+Nikita Mazepin,Haas F1 Team,Spielberg,2021,Q,,20.0
+Max Verstappen,Red Bull Racing,Spielberg,2021,R,1.0,1.0
+Lewis Hamilton,Mercedes,Spielberg,2021,R,2.0,2.0
+Valtteri Bottas,Mercedes,Spielberg,2021,R,5.0,3.0
+Sergio Perez,Red Bull Racing,Spielberg,2021,R,4.0,4.0
+Lando Norris,McLaren,Spielberg,2021,R,3.0,5.0
+Carlos Sainz,Ferrari,Spielberg,2021,R,12.0,6.0
+Charles Leclerc,Ferrari,Spielberg,2021,R,7.0,7.0
+Lance Stroll,Aston Martin,Spielberg,2021,R,9.0,8.0
+Fernando Alonso,Alpine,Spielberg,2021,R,8.0,9.0
+Yuki Tsunoda,AlphaTauri,Spielberg,2021,R,11.0,10.0
+Kimi Räikkönen,Alfa Romeo Racing,Spielberg,2021,R,18.0,11.0
+Sebastian Vettel,Aston Martin,Spielberg,2021,R,14.0,12.0
+Daniel Ricciardo,McLaren,Spielberg,2021,R,13.0,13.0
+Esteban Ocon,Alpine,Spielberg,2021,R,17.0,14.0
+Antonio Giovinazzi,Alfa Romeo Racing,Spielberg,2021,R,15.0,15.0
+Mick Schumacher,Haas F1 Team,Spielberg,2021,R,19.0,16.0
+Nicholas Latifi,Williams,Spielberg,2021,R,16.0,17.0
+Nikita Mazepin,Haas F1 Team,Spielberg,2021,R,20.0,18.0
+George Russell,Williams,Spielberg,2021,R,10.0,19.0
+Pierre Gasly,AlphaTauri,Spielberg,2021,R,6.0,20.0
+Max Verstappen,Red Bull Racing,Spielberg,2021,Q,,1.0
+Valtteri Bottas,Mercedes,Spielberg,2021,Q,,2.0
+Lewis Hamilton,Mercedes,Spielberg,2021,Q,,3.0
+Lando Norris,McLaren,Spielberg,2021,Q,,4.0
+Sergio Perez,Red Bull Racing,Spielberg,2021,Q,,5.0
+Pierre Gasly,AlphaTauri,Spielberg,2021,Q,,6.0
+Charles Leclerc,Ferrari,Spielberg,2021,Q,,7.0
+Yuki Tsunoda,AlphaTauri,Spielberg,2021,Q,,8.0
+Fernando Alonso,Alpine,Spielberg,2021,Q,,9.0
+Lance Stroll,Aston Martin,Spielberg,2021,Q,,10.0
+George Russell,Williams,Spielberg,2021,Q,,11.0
+Carlos Sainz,Ferrari,Spielberg,2021,Q,,12.0
+Daniel Ricciardo,McLaren,Spielberg,2021,Q,,13.0
+Sebastian Vettel,Aston Martin,Spielberg,2021,Q,,14.0
+Antonio Giovinazzi,Alfa Romeo Racing,Spielberg,2021,Q,,15.0
+Nicholas Latifi,Williams,Spielberg,2021,Q,,16.0
+Esteban Ocon,Alpine,Spielberg,2021,Q,,17.0
+Kimi Räikkönen,Alfa Romeo Racing,Spielberg,2021,Q,,18.0
+Mick Schumacher,Haas F1 Team,Spielberg,2021,Q,,19.0
+Nikita Mazepin,Haas F1 Team,Spielberg,2021,Q,,20.0
+Max Verstappen,Red Bull Racing,Spielberg,2021,R,1.0,1.0
+Lewis Hamilton,Mercedes,Spielberg,2021,R,2.0,2.0
+Valtteri Bottas,Mercedes,Spielberg,2021,R,5.0,3.0
+Sergio Perez,Red Bull Racing,Spielberg,2021,R,4.0,4.0
+Lando Norris,McLaren,Spielberg,2021,R,3.0,5.0
+Carlos Sainz,Ferrari,Spielberg,2021,R,12.0,6.0
+Charles Leclerc,Ferrari,Spielberg,2021,R,7.0,7.0
+Lance Stroll,Aston Martin,Spielberg,2021,R,9.0,8.0
+Fernando Alonso,Alpine,Spielberg,2021,R,8.0,9.0
+Yuki Tsunoda,AlphaTauri,Spielberg,2021,R,11.0,10.0
+Kimi Räikkönen,Alfa Romeo Racing,Spielberg,2021,R,18.0,11.0
+Sebastian Vettel,Aston Martin,Spielberg,2021,R,14.0,12.0
+Daniel Ricciardo,McLaren,Spielberg,2021,R,13.0,13.0
+Esteban Ocon,Alpine,Spielberg,2021,R,17.0,14.0
+Antonio Giovinazzi,Alfa Romeo Racing,Spielberg,2021,R,15.0,15.0
+Mick Schumacher,Haas F1 Team,Spielberg,2021,R,19.0,16.0
+Nicholas Latifi,Williams,Spielberg,2021,R,16.0,17.0
+Nikita Mazepin,Haas F1 Team,Spielberg,2021,R,20.0,18.0
+George Russell,Williams,Spielberg,2021,R,10.0,19.0
+Pierre Gasly,AlphaTauri,Spielberg,2021,R,6.0,20.0
+Lewis Hamilton,Mercedes,Silverstone,2021,Q,,1.0
+Max Verstappen,Red Bull Racing,Silverstone,2021,Q,,2.0
+Valtteri Bottas,Mercedes,Silverstone,2021,Q,,3.0
+Charles Leclerc,Ferrari,Silverstone,2021,Q,,4.0
+Sergio Perez,Red Bull Racing,Silverstone,2021,Q,,5.0
+Lando Norris,McLaren,Silverstone,2021,Q,,6.0
+Daniel Ricciardo,McLaren,Silverstone,2021,Q,,7.0
+George Russell,Williams,Silverstone,2021,Q,,8.0
+Carlos Sainz,Ferrari,Silverstone,2021,Q,,9.0
+Sebastian Vettel,Aston Martin,Silverstone,2021,Q,,10.0
+Fernando Alonso,Alpine,Silverstone,2021,Q,,11.0
+Pierre Gasly,AlphaTauri,Silverstone,2021,Q,,12.0
+Esteban Ocon,Alpine,Silverstone,2021,Q,,13.0
+Antonio Giovinazzi,Alfa Romeo Racing,Silverstone,2021,Q,,14.0
+Lance Stroll,Aston Martin,Silverstone,2021,Q,,15.0
+Yuki Tsunoda,AlphaTauri,Silverstone,2021,Q,,16.0
+Kimi Räikkönen,Alfa Romeo Racing,Silverstone,2021,Q,,17.0
+Nicholas Latifi,Williams,Silverstone,2021,Q,,18.0
+Mick Schumacher,Haas F1 Team,Silverstone,2021,Q,,19.0
+Nikita Mazepin,Haas F1 Team,Silverstone,2021,Q,,20.0
+Lewis Hamilton,Mercedes,Silverstone,2021,R,2.0,1.0
+Charles Leclerc,Ferrari,Silverstone,2021,R,4.0,2.0
+Valtteri Bottas,Mercedes,Silverstone,2021,R,3.0,3.0
+Lando Norris,McLaren,Silverstone,2021,R,5.0,4.0
+Daniel Ricciardo,McLaren,Silverstone,2021,R,6.0,5.0
+Carlos Sainz,Ferrari,Silverstone,2021,R,10.0,6.0
+Fernando Alonso,Alpine,Silverstone,2021,R,7.0,7.0
+Lance Stroll,Aston Martin,Silverstone,2021,R,14.0,8.0
+Esteban Ocon,Alpine,Silverstone,2021,R,9.0,9.0
+Yuki Tsunoda,AlphaTauri,Silverstone,2021,R,16.0,10.0
+Pierre Gasly,AlphaTauri,Silverstone,2021,R,11.0,11.0
+George Russell,Williams,Silverstone,2021,R,12.0,12.0
+Antonio Giovinazzi,Alfa Romeo Racing,Silverstone,2021,R,15.0,13.0
+Nicholas Latifi,Williams,Silverstone,2021,R,17.0,14.0
+Kimi Räikkönen,Alfa Romeo Racing,Silverstone,2021,R,13.0,15.0
+Sergio Perez,Red Bull Racing,Silverstone,2021,R,0.0,16.0
+Nikita Mazepin,Haas F1 Team,Silverstone,2021,R,19.0,17.0
+Mick Schumacher,Haas F1 Team,Silverstone,2021,R,18.0,18.0
+Sebastian Vettel,Aston Martin,Silverstone,2021,R,8.0,19.0
+Max Verstappen,Red Bull Racing,Silverstone,2021,R,1.0,20.0
+Lewis Hamilton,Mercedes,Budapest,2021,Q,,1.0
+Valtteri Bottas,Mercedes,Budapest,2021,Q,,2.0
+Max Verstappen,Red Bull Racing,Budapest,2021,Q,,3.0
+Sergio Perez,Red Bull Racing,Budapest,2021,Q,,4.0
+Pierre Gasly,AlphaTauri,Budapest,2021,Q,,5.0
+Lando Norris,McLaren,Budapest,2021,Q,,6.0
+Charles Leclerc,Ferrari,Budapest,2021,Q,,7.0
+Esteban Ocon,Alpine,Budapest,2021,Q,,8.0
+Fernando Alonso,Alpine,Budapest,2021,Q,,9.0
+Sebastian Vettel,Aston Martin,Budapest,2021,Q,,10.0
+Daniel Ricciardo,McLaren,Budapest,2021,Q,,11.0
+Lance Stroll,Aston Martin,Budapest,2021,Q,,12.0
+Kimi Räikkönen,Alfa Romeo Racing,Budapest,2021,Q,,13.0
+Antonio Giovinazzi,Alfa Romeo Racing,Budapest,2021,Q,,14.0
+Carlos Sainz,Ferrari,Budapest,2021,Q,,15.0
+Yuki Tsunoda,AlphaTauri,Budapest,2021,Q,,16.0
+George Russell,Williams,Budapest,2021,Q,,17.0
+Nicholas Latifi,Williams,Budapest,2021,Q,,18.0
+Nikita Mazepin,Haas F1 Team,Budapest,2021,Q,,19.0
+Mick Schumacher,Haas F1 Team,Budapest,2021,Q,,20.0
+Esteban Ocon,Alpine,Budapest,2021,R,8.0,1.0
+Lewis Hamilton,Mercedes,Budapest,2021,R,1.0,2.0
+Carlos Sainz,Ferrari,Budapest,2021,R,15.0,3.0
+Fernando Alonso,Alpine,Budapest,2021,R,9.0,4.0
+Pierre Gasly,AlphaTauri,Budapest,2021,R,5.0,5.0
+Yuki Tsunoda,AlphaTauri,Budapest,2021,R,16.0,6.0
+Nicholas Latifi,Williams,Budapest,2021,R,18.0,7.0
+George Russell,Williams,Budapest,2021,R,17.0,8.0
+Max Verstappen,Red Bull Racing,Budapest,2021,R,3.0,9.0
+Kimi Räikkönen,Alfa Romeo Racing,Budapest,2021,R,13.0,10.0
+Daniel Ricciardo,McLaren,Budapest,2021,R,11.0,11.0
+Mick Schumacher,Haas F1 Team,Budapest,2021,R,20.0,12.0
+Antonio Giovinazzi,Alfa Romeo Racing,Budapest,2021,R,0.0,13.0
+Nikita Mazepin,Haas F1 Team,Budapest,2021,R,19.0,14.0
+Lando Norris,McLaren,Budapest,2021,R,6.0,15.0
+Valtteri Bottas,Mercedes,Budapest,2021,R,2.0,16.0
+Sergio Perez,Red Bull Racing,Budapest,2021,R,4.0,17.0
+Charles Leclerc,Ferrari,Budapest,2021,R,7.0,18.0
+Lance Stroll,Aston Martin,Budapest,2021,R,12.0,19.0
+Sebastian Vettel,Aston Martin,Budapest,2021,R,10.0,20.0
+Max Verstappen,Red Bull Racing,Spa-Francorchamps,2021,Q,,1.0
+George Russell,Williams,Spa-Francorchamps,2021,Q,,2.0
+Lewis Hamilton,Mercedes,Spa-Francorchamps,2021,Q,,3.0
+Daniel Ricciardo,McLaren,Spa-Francorchamps,2021,Q,,4.0
+Sebastian Vettel,Aston Martin,Spa-Francorchamps,2021,Q,,5.0
+Pierre Gasly,AlphaTauri,Spa-Francorchamps,2021,Q,,6.0
+Sergio Perez,Red Bull Racing,Spa-Francorchamps,2021,Q,,7.0
+Valtteri Bottas,Mercedes,Spa-Francorchamps,2021,Q,,8.0
+Esteban Ocon,Alpine,Spa-Francorchamps,2021,Q,,9.0
+Lando Norris,McLaren,Spa-Francorchamps,2021,Q,,10.0
+Charles Leclerc,Ferrari,Spa-Francorchamps,2021,Q,,11.0
+Nicholas Latifi,Williams,Spa-Francorchamps,2021,Q,,12.0
+Carlos Sainz,Ferrari,Spa-Francorchamps,2021,Q,,13.0
+Fernando Alonso,Alpine,Spa-Francorchamps,2021,Q,,14.0
+Lance Stroll,Aston Martin,Spa-Francorchamps,2021,Q,,15.0
+Antonio Giovinazzi,Alfa Romeo Racing,Spa-Francorchamps,2021,Q,,16.0
+Yuki Tsunoda,AlphaTauri,Spa-Francorchamps,2021,Q,,17.0
+Mick Schumacher,Haas F1 Team,Spa-Francorchamps,2021,Q,,18.0
+Kimi Räikkönen,Alfa Romeo Racing,Spa-Francorchamps,2021,Q,,19.0
+Nikita Mazepin,Haas F1 Team,Spa-Francorchamps,2021,Q,,20.0
+Max Verstappen,Red Bull Racing,Spa-Francorchamps,2021,R,1.0,1.0
+George Russell,Williams,Spa-Francorchamps,2021,R,2.0,2.0
+Lewis Hamilton,Mercedes,Spa-Francorchamps,2021,R,3.0,3.0
+Daniel Ricciardo,McLaren,Spa-Francorchamps,2021,R,4.0,4.0
+Sebastian Vettel,Aston Martin,Spa-Francorchamps,2021,R,5.0,5.0
+Pierre Gasly,AlphaTauri,Spa-Francorchamps,2021,R,6.0,6.0
+Esteban Ocon,Alpine,Spa-Francorchamps,2021,R,8.0,7.0
+Charles Leclerc,Ferrari,Spa-Francorchamps,2021,R,9.0,8.0
+Nicholas Latifi,Williams,Spa-Francorchamps,2021,R,10.0,9.0
+Carlos Sainz,Ferrari,Spa-Francorchamps,2021,R,11.0,10.0
+Fernando Alonso,Alpine,Spa-Francorchamps,2021,R,12.0,11.0
+Valtteri Bottas,Mercedes,Spa-Francorchamps,2021,R,13.0,12.0
+Antonio Giovinazzi,Alfa Romeo Racing,Spa-Francorchamps,2021,R,14.0,13.0
+Lando Norris,McLaren,Spa-Francorchamps,2021,R,15.0,14.0
+Yuki Tsunoda,AlphaTauri,Spa-Francorchamps,2021,R,16.0,15.0
+Mick Schumacher,Haas F1 Team,Spa-Francorchamps,2021,R,17.0,16.0
+Nikita Mazepin,Haas F1 Team,Spa-Francorchamps,2021,R,18.0,17.0
+Kimi Räikkönen,Alfa Romeo Racing,Spa-Francorchamps,2021,R,0.0,18.0
+Sergio Perez,Red Bull Racing,Spa-Francorchamps,2021,R,0.0,19.0
+Lance Stroll,Aston Martin,Spa-Francorchamps,2021,R,19.0,20.0
+Max Verstappen,Red Bull Racing,Zandvoort,2021,Q,,1.0
+Lewis Hamilton,Mercedes,Zandvoort,2021,Q,,2.0
+Valtteri Bottas,Mercedes,Zandvoort,2021,Q,,3.0
+Pierre Gasly,AlphaTauri,Zandvoort,2021,Q,,4.0
+Charles Leclerc,Ferrari,Zandvoort,2021,Q,,5.0
+Carlos Sainz,Ferrari,Zandvoort,2021,Q,,6.0
+Antonio Giovinazzi,Alfa Romeo Racing,Zandvoort,2021,Q,,7.0
+Esteban Ocon,Alpine,Zandvoort,2021,Q,,8.0
+Fernando Alonso,Alpine,Zandvoort,2021,Q,,9.0
+Daniel Ricciardo,McLaren,Zandvoort,2021,Q,,10.0
+George Russell,Williams,Zandvoort,2021,Q,,11.0
+Lance Stroll,Aston Martin,Zandvoort,2021,Q,,12.0
+Lando Norris,McLaren,Zandvoort,2021,Q,,13.0
+Nicholas Latifi,Williams,Zandvoort,2021,Q,,14.0
+Yuki Tsunoda,AlphaTauri,Zandvoort,2021,Q,,15.0
+Sergio Perez,Red Bull Racing,Zandvoort,2021,Q,,16.0
+Sebastian Vettel,Aston Martin,Zandvoort,2021,Q,,17.0
+Robert Kubica,Alfa Romeo Racing,Zandvoort,2021,Q,,18.0
+Mick Schumacher,Haas F1 Team,Zandvoort,2021,Q,,19.0
+Nikita Mazepin,Haas F1 Team,Zandvoort,2021,Q,,20.0
+Max Verstappen,Red Bull Racing,Zandvoort,2021,R,1.0,1.0
+Lewis Hamilton,Mercedes,Zandvoort,2021,R,2.0,2.0
+Valtteri Bottas,Mercedes,Zandvoort,2021,R,3.0,3.0
+Pierre Gasly,AlphaTauri,Zandvoort,2021,R,4.0,4.0
+Charles Leclerc,Ferrari,Zandvoort,2021,R,5.0,5.0
+Fernando Alonso,Alpine,Zandvoort,2021,R,9.0,6.0
+Carlos Sainz,Ferrari,Zandvoort,2021,R,6.0,7.0
+Sergio Perez,Red Bull Racing,Zandvoort,2021,R,0.0,8.0
+Esteban Ocon,Alpine,Zandvoort,2021,R,8.0,9.0
+Lando Norris,McLaren,Zandvoort,2021,R,13.0,10.0
+Daniel Ricciardo,McLaren,Zandvoort,2021,R,10.0,11.0
+Lance Stroll,Aston Martin,Zandvoort,2021,R,12.0,12.0
+Sebastian Vettel,Aston Martin,Zandvoort,2021,R,15.0,13.0
+Antonio Giovinazzi,Alfa Romeo Racing,Zandvoort,2021,R,7.0,14.0
+Robert Kubica,Alfa Romeo Racing,Zandvoort,2021,R,16.0,15.0
+Nicholas Latifi,Williams,Zandvoort,2021,R,0.0,16.0
+George Russell,Williams,Zandvoort,2021,R,11.0,17.0
+Mick Schumacher,Haas F1 Team,Zandvoort,2021,R,17.0,18.0
+Yuki Tsunoda,AlphaTauri,Zandvoort,2021,R,14.0,19.0
+Nikita Mazepin,Haas F1 Team,Zandvoort,2021,R,18.0,20.0
+Valtteri Bottas,Mercedes,Monza,2021,Q,,1.0
+Lewis Hamilton,Mercedes,Monza,2021,Q,,2.0
+Max Verstappen,Red Bull Racing,Monza,2021,Q,,3.0
+Lando Norris,McLaren,Monza,2021,Q,,4.0
+Daniel Ricciardo,McLaren,Monza,2021,Q,,5.0
+Pierre Gasly,AlphaTauri,Monza,2021,Q,,6.0
+Carlos Sainz,Ferrari,Monza,2021,Q,,7.0
+Charles Leclerc,Ferrari,Monza,2021,Q,,8.0
+Sergio Perez,Red Bull Racing,Monza,2021,Q,,9.0
+Antonio Giovinazzi,Alfa Romeo Racing,Monza,2021,Q,,10.0
+Sebastian Vettel,Aston Martin,Monza,2021,Q,,11.0
+Lance Stroll,Aston Martin,Monza,2021,Q,,12.0
+Fernando Alonso,Alpine,Monza,2021,Q,,13.0
+Esteban Ocon,Alpine,Monza,2021,Q,,14.0
+George Russell,Williams,Monza,2021,Q,,15.0
+Nicholas Latifi,Williams,Monza,2021,Q,,16.0
+Yuki Tsunoda,AlphaTauri,Monza,2021,Q,,17.0
+Mick Schumacher,Haas F1 Team,Monza,2021,Q,,18.0
+Robert Kubica,Alfa Romeo Racing,Monza,2021,Q,,19.0
+Nikita Mazepin,Haas F1 Team,Monza,2021,Q,,20.0
+Daniel Ricciardo,McLaren,Monza,2021,R,2.0,1.0
+Lando Norris,McLaren,Monza,2021,R,3.0,2.0
+Valtteri Bottas,Mercedes,Monza,2021,R,19.0,3.0
+Charles Leclerc,Ferrari,Monza,2021,R,5.0,4.0
+Sergio Perez,Red Bull Racing,Monza,2021,R,8.0,5.0
+Carlos Sainz,Ferrari,Monza,2021,R,6.0,6.0
+Lance Stroll,Aston Martin,Monza,2021,R,9.0,7.0
+Fernando Alonso,Alpine,Monza,2021,R,10.0,8.0
+George Russell,Williams,Monza,2021,R,14.0,9.0
+Esteban Ocon,Alpine,Monza,2021,R,12.0,10.0
+Nicholas Latifi,Williams,Monza,2021,R,13.0,11.0
+Sebastian Vettel,Aston Martin,Monza,2021,R,11.0,12.0
+Antonio Giovinazzi,Alfa Romeo Racing,Monza,2021,R,7.0,13.0
+Robert Kubica,Alfa Romeo Racing,Monza,2021,R,17.0,14.0
+Mick Schumacher,Haas F1 Team,Monza,2021,R,18.0,15.0
+Nikita Mazepin,Haas F1 Team,Monza,2021,R,16.0,16.0
+Lewis Hamilton,Mercedes,Monza,2021,R,4.0,17.0
+Max Verstappen,Red Bull Racing,Monza,2021,R,1.0,18.0
+Pierre Gasly,AlphaTauri,Monza,2021,R,0.0,19.0
+Yuki Tsunoda,AlphaTauri,Monza,2021,R,0.0,20.0
+Lando Norris,McLaren,Sochi,2021,Q,,1.0
+Carlos Sainz,Ferrari,Sochi,2021,Q,,2.0
+George Russell,Williams,Sochi,2021,Q,,3.0
+Lewis Hamilton,Mercedes,Sochi,2021,Q,,4.0
+Daniel Ricciardo,McLaren,Sochi,2021,Q,,5.0
+Fernando Alonso,Alpine,Sochi,2021,Q,,6.0
+Valtteri Bottas,Mercedes,Sochi,2021,Q,,7.0
+Lance Stroll,Aston Martin,Sochi,2021,Q,,8.0
+Sergio Perez,Red Bull Racing,Sochi,2021,Q,,9.0
+Esteban Ocon,Alpine,Sochi,2021,Q,,10.0
+Sebastian Vettel,Aston Martin,Sochi,2021,Q,,11.0
+Pierre Gasly,AlphaTauri,Sochi,2021,Q,,12.0
+Yuki Tsunoda,AlphaTauri,Sochi,2021,Q,,13.0
+Nicholas Latifi,Williams,Sochi,2021,Q,,14.0
+Charles Leclerc,Ferrari,Sochi,2021,Q,,15.0
+Kimi Räikkönen,Alfa Romeo Racing,Sochi,2021,Q,,16.0
+Mick Schumacher,Haas F1 Team,Sochi,2021,Q,,17.0
+Antonio Giovinazzi,Alfa Romeo Racing,Sochi,2021,Q,,18.0
+Nikita Mazepin,Haas F1 Team,Sochi,2021,Q,,19.0
+Max Verstappen,Red Bull Racing,Sochi,2021,Q,,20.0
+Lewis Hamilton,Mercedes,Sochi,2021,R,4.0,1.0
+Max Verstappen,Red Bull Racing,Sochi,2021,R,20.0,2.0
+Carlos Sainz,Ferrari,Sochi,2021,R,2.0,3.0
+Daniel Ricciardo,McLaren,Sochi,2021,R,5.0,4.0
+Valtteri Bottas,Mercedes,Sochi,2021,R,16.0,5.0
+Fernando Alonso,Alpine,Sochi,2021,R,6.0,6.0
+Lando Norris,McLaren,Sochi,2021,R,1.0,7.0
+Kimi Räikkönen,Alfa Romeo Racing,Sochi,2021,R,13.0,8.0
+Sergio Perez,Red Bull Racing,Sochi,2021,R,8.0,9.0
+George Russell,Williams,Sochi,2021,R,3.0,10.0
+Lance Stroll,Aston Martin,Sochi,2021,R,7.0,11.0
+Sebastian Vettel,Aston Martin,Sochi,2021,R,10.0,12.0
+Pierre Gasly,AlphaTauri,Sochi,2021,R,11.0,13.0
+Esteban Ocon,Alpine,Sochi,2021,R,9.0,14.0
+Charles Leclerc,Ferrari,Sochi,2021,R,19.0,15.0
+Antonio Giovinazzi,Alfa Romeo Racing,Sochi,2021,R,17.0,16.0
+Yuki Tsunoda,AlphaTauri,Sochi,2021,R,12.0,17.0
+Nikita Mazepin,Haas F1 Team,Sochi,2021,R,15.0,18.0
+Nicholas Latifi,Williams,Sochi,2021,R,18.0,19.0
+Mick Schumacher,Haas F1 Team,Sochi,2021,R,14.0,20.0
+Lewis Hamilton,Mercedes,Istanbul,2021,Q,,1.0
+Valtteri Bottas,Mercedes,Istanbul,2021,Q,,2.0
+Max Verstappen,Red Bull Racing,Istanbul,2021,Q,,3.0
+Charles Leclerc,Ferrari,Istanbul,2021,Q,,4.0
+Pierre Gasly,AlphaTauri,Istanbul,2021,Q,,5.0
+Fernando Alonso,Alpine,Istanbul,2021,Q,,6.0
+Sergio Perez,Red Bull Racing,Istanbul,2021,Q,,7.0
+Lando Norris,McLaren,Istanbul,2021,Q,,8.0
+Lance Stroll,Aston Martin,Istanbul,2021,Q,,9.0
+Yuki Tsunoda,AlphaTauri,Istanbul,2021,Q,,10.0
+Sebastian Vettel,Aston Martin,Istanbul,2021,Q,,11.0
+Esteban Ocon,Alpine,Istanbul,2021,Q,,12.0
+George Russell,Williams,Istanbul,2021,Q,,13.0
+Mick Schumacher,Haas F1 Team,Istanbul,2021,Q,,14.0
+Carlos Sainz,Ferrari,Istanbul,2021,Q,,15.0
+Daniel Ricciardo,McLaren,Istanbul,2021,Q,,16.0
+Nicholas Latifi,Williams,Istanbul,2021,Q,,17.0
+Antonio Giovinazzi,Alfa Romeo Racing,Istanbul,2021,Q,,18.0
+Kimi Räikkönen,Alfa Romeo Racing,Istanbul,2021,Q,,19.0
+Nikita Mazepin,Haas F1 Team,Istanbul,2021,Q,,20.0
+Valtteri Bottas,Mercedes,Istanbul,2021,R,1.0,1.0
+Max Verstappen,Red Bull Racing,Istanbul,2021,R,2.0,2.0
+Sergio Perez,Red Bull Racing,Istanbul,2021,R,6.0,3.0
+Charles Leclerc,Ferrari,Istanbul,2021,R,3.0,4.0
+Lewis Hamilton,Mercedes,Istanbul,2021,R,11.0,5.0
+Pierre Gasly,AlphaTauri,Istanbul,2021,R,4.0,6.0
+Lando Norris,McLaren,Istanbul,2021,R,7.0,7.0
+Carlos Sainz,Ferrari,Istanbul,2021,R,19.0,8.0
+Lance Stroll,Aston Martin,Istanbul,2021,R,8.0,9.0
+Esteban Ocon,Alpine,Istanbul,2021,R,12.0,10.0
+Antonio Giovinazzi,Alfa Romeo Racing,Istanbul,2021,R,16.0,11.0
+Kimi Räikkönen,Alfa Romeo Racing,Istanbul,2021,R,17.0,12.0
+Daniel Ricciardo,McLaren,Istanbul,2021,R,20.0,13.0
+Yuki Tsunoda,AlphaTauri,Istanbul,2021,R,9.0,14.0
+George Russell,Williams,Istanbul,2021,R,13.0,15.0
+Fernando Alonso,Alpine,Istanbul,2021,R,5.0,16.0
+Nicholas Latifi,Williams,Istanbul,2021,R,15.0,17.0
+Sebastian Vettel,Aston Martin,Istanbul,2021,R,10.0,18.0
+Mick Schumacher,Haas F1 Team,Istanbul,2021,R,14.0,19.0
+Nikita Mazepin,Haas F1 Team,Istanbul,2021,R,18.0,20.0
+Max Verstappen,Red Bull Racing,Austin,2021,Q,,1.0
+Lewis Hamilton,Mercedes,Austin,2021,Q,,2.0
+Sergio Perez,Red Bull Racing,Austin,2021,Q,,3.0
+Valtteri Bottas,Mercedes,Austin,2021,Q,,4.0
+Charles Leclerc,Ferrari,Austin,2021,Q,,5.0
+Carlos Sainz,Ferrari,Austin,2021,Q,,6.0
+Daniel Ricciardo,McLaren,Austin,2021,Q,,7.0
+Lando Norris,McLaren,Austin,2021,Q,,8.0
+Pierre Gasly,AlphaTauri,Austin,2021,Q,,9.0
+Yuki Tsunoda,AlphaTauri,Austin,2021,Q,,10.0
+Esteban Ocon,Alpine,Austin,2021,Q,,11.0
+Sebastian Vettel,Aston Martin,Austin,2021,Q,,12.0
+Antonio Giovinazzi,Alfa Romeo Racing,Austin,2021,Q,,13.0
+Fernando Alonso,Alpine,Austin,2021,Q,,14.0
+George Russell,Williams,Austin,2021,Q,,15.0
+Lance Stroll,Aston Martin,Austin,2021,Q,,16.0
+Nicholas Latifi,Williams,Austin,2021,Q,,17.0
+Kimi Räikkönen,Alfa Romeo Racing,Austin,2021,Q,,18.0
+Mick Schumacher,Haas F1 Team,Austin,2021,Q,,19.0
+Nikita Mazepin,Haas F1 Team,Austin,2021,Q,,20.0
+Max Verstappen,Red Bull Racing,Austin,2021,R,1.0,1.0
+Lewis Hamilton,Mercedes,Austin,2021,R,2.0,2.0
+Sergio Perez,Red Bull Racing,Austin,2021,R,3.0,3.0
+Charles Leclerc,Ferrari,Austin,2021,R,4.0,4.0
+Daniel Ricciardo,McLaren,Austin,2021,R,6.0,5.0
+Valtteri Bottas,Mercedes,Austin,2021,R,9.0,6.0
+Carlos Sainz,Ferrari,Austin,2021,R,5.0,7.0
+Lando Norris,McLaren,Austin,2021,R,7.0,8.0
+Yuki Tsunoda,AlphaTauri,Austin,2021,R,10.0,9.0
+Sebastian Vettel,Aston Martin,Austin,2021,R,18.0,10.0
+Antonio Giovinazzi,Alfa Romeo Racing,Austin,2021,R,12.0,11.0
+Lance Stroll,Aston Martin,Austin,2021,R,13.0,12.0
+Kimi Räikkönen,Alfa Romeo Racing,Austin,2021,R,15.0,13.0
+George Russell,Williams,Austin,2021,R,20.0,14.0
+Nicholas Latifi,Williams,Austin,2021,R,14.0,15.0
+Mick Schumacher,Haas F1 Team,Austin,2021,R,16.0,16.0
+Nikita Mazepin,Haas F1 Team,Austin,2021,R,17.0,17.0
+Fernando Alonso,Alpine,Austin,2021,R,19.0,18.0
+Esteban Ocon,Alpine,Austin,2021,R,11.0,19.0
+Pierre Gasly,AlphaTauri,Austin,2021,R,8.0,20.0
+Valtteri Bottas,Mercedes,Mexico City,2021,Q,,1.0
+Lewis Hamilton,Mercedes,Mexico City,2021,Q,,2.0
+Max Verstappen,Red Bull Racing,Mexico City,2021,Q,,3.0
+Sergio Perez,Red Bull Racing,Mexico City,2021,Q,,4.0
+Pierre Gasly,AlphaTauri,Mexico City,2021,Q,,5.0
+Carlos Sainz,Ferrari,Mexico City,2021,Q,,6.0
+Daniel Ricciardo,McLaren,Mexico City,2021,Q,,7.0
+Charles Leclerc,Ferrari,Mexico City,2021,Q,,8.0
+Yuki Tsunoda,AlphaTauri,Mexico City,2021,Q,,9.0
+Lando Norris,McLaren,Mexico City,2021,Q,,10.0
+Sebastian Vettel,Aston Martin,Mexico City,2021,Q,,11.0
+Kimi Räikkönen,Alfa Romeo Racing,Mexico City,2021,Q,,12.0
+George Russell,Williams,Mexico City,2021,Q,,13.0
+Antonio Giovinazzi,Alfa Romeo Racing,Mexico City,2021,Q,,14.0
+Esteban Ocon,Alpine,Mexico City,2021,Q,,15.0
+Fernando Alonso,Alpine,Mexico City,2021,Q,,16.0
+Nicholas Latifi,Williams,Mexico City,2021,Q,,17.0
+Mick Schumacher,Haas F1 Team,Mexico City,2021,Q,,18.0
+Nikita Mazepin,Haas F1 Team,Mexico City,2021,Q,,19.0
+Lance Stroll,Aston Martin,Mexico City,2021,Q,,20.0
+Max Verstappen,Red Bull Racing,Mexico City,2021,R,3.0,1.0
+Lewis Hamilton,Mercedes,Mexico City,2021,R,2.0,2.0
+Sergio Perez,Red Bull Racing,Mexico City,2021,R,4.0,3.0
+Pierre Gasly,AlphaTauri,Mexico City,2021,R,5.0,4.0
+Charles Leclerc,Ferrari,Mexico City,2021,R,8.0,5.0
+Carlos Sainz,Ferrari,Mexico City,2021,R,6.0,6.0
+Sebastian Vettel,Aston Martin,Mexico City,2021,R,9.0,7.0
+Kimi Räikkönen,Alfa Romeo Racing,Mexico City,2021,R,10.0,8.0
+Fernando Alonso,Alpine,Mexico City,2021,R,12.0,9.0
+Lando Norris,McLaren,Mexico City,2021,R,18.0,10.0
+Antonio Giovinazzi,Alfa Romeo Racing,Mexico City,2021,R,11.0,11.0
+Daniel Ricciardo,McLaren,Mexico City,2021,R,7.0,12.0
+Esteban Ocon,Alpine,Mexico City,2021,R,19.0,13.0
+Lance Stroll,Aston Martin,Mexico City,2021,R,20.0,14.0
+Valtteri Bottas,Mercedes,Mexico City,2021,R,1.0,15.0
+George Russell,Williams,Mexico City,2021,R,16.0,16.0
+Nicholas Latifi,Williams,Mexico City,2021,R,13.0,17.0
+Nikita Mazepin,Haas F1 Team,Mexico City,2021,R,15.0,18.0
+Mick Schumacher,Haas F1 Team,Mexico City,2021,R,14.0,19.0
+Yuki Tsunoda,AlphaTauri,Mexico City,2021,R,17.0,20.0
+Lewis Hamilton,Mercedes,São Paulo,2021,Q,,1.0
+Max Verstappen,Red Bull Racing,São Paulo,2021,Q,,2.0
+Valtteri Bottas,Mercedes,São Paulo,2021,Q,,3.0
+Sergio Perez,Red Bull Racing,São Paulo,2021,Q,,4.0
+Pierre Gasly,AlphaTauri,São Paulo,2021,Q,,5.0
+Carlos Sainz,Ferrari,São Paulo,2021,Q,,6.0
+Charles Leclerc,Ferrari,São Paulo,2021,Q,,7.0
+Lando Norris,McLaren,São Paulo,2021,Q,,8.0
+Daniel Ricciardo,McLaren,São Paulo,2021,Q,,9.0
+Fernando Alonso,Alpine,São Paulo,2021,Q,,10.0
+Esteban Ocon,Alpine,São Paulo,2021,Q,,11.0
+Sebastian Vettel,Aston Martin,São Paulo,2021,Q,,12.0
+Yuki Tsunoda,AlphaTauri,São Paulo,2021,Q,,13.0
+Kimi Räikkönen,Alfa Romeo Racing,São Paulo,2021,Q,,14.0
+Antonio Giovinazzi,Alfa Romeo Racing,São Paulo,2021,Q,,15.0
+Lance Stroll,Aston Martin,São Paulo,2021,Q,,16.0
+Nicholas Latifi,Williams,São Paulo,2021,Q,,17.0
+George Russell,Williams,São Paulo,2021,Q,,18.0
+Mick Schumacher,Haas F1 Team,São Paulo,2021,Q,,19.0
+Nikita Mazepin,Haas F1 Team,São Paulo,2021,Q,,20.0
+Lewis Hamilton,Mercedes,São Paulo,2021,R,10.0,1.0
+Max Verstappen,Red Bull Racing,São Paulo,2021,R,2.0,2.0
+Valtteri Bottas,Mercedes,São Paulo,2021,R,1.0,3.0
+Sergio Perez,Red Bull Racing,São Paulo,2021,R,4.0,4.0
+Charles Leclerc,Ferrari,São Paulo,2021,R,6.0,5.0
+Carlos Sainz,Ferrari,São Paulo,2021,R,3.0,6.0
+Pierre Gasly,AlphaTauri,São Paulo,2021,R,7.0,7.0
+Esteban Ocon,Alpine,São Paulo,2021,R,8.0,8.0
+Fernando Alonso,Alpine,São Paulo,2021,R,12.0,9.0
+Lando Norris,McLaren,São Paulo,2021,R,5.0,10.0
+Sebastian Vettel,Aston Martin,São Paulo,2021,R,9.0,11.0
+Kimi Räikkönen,Alfa Romeo Racing,São Paulo,2021,R,0.0,12.0
+George Russell,Williams,São Paulo,2021,R,17.0,13.0
+Antonio Giovinazzi,Alfa Romeo Racing,São Paulo,2021,R,13.0,14.0
+Yuki Tsunoda,AlphaTauri,São Paulo,2021,R,15.0,15.0
+Nicholas Latifi,Williams,São Paulo,2021,R,16.0,16.0
+Nikita Mazepin,Haas F1 Team,São Paulo,2021,R,19.0,17.0
+Mick Schumacher,Haas F1 Team,São Paulo,2021,R,18.0,18.0
+Daniel Ricciardo,McLaren,São Paulo,2021,R,11.0,19.0
+Lance Stroll,Aston Martin,São Paulo,2021,R,14.0,20.0
+Lewis Hamilton,Mercedes,Lusail,2021,Q,,1.0
+Max Verstappen,Red Bull Racing,Lusail,2021,Q,,2.0
+Valtteri Bottas,Mercedes,Lusail,2021,Q,,3.0
+Pierre Gasly,AlphaTauri,Lusail,2021,Q,,4.0
+Fernando Alonso,Alpine,Lusail,2021,Q,,5.0
+Lando Norris,McLaren,Lusail,2021,Q,,6.0
+Carlos Sainz,Ferrari,Lusail,2021,Q,,7.0
+Yuki Tsunoda,AlphaTauri,Lusail,2021,Q,,8.0
+Esteban Ocon,Alpine,Lusail,2021,Q,,9.0
+Sebastian Vettel,Aston Martin,Lusail,2021,Q,,10.0
+Sergio Perez,Red Bull Racing,Lusail,2021,Q,,11.0
+Lance Stroll,Aston Martin,Lusail,2021,Q,,12.0
+Charles Leclerc,Ferrari,Lusail,2021,Q,,13.0
+Daniel Ricciardo,McLaren,Lusail,2021,Q,,14.0
+George Russell,Williams,Lusail,2021,Q,,15.0
+Kimi Räikkönen,Alfa Romeo Racing,Lusail,2021,Q,,16.0
+Nicholas Latifi,Williams,Lusail,2021,Q,,17.0
+Antonio Giovinazzi,Alfa Romeo Racing,Lusail,2021,Q,,18.0
+Mick Schumacher,Haas F1 Team,Lusail,2021,Q,,19.0
+Nikita Mazepin,Haas F1 Team,Lusail,2021,Q,,20.0
+Lewis Hamilton,Mercedes,Lusail,2021,R,1.0,1.0
+Max Verstappen,Red Bull Racing,Lusail,2021,R,7.0,2.0
+Fernando Alonso,Alpine,Lusail,2021,R,3.0,3.0
+Sergio Perez,Red Bull Racing,Lusail,2021,R,11.0,4.0
+Esteban Ocon,Alpine,Lusail,2021,R,9.0,5.0
+Lance Stroll,Aston Martin,Lusail,2021,R,12.0,6.0
+Carlos Sainz,Ferrari,Lusail,2021,R,5.0,7.0
+Charles Leclerc,Ferrari,Lusail,2021,R,13.0,8.0
+Lando Norris,McLaren,Lusail,2021,R,4.0,9.0
+Sebastian Vettel,Aston Martin,Lusail,2021,R,10.0,10.0
+Pierre Gasly,AlphaTauri,Lusail,2021,R,2.0,11.0
+Daniel Ricciardo,McLaren,Lusail,2021,R,14.0,12.0
+Yuki Tsunoda,AlphaTauri,Lusail,2021,R,8.0,13.0
+Kimi Räikkönen,Alfa Romeo Racing,Lusail,2021,R,16.0,14.0
+Antonio Giovinazzi,Alfa Romeo Racing,Lusail,2021,R,18.0,15.0
+Mick Schumacher,Haas F1 Team,Lusail,2021,R,19.0,16.0
+George Russell,Williams,Lusail,2021,R,15.0,17.0
+Nikita Mazepin,Haas F1 Team,Lusail,2021,R,20.0,18.0
+Nicholas Latifi,Williams,Lusail,2021,R,17.0,19.0
+Valtteri Bottas,Mercedes,Lusail,2021,R,6.0,20.0
+Lewis Hamilton,Mercedes,Jeddah,2021,Q,,1.0
+Valtteri Bottas,Mercedes,Jeddah,2021,Q,,2.0
+Max Verstappen,Red Bull Racing,Jeddah,2021,Q,,3.0
+Charles Leclerc,Ferrari,Jeddah,2021,Q,,4.0
+Sergio Perez,Red Bull Racing,Jeddah,2021,Q,,5.0
+Pierre Gasly,AlphaTauri,Jeddah,2021,Q,,6.0
+Lando Norris,McLaren,Jeddah,2021,Q,,7.0
+Yuki Tsunoda,AlphaTauri,Jeddah,2021,Q,,8.0
+Esteban Ocon,Alpine,Jeddah,2021,Q,,9.0
+Antonio Giovinazzi,Alfa Romeo Racing,Jeddah,2021,Q,,10.0
+Daniel Ricciardo,McLaren,Jeddah,2021,Q,,11.0
+Kimi Räikkönen,Alfa Romeo Racing,Jeddah,2021,Q,,12.0
+Fernando Alonso,Alpine,Jeddah,2021,Q,,13.0
+George Russell,Williams,Jeddah,2021,Q,,14.0
+Carlos Sainz,Ferrari,Jeddah,2021,Q,,15.0
+Nicholas Latifi,Williams,Jeddah,2021,Q,,16.0
+Sebastian Vettel,Aston Martin,Jeddah,2021,Q,,17.0
+Lance Stroll,Aston Martin,Jeddah,2021,Q,,18.0
+Mick Schumacher,Haas F1 Team,Jeddah,2021,Q,,19.0
+Nikita Mazepin,Haas F1 Team,Jeddah,2021,Q,,20.0
+Lewis Hamilton,Mercedes,Jeddah,2021,R,1.0,1.0
+Max Verstappen,Red Bull Racing,Jeddah,2021,R,3.0,2.0
+Valtteri Bottas,Mercedes,Jeddah,2021,R,2.0,3.0
+Esteban Ocon,Alpine,Jeddah,2021,R,9.0,4.0
+Daniel Ricciardo,McLaren,Jeddah,2021,R,11.0,5.0
+Pierre Gasly,AlphaTauri,Jeddah,2021,R,6.0,6.0
+Charles Leclerc,Ferrari,Jeddah,2021,R,4.0,7.0
+Carlos Sainz,Ferrari,Jeddah,2021,R,15.0,8.0
+Antonio Giovinazzi,Alfa Romeo Racing,Jeddah,2021,R,10.0,9.0
+Lando Norris,McLaren,Jeddah,2021,R,7.0,10.0
+Lance Stroll,Aston Martin,Jeddah,2021,R,18.0,11.0
+Nicholas Latifi,Williams,Jeddah,2021,R,16.0,12.0
+Fernando Alonso,Alpine,Jeddah,2021,R,13.0,13.0
+Yuki Tsunoda,AlphaTauri,Jeddah,2021,R,8.0,14.0
+Kimi Räikkönen,Alfa Romeo Racing,Jeddah,2021,R,12.0,15.0
+Sebastian Vettel,Aston Martin,Jeddah,2021,R,17.0,16.0
+Sergio Perez,Red Bull Racing,Jeddah,2021,R,5.0,17.0
+Nikita Mazepin,Haas F1 Team,Jeddah,2021,R,20.0,18.0
+George Russell,Williams,Jeddah,2021,R,14.0,19.0
+Mick Schumacher,Haas F1 Team,Jeddah,2021,R,19.0,20.0
+Max Verstappen,Red Bull Racing,Yas Island,2021,Q,,1.0
+Lewis Hamilton,Mercedes,Yas Island,2021,Q,,2.0
+Lando Norris,McLaren,Yas Island,2021,Q,,3.0
+Sergio Perez,Red Bull Racing,Yas Island,2021,Q,,4.0
+Carlos Sainz,Ferrari,Yas Island,2021,Q,,5.0
+Valtteri Bottas,Mercedes,Yas Island,2021,Q,,6.0
+Charles Leclerc,Ferrari,Yas Island,2021,Q,,7.0
+Yuki Tsunoda,AlphaTauri,Yas Island,2021,Q,,8.0
+Esteban Ocon,Alpine,Yas Island,2021,Q,,9.0
+Daniel Ricciardo,McLaren,Yas Island,2021,Q,,10.0
+Fernando Alonso,Alpine,Yas Island,2021,Q,,11.0
+Pierre Gasly,AlphaTauri,Yas Island,2021,Q,,12.0
+Lance Stroll,Aston Martin,Yas Island,2021,Q,,13.0
+Antonio Giovinazzi,Alfa Romeo Racing,Yas Island,2021,Q,,14.0
+Sebastian Vettel,Aston Martin,Yas Island,2021,Q,,15.0
+Nicholas Latifi,Williams,Yas Island,2021,Q,,16.0
+George Russell,Williams,Yas Island,2021,Q,,17.0
+Kimi Räikkönen,Alfa Romeo Racing,Yas Island,2021,Q,,18.0
+Mick Schumacher,Haas F1 Team,Yas Island,2021,Q,,19.0
+Nikita Mazepin,Haas F1 Team,Yas Island,2021,Q,,20.0
+Max Verstappen,Red Bull Racing,Yas Island,2021,R,1.0,1.0
+Lewis Hamilton,Mercedes,Yas Island,2021,R,2.0,2.0
+Carlos Sainz,Ferrari,Yas Island,2021,R,5.0,3.0
+Yuki Tsunoda,AlphaTauri,Yas Island,2021,R,8.0,4.0
+Pierre Gasly,AlphaTauri,Yas Island,2021,R,12.0,5.0
+Valtteri Bottas,Mercedes,Yas Island,2021,R,6.0,6.0
+Lando Norris,McLaren,Yas Island,2021,R,3.0,7.0
+Fernando Alonso,Alpine,Yas Island,2021,R,11.0,8.0
+Esteban Ocon,Alpine,Yas Island,2021,R,9.0,9.0
+Charles Leclerc,Ferrari,Yas Island,2021,R,7.0,10.0
+Sebastian Vettel,Aston Martin,Yas Island,2021,R,15.0,11.0
+Daniel Ricciardo,McLaren,Yas Island,2021,R,10.0,12.0
+Lance Stroll,Aston Martin,Yas Island,2021,R,13.0,13.0
+Mick Schumacher,Haas F1 Team,Yas Island,2021,R,19.0,14.0
+Sergio Perez,Red Bull Racing,Yas Island,2021,R,4.0,15.0
+Nicholas Latifi,Williams,Yas Island,2021,R,16.0,16.0
+Antonio Giovinazzi,Alfa Romeo Racing,Yas Island,2021,R,14.0,17.0
+George Russell,Williams,Yas Island,2021,R,17.0,18.0
+Kimi Räikkönen,Alfa Romeo Racing,Yas Island,2021,R,18.0,19.0
+Nikita Mazepin,Haas F1 Team,Yas Island,2021,R,,
+Charles Leclerc,Ferrari,Spain,2022,Q,,1.0
+Max Verstappen,Red Bull Racing,Spain,2022,Q,,2.0
+Carlos Sainz,Ferrari,Spain,2022,Q,,3.0
+George Russell,Mercedes,Spain,2022,Q,,4.0
+Sergio Perez,Red Bull Racing,Spain,2022,Q,,5.0
+Lewis Hamilton,Mercedes,Spain,2022,Q,,6.0
+Valtteri Bottas,Alfa Romeo,Spain,2022,Q,,7.0
+Kevin Magnussen,Haas F1 Team,Spain,2022,Q,,8.0
+Daniel Ricciardo,McLaren,Spain,2022,Q,,9.0
+Mick Schumacher,Haas F1 Team,Spain,2022,Q,,10.0
+Lando Norris,McLaren,Spain,2022,Q,,11.0
+Esteban Ocon,Alpine,Spain,2022,Q,,12.0
+Yuki Tsunoda,AlphaTauri,Spain,2022,Q,,13.0
+Pierre Gasly,AlphaTauri,Spain,2022,Q,,14.0
+Guanyu Zhou,Alfa Romeo,Spain,2022,Q,,15.0
+Sebastian Vettel,Aston Martin,Spain,2022,Q,,16.0
+Fernando Alonso,Alpine,Spain,2022,Q,,17.0
+Lance Stroll,Aston Martin,Spain,2022,Q,,18.0
+Alexander Albon,Williams,Spain,2022,Q,,19.0
+Nicholas Latifi,Williams,Spain,2022,Q,,20.0
+Max Verstappen,Red Bull Racing,Spain,2022,R,2.0,1.0
+Sergio Perez,Red Bull Racing,Spain,2022,R,5.0,2.0
+George Russell,Mercedes,Spain,2022,R,4.0,3.0
+Carlos Sainz,Ferrari,Spain,2022,R,3.0,4.0
+Lewis Hamilton,Mercedes,Spain,2022,R,6.0,5.0
+Valtteri Bottas,Alfa Romeo,Spain,2022,R,7.0,6.0
+Esteban Ocon,Alpine,Spain,2022,R,12.0,7.0
+Lando Norris,McLaren,Spain,2022,R,11.0,8.0
+Fernando Alonso,Alpine,Spain,2022,R,20.0,9.0
+Yuki Tsunoda,AlphaTauri,Spain,2022,R,13.0,10.0
+Sebastian Vettel,Aston Martin,Spain,2022,R,16.0,11.0
+Daniel Ricciardo,McLaren,Spain,2022,R,9.0,12.0
+Pierre Gasly,AlphaTauri,Spain,2022,R,14.0,13.0
+Mick Schumacher,Haas F1 Team,Spain,2022,R,10.0,14.0
+Lance Stroll,Aston Martin,Spain,2022,R,17.0,15.0
+Nicholas Latifi,Williams,Spain,2022,R,19.0,16.0
+Kevin Magnussen,Haas F1 Team,Spain,2022,R,8.0,17.0
+Alexander Albon,Williams,Spain,2022,R,18.0,18.0
+Guanyu Zhou,Alfa Romeo,Spain,2022,R,15.0,19.0
+Charles Leclerc,Ferrari,Spain,2022,R,1.0,20.0
+Charles Leclerc,Ferrari,Bahrain,2022,Q,,1.0
+Max Verstappen,Red Bull Racing,Bahrain,2022,Q,,2.0
+Carlos Sainz,Ferrari,Bahrain,2022,Q,,3.0
+Sergio Perez,Red Bull Racing,Bahrain,2022,Q,,4.0
+Lewis Hamilton,Mercedes,Bahrain,2022,Q,,5.0
+Valtteri Bottas,Alfa Romeo,Bahrain,2022,Q,,6.0
+Kevin Magnussen,Haas F1 Team,Bahrain,2022,Q,,7.0
+Fernando Alonso,Alpine,Bahrain,2022,Q,,8.0
+George Russell,Mercedes,Bahrain,2022,Q,,9.0
+Pierre Gasly,AlphaTauri,Bahrain,2022,Q,,10.0
+Esteban Ocon,Alpine,Bahrain,2022,Q,,11.0
+Mick Schumacher,Haas F1 Team,Bahrain,2022,Q,,12.0
+Lando Norris,McLaren,Bahrain,2022,Q,,13.0
+Alexander Albon,Williams,Bahrain,2022,Q,,14.0
+Guanyu Zhou,Alfa Romeo,Bahrain,2022,Q,,15.0
+Yuki Tsunoda,AlphaTauri,Bahrain,2022,Q,,16.0
+Nico Hulkenberg,Aston Martin,Bahrain,2022,Q,,17.0
+Daniel Ricciardo,McLaren,Bahrain,2022,Q,,18.0
+Lance Stroll,Aston Martin,Bahrain,2022,Q,,19.0
+Nicholas Latifi,Williams,Bahrain,2022,Q,,20.0
+Charles Leclerc,Ferrari,Bahrain,2022,R,1.0,1.0
+Carlos Sainz,Ferrari,Bahrain,2022,R,3.0,2.0
+Lewis Hamilton,Mercedes,Bahrain,2022,R,5.0,3.0
+George Russell,Mercedes,Bahrain,2022,R,9.0,4.0
+Kevin Magnussen,Haas F1 Team,Bahrain,2022,R,7.0,5.0
+Valtteri Bottas,Alfa Romeo,Bahrain,2022,R,6.0,6.0
+Esteban Ocon,Alpine,Bahrain,2022,R,11.0,7.0
+Yuki Tsunoda,AlphaTauri,Bahrain,2022,R,16.0,8.0
+Fernando Alonso,Alpine,Bahrain,2022,R,8.0,9.0
+Guanyu Zhou,Alfa Romeo,Bahrain,2022,R,15.0,10.0
+Mick Schumacher,Haas F1 Team,Bahrain,2022,R,12.0,11.0
+Lance Stroll,Aston Martin,Bahrain,2022,R,19.0,12.0
+Alexander Albon,Williams,Bahrain,2022,R,14.0,13.0
+Daniel Ricciardo,McLaren,Bahrain,2022,R,18.0,14.0
+Lando Norris,McLaren,Bahrain,2022,R,13.0,15.0
+Nicholas Latifi,Williams,Bahrain,2022,R,20.0,16.0
+Nico Hulkenberg,Aston Martin,Bahrain,2022,R,17.0,17.0
+Sergio Perez,Red Bull Racing,Bahrain,2022,R,4.0,18.0
+Max Verstappen,Red Bull Racing,Bahrain,2022,R,2.0,19.0
+Pierre Gasly,AlphaTauri,Bahrain,2022,R,10.0,20.0
+Charles Leclerc,Ferrari,Sakhir,2022,Q,,1.0
+Max Verstappen,Red Bull Racing,Sakhir,2022,Q,,2.0
+Carlos Sainz,Ferrari,Sakhir,2022,Q,,3.0
+Sergio Perez,Red Bull Racing,Sakhir,2022,Q,,4.0
+Lewis Hamilton,Mercedes,Sakhir,2022,Q,,5.0
+Valtteri Bottas,Alfa Romeo,Sakhir,2022,Q,,6.0
+Kevin Magnussen,Haas F1 Team,Sakhir,2022,Q,,7.0
+Fernando Alonso,Alpine,Sakhir,2022,Q,,8.0
+George Russell,Mercedes,Sakhir,2022,Q,,9.0
+Pierre Gasly,AlphaTauri,Sakhir,2022,Q,,10.0
+Esteban Ocon,Alpine,Sakhir,2022,Q,,11.0
+Mick Schumacher,Haas F1 Team,Sakhir,2022,Q,,12.0
+Lando Norris,McLaren,Sakhir,2022,Q,,13.0
+Alexander Albon,Williams,Sakhir,2022,Q,,14.0
+Guanyu Zhou,Alfa Romeo,Sakhir,2022,Q,,15.0
+Yuki Tsunoda,AlphaTauri,Sakhir,2022,Q,,16.0
+Nico Hulkenberg,Aston Martin,Sakhir,2022,Q,,17.0
+Daniel Ricciardo,McLaren,Sakhir,2022,Q,,18.0
+Lance Stroll,Aston Martin,Sakhir,2022,Q,,19.0
+Nicholas Latifi,Williams,Sakhir,2022,Q,,20.0
+Charles Leclerc,Ferrari,Sakhir,2022,R,1.0,1.0
+Carlos Sainz,Ferrari,Sakhir,2022,R,3.0,2.0
+Lewis Hamilton,Mercedes,Sakhir,2022,R,5.0,3.0
+George Russell,Mercedes,Sakhir,2022,R,9.0,4.0
+Kevin Magnussen,Haas F1 Team,Sakhir,2022,R,7.0,5.0
+Valtteri Bottas,Alfa Romeo,Sakhir,2022,R,6.0,6.0
+Esteban Ocon,Alpine,Sakhir,2022,R,11.0,7.0
+Yuki Tsunoda,AlphaTauri,Sakhir,2022,R,16.0,8.0
+Fernando Alonso,Alpine,Sakhir,2022,R,8.0,9.0
+Guanyu Zhou,Alfa Romeo,Sakhir,2022,R,15.0,10.0
+Mick Schumacher,Haas F1 Team,Sakhir,2022,R,12.0,11.0
+Lance Stroll,Aston Martin,Sakhir,2022,R,19.0,12.0
+Alexander Albon,Williams,Sakhir,2022,R,14.0,13.0
+Daniel Ricciardo,McLaren,Sakhir,2022,R,18.0,14.0
+Lando Norris,McLaren,Sakhir,2022,R,13.0,15.0
+Nicholas Latifi,Williams,Sakhir,2022,R,20.0,16.0
+Nico Hulkenberg,Aston Martin,Sakhir,2022,R,17.0,17.0
+Sergio Perez,Red Bull Racing,Sakhir,2022,R,4.0,18.0
+Max Verstappen,Red Bull Racing,Sakhir,2022,R,2.0,19.0
+Pierre Gasly,AlphaTauri,Sakhir,2022,R,10.0,20.0
+Sergio Perez,Red Bull Racing,Jeddah,2022,Q,,1.0
+Charles Leclerc,Ferrari,Jeddah,2022,Q,,2.0
+Carlos Sainz,Ferrari,Jeddah,2022,Q,,3.0
+Max Verstappen,Red Bull Racing,Jeddah,2022,Q,,4.0
+Esteban Ocon,Alpine,Jeddah,2022,Q,,5.0
+George Russell,Mercedes,Jeddah,2022,Q,,6.0
+Fernando Alonso,Alpine,Jeddah,2022,Q,,7.0
+Valtteri Bottas,Alfa Romeo,Jeddah,2022,Q,,8.0
+Pierre Gasly,AlphaTauri,Jeddah,2022,Q,,9.0
+Kevin Magnussen,Haas F1 Team,Jeddah,2022,Q,,10.0
+Lando Norris,McLaren,Jeddah,2022,Q,,11.0
+Daniel Ricciardo,McLaren,Jeddah,2022,Q,,12.0
+Guanyu Zhou,Alfa Romeo,Jeddah,2022,Q,,13.0
+Mick Schumacher,Haas F1 Team,Jeddah,2022,Q,,14.0
+Lance Stroll,Aston Martin,Jeddah,2022,Q,,15.0
+Lewis Hamilton,Mercedes,Jeddah,2022,Q,,16.0
+Alexander Albon,Williams,Jeddah,2022,Q,,17.0
+Nico Hulkenberg,Aston Martin,Jeddah,2022,Q,,18.0
+Nicholas Latifi,Williams,Jeddah,2022,Q,,19.0
+Yuki Tsunoda,AlphaTauri,Jeddah,2022,Q,,20.0
+Max Verstappen,Red Bull Racing,Jeddah,2022,R,4.0,1.0
+Charles Leclerc,Ferrari,Jeddah,2022,R,2.0,2.0
+Carlos Sainz,Ferrari,Jeddah,2022,R,3.0,3.0
+Sergio Perez,Red Bull Racing,Jeddah,2022,R,1.0,4.0
+George Russell,Mercedes,Jeddah,2022,R,6.0,5.0
+Esteban Ocon,Alpine,Jeddah,2022,R,5.0,6.0
+Lando Norris,McLaren,Jeddah,2022,R,11.0,7.0
+Pierre Gasly,AlphaTauri,Jeddah,2022,R,9.0,8.0
+Kevin Magnussen,Haas F1 Team,Jeddah,2022,R,10.0,9.0
+Lewis Hamilton,Mercedes,Jeddah,2022,R,15.0,10.0
+Guanyu Zhou,Alfa Romeo,Jeddah,2022,R,12.0,11.0
+Nico Hulkenberg,Aston Martin,Jeddah,2022,R,17.0,12.0
+Lance Stroll,Aston Martin,Jeddah,2022,R,13.0,13.0
+Alexander Albon,Williams,Jeddah,2022,R,16.0,14.0
+Valtteri Bottas,Alfa Romeo,Jeddah,2022,R,8.0,15.0
+Fernando Alonso,Alpine,Jeddah,2022,R,7.0,16.0
+Daniel Ricciardo,McLaren,Jeddah,2022,R,14.0,17.0
+Nicholas Latifi,Williams,Jeddah,2022,R,18.0,18.0
+Yuki Tsunoda,AlphaTauri,Jeddah,2022,R,19.0,19.0
+Mick Schumacher,Haas F1 Team,Jeddah,2022,R,,
+Charles Leclerc,Ferrari,Melbourne,2022,Q,,1.0
+Max Verstappen,Red Bull Racing,Melbourne,2022,Q,,2.0
+Sergio Perez,Red Bull Racing,Melbourne,2022,Q,,3.0
+Lando Norris,McLaren,Melbourne,2022,Q,,4.0
+Lewis Hamilton,Mercedes,Melbourne,2022,Q,,5.0
+George Russell,Mercedes,Melbourne,2022,Q,,6.0
+Daniel Ricciardo,McLaren,Melbourne,2022,Q,,7.0
+Esteban Ocon,Alpine,Melbourne,2022,Q,,8.0
+Carlos Sainz,Ferrari,Melbourne,2022,Q,,9.0
+Fernando Alonso,Alpine,Melbourne,2022,Q,,10.0
+Pierre Gasly,AlphaTauri,Melbourne,2022,Q,,11.0
+Valtteri Bottas,Alfa Romeo,Melbourne,2022,Q,,12.0
+Yuki Tsunoda,AlphaTauri,Melbourne,2022,Q,,13.0
+Guanyu Zhou,Alfa Romeo,Melbourne,2022,Q,,14.0
+Mick Schumacher,Haas F1 Team,Melbourne,2022,Q,,15.0
+Alexander Albon,Williams,Melbourne,2022,Q,,16.0
+Kevin Magnussen,Haas F1 Team,Melbourne,2022,Q,,17.0
+Sebastian Vettel,Aston Martin,Melbourne,2022,Q,,18.0
+Nicholas Latifi,Williams,Melbourne,2022,Q,,19.0
+Lance Stroll,Aston Martin,Melbourne,2022,Q,,20.0
+Charles Leclerc,Ferrari,Melbourne,2022,R,1.0,1.0
+Sergio Perez,Red Bull Racing,Melbourne,2022,R,3.0,2.0
+George Russell,Mercedes,Melbourne,2022,R,6.0,3.0
+Lewis Hamilton,Mercedes,Melbourne,2022,R,5.0,4.0
+Lando Norris,McLaren,Melbourne,2022,R,4.0,5.0
+Daniel Ricciardo,McLaren,Melbourne,2022,R,7.0,6.0
+Esteban Ocon,Alpine,Melbourne,2022,R,8.0,7.0
+Valtteri Bottas,Alfa Romeo,Melbourne,2022,R,12.0,8.0
+Pierre Gasly,AlphaTauri,Melbourne,2022,R,11.0,9.0
+Alexander Albon,Williams,Melbourne,2022,R,20.0,10.0
+Guanyu Zhou,Alfa Romeo,Melbourne,2022,R,14.0,11.0
+Lance Stroll,Aston Martin,Melbourne,2022,R,19.0,12.0
+Mick Schumacher,Haas F1 Team,Melbourne,2022,R,15.0,13.0
+Kevin Magnussen,Haas F1 Team,Melbourne,2022,R,16.0,14.0
+Yuki Tsunoda,AlphaTauri,Melbourne,2022,R,13.0,15.0
+Nicholas Latifi,Williams,Melbourne,2022,R,18.0,16.0
+Fernando Alonso,Alpine,Melbourne,2022,R,10.0,17.0
+Max Verstappen,Red Bull Racing,Melbourne,2022,R,2.0,18.0
+Sebastian Vettel,Aston Martin,Melbourne,2022,R,17.0,19.0
+Carlos Sainz,Ferrari,Melbourne,2022,R,9.0,20.0
+Max Verstappen,Red Bull Racing,Imola,2022,Q,,1.0
+Charles Leclerc,Ferrari,Imola,2022,Q,,2.0
+Lando Norris,McLaren,Imola,2022,Q,,3.0
+Kevin Magnussen,Haas F1 Team,Imola,2022,Q,,4.0
+Fernando Alonso,Alpine,Imola,2022,Q,,5.0
+Daniel Ricciardo,McLaren,Imola,2022,Q,,6.0
+Sergio Perez,Red Bull Racing,Imola,2022,Q,,7.0
+Valtteri Bottas,Alfa Romeo,Imola,2022,Q,,8.0
+Sebastian Vettel,Aston Martin,Imola,2022,Q,,9.0
+Carlos Sainz,Ferrari,Imola,2022,Q,,10.0
+George Russell,Mercedes,Imola,2022,Q,,11.0
+Mick Schumacher,Haas F1 Team,Imola,2022,Q,,12.0
+Lewis Hamilton,Mercedes,Imola,2022,Q,,13.0
+Guanyu Zhou,Alfa Romeo,Imola,2022,Q,,14.0
+Lance Stroll,Aston Martin,Imola,2022,Q,,15.0
+Yuki Tsunoda,AlphaTauri,Imola,2022,Q,,16.0
+Pierre Gasly,AlphaTauri,Imola,2022,Q,,17.0
+Nicholas Latifi,Williams,Imola,2022,Q,,18.0
+Esteban Ocon,Alpine,Imola,2022,Q,,19.0
+Alexander Albon,Williams,Imola,2022,Q,,20.0
+Max Verstappen,Red Bull Racing,Imola,2022,R,1.0,1.0
+Sergio Perez,Red Bull Racing,Imola,2022,R,3.0,2.0
+Lando Norris,McLaren,Imola,2022,R,5.0,3.0
+George Russell,Mercedes,Imola,2022,R,11.0,4.0
+Valtteri Bottas,Alfa Romeo,Imola,2022,R,7.0,5.0
+Charles Leclerc,Ferrari,Imola,2022,R,2.0,6.0
+Yuki Tsunoda,AlphaTauri,Imola,2022,R,12.0,7.0
+Sebastian Vettel,Aston Martin,Imola,2022,R,13.0,8.0
+Kevin Magnussen,Haas F1 Team,Imola,2022,R,8.0,9.0
+Lance Stroll,Aston Martin,Imola,2022,R,15.0,10.0
+Alexander Albon,Williams,Imola,2022,R,18.0,11.0
+Pierre Gasly,AlphaTauri,Imola,2022,R,17.0,12.0
+Lewis Hamilton,Mercedes,Imola,2022,R,14.0,13.0
+Esteban Ocon,Alpine,Imola,2022,R,16.0,14.0
+Guanyu Zhou,Alfa Romeo,Imola,2022,R,0.0,15.0
+Nicholas Latifi,Williams,Imola,2022,R,19.0,16.0
+Mick Schumacher,Haas F1 Team,Imola,2022,R,10.0,17.0
+Daniel Ricciardo,McLaren,Imola,2022,R,6.0,18.0
+Fernando Alonso,Alpine,Imola,2022,R,9.0,19.0
+Carlos Sainz,Ferrari,Imola,2022,R,4.0,20.0
+Charles Leclerc,Ferrari,Miami,2022,Q,,1.0
+Carlos Sainz,Ferrari,Miami,2022,Q,,2.0
+Max Verstappen,Red Bull Racing,Miami,2022,Q,,3.0
+Sergio Perez,Red Bull Racing,Miami,2022,Q,,4.0
+Valtteri Bottas,Alfa Romeo,Miami,2022,Q,,5.0
+Lewis Hamilton,Mercedes,Miami,2022,Q,,6.0
+Pierre Gasly,AlphaTauri,Miami,2022,Q,,7.0
+Lando Norris,McLaren,Miami,2022,Q,,8.0
+Yuki Tsunoda,AlphaTauri,Miami,2022,Q,,9.0
+Lance Stroll,Aston Martin,Miami,2022,Q,,10.0
+Fernando Alonso,Alpine,Miami,2022,Q,,11.0
+George Russell,Mercedes,Miami,2022,Q,,12.0
+Sebastian Vettel,Aston Martin,Miami,2022,Q,,13.0
+Daniel Ricciardo,McLaren,Miami,2022,Q,,14.0
+Mick Schumacher,Haas F1 Team,Miami,2022,Q,,15.0
+Kevin Magnussen,Haas F1 Team,Miami,2022,Q,,16.0
+Guanyu Zhou,Alfa Romeo,Miami,2022,Q,,17.0
+Alexander Albon,Williams,Miami,2022,Q,,18.0
+Nicholas Latifi,Williams,Miami,2022,Q,,19.0
+Esteban Ocon,Alpine,Miami,2022,Q,,20.0
+Max Verstappen,Red Bull Racing,Miami,2022,R,3.0,1.0
+Charles Leclerc,Ferrari,Miami,2022,R,1.0,2.0
+Carlos Sainz,Ferrari,Miami,2022,R,2.0,3.0
+Sergio Perez,Red Bull Racing,Miami,2022,R,4.0,4.0
+George Russell,Mercedes,Miami,2022,R,12.0,5.0
+Lewis Hamilton,Mercedes,Miami,2022,R,6.0,6.0
+Valtteri Bottas,Alfa Romeo,Miami,2022,R,5.0,7.0
+Esteban Ocon,Alpine,Miami,2022,R,20.0,8.0
+Alexander Albon,Williams,Miami,2022,R,18.0,9.0
+Lance Stroll,Aston Martin,Miami,2022,R,0.0,10.0
+Fernando Alonso,Alpine,Miami,2022,R,11.0,11.0
+Yuki Tsunoda,AlphaTauri,Miami,2022,R,9.0,12.0
+Daniel Ricciardo,McLaren,Miami,2022,R,14.0,13.0
+Nicholas Latifi,Williams,Miami,2022,R,19.0,14.0
+Mick Schumacher,Haas F1 Team,Miami,2022,R,15.0,15.0
+Kevin Magnussen,Haas F1 Team,Miami,2022,R,16.0,16.0
+Sebastian Vettel,Aston Martin,Miami,2022,R,0.0,17.0
+Pierre Gasly,AlphaTauri,Miami,2022,R,7.0,18.0
+Lando Norris,McLaren,Miami,2022,R,8.0,19.0
+Guanyu Zhou,Alfa Romeo,Miami,2022,R,17.0,20.0
+Charles Leclerc,Ferrari,Barcelona,2022,Q,,1.0
+Max Verstappen,Red Bull Racing,Barcelona,2022,Q,,2.0
+Carlos Sainz,Ferrari,Barcelona,2022,Q,,3.0
+George Russell,Mercedes,Barcelona,2022,Q,,4.0
+Sergio Perez,Red Bull Racing,Barcelona,2022,Q,,5.0
+Lewis Hamilton,Mercedes,Barcelona,2022,Q,,6.0
+Valtteri Bottas,Alfa Romeo,Barcelona,2022,Q,,7.0
+Kevin Magnussen,Haas F1 Team,Barcelona,2022,Q,,8.0
+Daniel Ricciardo,McLaren,Barcelona,2022,Q,,9.0
+Mick Schumacher,Haas F1 Team,Barcelona,2022,Q,,10.0
+Lando Norris,McLaren,Barcelona,2022,Q,,11.0
+Esteban Ocon,Alpine,Barcelona,2022,Q,,12.0
+Yuki Tsunoda,AlphaTauri,Barcelona,2022,Q,,13.0
+Pierre Gasly,AlphaTauri,Barcelona,2022,Q,,14.0
+Guanyu Zhou,Alfa Romeo,Barcelona,2022,Q,,15.0
+Sebastian Vettel,Aston Martin,Barcelona,2022,Q,,16.0
+Fernando Alonso,Alpine,Barcelona,2022,Q,,17.0
+Lance Stroll,Aston Martin,Barcelona,2022,Q,,18.0
+Alexander Albon,Williams,Barcelona,2022,Q,,19.0
+Nicholas Latifi,Williams,Barcelona,2022,Q,,20.0
+Max Verstappen,Red Bull Racing,Barcelona,2022,R,2.0,1.0
+Sergio Perez,Red Bull Racing,Barcelona,2022,R,5.0,2.0
+George Russell,Mercedes,Barcelona,2022,R,4.0,3.0
+Carlos Sainz,Ferrari,Barcelona,2022,R,3.0,4.0
+Lewis Hamilton,Mercedes,Barcelona,2022,R,6.0,5.0
+Valtteri Bottas,Alfa Romeo,Barcelona,2022,R,7.0,6.0
+Esteban Ocon,Alpine,Barcelona,2022,R,12.0,7.0
+Lando Norris,McLaren,Barcelona,2022,R,11.0,8.0
+Fernando Alonso,Alpine,Barcelona,2022,R,20.0,9.0
+Yuki Tsunoda,AlphaTauri,Barcelona,2022,R,13.0,10.0
+Sebastian Vettel,Aston Martin,Barcelona,2022,R,16.0,11.0
+Daniel Ricciardo,McLaren,Barcelona,2022,R,9.0,12.0
+Pierre Gasly,AlphaTauri,Barcelona,2022,R,14.0,13.0
+Mick Schumacher,Haas F1 Team,Barcelona,2022,R,10.0,14.0
+Lance Stroll,Aston Martin,Barcelona,2022,R,17.0,15.0
+Nicholas Latifi,Williams,Barcelona,2022,R,19.0,16.0
+Kevin Magnussen,Haas F1 Team,Barcelona,2022,R,8.0,17.0
+Alexander Albon,Williams,Barcelona,2022,R,18.0,18.0
+Guanyu Zhou,Alfa Romeo,Barcelona,2022,R,15.0,19.0
+Charles Leclerc,Ferrari,Barcelona,2022,R,1.0,20.0
+Charles Leclerc,Ferrari,Monaco,2022,Q,,1.0
+Carlos Sainz,Ferrari,Monaco,2022,Q,,2.0
+Sergio Perez,Red Bull Racing,Monaco,2022,Q,,3.0
+Max Verstappen,Red Bull Racing,Monaco,2022,Q,,4.0
+Lando Norris,McLaren,Monaco,2022,Q,,5.0
+George Russell,Mercedes,Monaco,2022,Q,,6.0
+Fernando Alonso,Alpine,Monaco,2022,Q,,7.0
+Lewis Hamilton,Mercedes,Monaco,2022,Q,,8.0
+Sebastian Vettel,Aston Martin,Monaco,2022,Q,,9.0
+Esteban Ocon,Alpine,Monaco,2022,Q,,10.0
+Yuki Tsunoda,AlphaTauri,Monaco,2022,Q,,11.0
+Valtteri Bottas,Alfa Romeo,Monaco,2022,Q,,12.0
+Kevin Magnussen,Haas F1 Team,Monaco,2022,Q,,13.0
+Daniel Ricciardo,McLaren,Monaco,2022,Q,,14.0
+Mick Schumacher,Haas F1 Team,Monaco,2022,Q,,15.0
+Alexander Albon,Williams,Monaco,2022,Q,,16.0
+Pierre Gasly,AlphaTauri,Monaco,2022,Q,,17.0
+Lance Stroll,Aston Martin,Monaco,2022,Q,,18.0
+Nicholas Latifi,Williams,Monaco,2022,Q,,19.0
+Guanyu Zhou,Alfa Romeo,Monaco,2022,Q,,20.0
+Sergio Perez,Red Bull Racing,Monaco,2022,R,3.0,1.0
+Carlos Sainz,Ferrari,Monaco,2022,R,2.0,2.0
+Max Verstappen,Red Bull Racing,Monaco,2022,R,4.0,3.0
+Charles Leclerc,Ferrari,Monaco,2022,R,1.0,4.0
+George Russell,Mercedes,Monaco,2022,R,6.0,5.0
+Lando Norris,McLaren,Monaco,2022,R,5.0,6.0
+Fernando Alonso,Alpine,Monaco,2022,R,7.0,7.0
+Lewis Hamilton,Mercedes,Monaco,2022,R,8.0,8.0
+Valtteri Bottas,Alfa Romeo,Monaco,2022,R,12.0,9.0
+Sebastian Vettel,Aston Martin,Monaco,2022,R,9.0,10.0
+Pierre Gasly,AlphaTauri,Monaco,2022,R,17.0,11.0
+Esteban Ocon,Alpine,Monaco,2022,R,10.0,12.0
+Daniel Ricciardo,McLaren,Monaco,2022,R,14.0,13.0
+Lance Stroll,Aston Martin,Monaco,2022,R,18.0,14.0
+Nicholas Latifi,Williams,Monaco,2022,R,19.0,15.0
+Guanyu Zhou,Alfa Romeo,Monaco,2022,R,20.0,16.0
+Yuki Tsunoda,AlphaTauri,Monaco,2022,R,11.0,17.0
+Alexander Albon,Williams,Monaco,2022,R,16.0,18.0
+Mick Schumacher,Haas F1 Team,Monaco,2022,R,15.0,19.0
+Kevin Magnussen,Haas F1 Team,Monaco,2022,R,13.0,20.0
+Charles Leclerc,Ferrari,Baku,2022,Q,,1.0
+Sergio Perez,Red Bull Racing,Baku,2022,Q,,2.0
+Max Verstappen,Red Bull Racing,Baku,2022,Q,,3.0
+Carlos Sainz,Ferrari,Baku,2022,Q,,4.0
+George Russell,Mercedes,Baku,2022,Q,,5.0
+Pierre Gasly,AlphaTauri,Baku,2022,Q,,6.0
+Lewis Hamilton,Mercedes,Baku,2022,Q,,7.0
+Yuki Tsunoda,AlphaTauri,Baku,2022,Q,,8.0
+Sebastian Vettel,Aston Martin,Baku,2022,Q,,9.0
+Fernando Alonso,Alpine,Baku,2022,Q,,10.0
+Lando Norris,McLaren,Baku,2022,Q,,11.0
+Daniel Ricciardo,McLaren,Baku,2022,Q,,12.0
+Esteban Ocon,Alpine,Baku,2022,Q,,13.0
+Guanyu Zhou,Alfa Romeo,Baku,2022,Q,,14.0
+Valtteri Bottas,Alfa Romeo,Baku,2022,Q,,15.0
+Kevin Magnussen,Haas F1 Team,Baku,2022,Q,,16.0
+Alexander Albon,Williams,Baku,2022,Q,,17.0
+Nicholas Latifi,Williams,Baku,2022,Q,,18.0
+Lance Stroll,Aston Martin,Baku,2022,Q,,19.0
+Mick Schumacher,Haas F1 Team,Baku,2022,Q,,20.0
+Max Verstappen,Red Bull Racing,Baku,2022,R,3.0,1.0
+Sergio Perez,Red Bull Racing,Baku,2022,R,2.0,2.0
+George Russell,Mercedes,Baku,2022,R,5.0,3.0
+Lewis Hamilton,Mercedes,Baku,2022,R,7.0,4.0
+Pierre Gasly,AlphaTauri,Baku,2022,R,6.0,5.0
+Sebastian Vettel,Aston Martin,Baku,2022,R,9.0,6.0
+Fernando Alonso,Alpine,Baku,2022,R,10.0,7.0
+Daniel Ricciardo,McLaren,Baku,2022,R,12.0,8.0
+Lando Norris,McLaren,Baku,2022,R,11.0,9.0
+Esteban Ocon,Alpine,Baku,2022,R,13.0,10.0
+Valtteri Bottas,Alfa Romeo,Baku,2022,R,15.0,11.0
+Alexander Albon,Williams,Baku,2022,R,17.0,12.0
+Yuki Tsunoda,AlphaTauri,Baku,2022,R,8.0,13.0
+Mick Schumacher,Haas F1 Team,Baku,2022,R,20.0,14.0
+Nicholas Latifi,Williams,Baku,2022,R,18.0,15.0
+Lance Stroll,Aston Martin,Baku,2022,R,19.0,16.0
+Kevin Magnussen,Haas F1 Team,Baku,2022,R,16.0,17.0
+Guanyu Zhou,Alfa Romeo,Baku,2022,R,14.0,18.0
+Charles Leclerc,Ferrari,Baku,2022,R,1.0,19.0
+Carlos Sainz,Ferrari,Baku,2022,R,4.0,20.0
+Max Verstappen,Red Bull Racing,Montréal,2022,Q,,1.0
+Fernando Alonso,Alpine,Montréal,2022,Q,,2.0
+Carlos Sainz,Ferrari,Montréal,2022,Q,,3.0
+Lewis Hamilton,Mercedes,Montréal,2022,Q,,4.0
+Kevin Magnussen,Haas F1 Team,Montréal,2022,Q,,5.0
+Mick Schumacher,Haas F1 Team,Montréal,2022,Q,,6.0
+Esteban Ocon,Alpine,Montréal,2022,Q,,7.0
+George Russell,Mercedes,Montréal,2022,Q,,8.0
+Daniel Ricciardo,McLaren,Montréal,2022,Q,,9.0
+Guanyu Zhou,Alfa Romeo,Montréal,2022,Q,,10.0
+Valtteri Bottas,Alfa Romeo,Montréal,2022,Q,,11.0
+Alexander Albon,Williams,Montréal,2022,Q,,12.0
+Sergio Perez,Red Bull Racing,Montréal,2022,Q,,13.0
+Lando Norris,McLaren,Montréal,2022,Q,,14.0
+Charles Leclerc,Ferrari,Montréal,2022,Q,,15.0
+Pierre Gasly,AlphaTauri,Montréal,2022,Q,,16.0
+Sebastian Vettel,Aston Martin,Montréal,2022,Q,,17.0
+Lance Stroll,Aston Martin,Montréal,2022,Q,,18.0
+Nicholas Latifi,Williams,Montréal,2022,Q,,19.0
+Yuki Tsunoda,AlphaTauri,Montréal,2022,Q,,20.0
+Max Verstappen,Red Bull Racing,Montréal,2022,R,1.0,1.0
+Carlos Sainz,Ferrari,Montréal,2022,R,3.0,2.0
+Lewis Hamilton,Mercedes,Montréal,2022,R,4.0,3.0
+George Russell,Mercedes,Montréal,2022,R,8.0,4.0
+Charles Leclerc,Ferrari,Montréal,2022,R,19.0,5.0
+Esteban Ocon,Alpine,Montréal,2022,R,7.0,6.0
+Valtteri Bottas,Alfa Romeo,Montréal,2022,R,11.0,7.0
+Guanyu Zhou,Alfa Romeo,Montréal,2022,R,10.0,8.0
+Fernando Alonso,Alpine,Montréal,2022,R,2.0,9.0
+Lance Stroll,Aston Martin,Montréal,2022,R,17.0,10.0
+Daniel Ricciardo,McLaren,Montréal,2022,R,9.0,11.0
+Sebastian Vettel,Aston Martin,Montréal,2022,R,16.0,12.0
+Alexander Albon,Williams,Montréal,2022,R,12.0,13.0
+Pierre Gasly,AlphaTauri,Montréal,2022,R,15.0,14.0
+Lando Norris,McLaren,Montréal,2022,R,14.0,15.0
+Nicholas Latifi,Williams,Montréal,2022,R,18.0,16.0
+Kevin Magnussen,Haas F1 Team,Montréal,2022,R,5.0,17.0
+Yuki Tsunoda,AlphaTauri,Montréal,2022,R,20.0,18.0
+Mick Schumacher,Haas F1 Team,Montréal,2022,R,6.0,19.0
+Sergio Perez,Red Bull Racing,Montréal,2022,R,13.0,20.0
+Carlos Sainz,Ferrari,Silverstone,2022,Q,,1.0
+Max Verstappen,Red Bull Racing,Silverstone,2022,Q,,2.0
+Charles Leclerc,Ferrari,Silverstone,2022,Q,,3.0
+Sergio Perez,Red Bull Racing,Silverstone,2022,Q,,4.0
+Lewis Hamilton,Mercedes,Silverstone,2022,Q,,5.0
+Lando Norris,McLaren,Silverstone,2022,Q,,6.0
+Fernando Alonso,Alpine,Silverstone,2022,Q,,7.0
+George Russell,Mercedes,Silverstone,2022,Q,,8.0
+Guanyu Zhou,Alfa Romeo,Silverstone,2022,Q,,9.0
+Nicholas Latifi,Williams,Silverstone,2022,Q,,10.0
+Pierre Gasly,AlphaTauri,Silverstone,2022,Q,,11.0
+Valtteri Bottas,Alfa Romeo,Silverstone,2022,Q,,12.0
+Yuki Tsunoda,AlphaTauri,Silverstone,2022,Q,,13.0
+Daniel Ricciardo,McLaren,Silverstone,2022,Q,,14.0
+Esteban Ocon,Alpine,Silverstone,2022,Q,,15.0
+Alexander Albon,Williams,Silverstone,2022,Q,,16.0
+Kevin Magnussen,Haas F1 Team,Silverstone,2022,Q,,17.0
+Sebastian Vettel,Aston Martin,Silverstone,2022,Q,,18.0
+Mick Schumacher,Haas F1 Team,Silverstone,2022,Q,,19.0
+Lance Stroll,Aston Martin,Silverstone,2022,Q,,20.0
+Carlos Sainz,Ferrari,Silverstone,2022,R,1.0,1.0
+Sergio Perez,Red Bull Racing,Silverstone,2022,R,4.0,2.0
+Lewis Hamilton,Mercedes,Silverstone,2022,R,5.0,3.0
+Charles Leclerc,Ferrari,Silverstone,2022,R,3.0,4.0
+Fernando Alonso,Alpine,Silverstone,2022,R,7.0,5.0
+Lando Norris,McLaren,Silverstone,2022,R,6.0,6.0
+Max Verstappen,Red Bull Racing,Silverstone,2022,R,2.0,7.0
+Mick Schumacher,Haas F1 Team,Silverstone,2022,R,19.0,8.0
+Sebastian Vettel,Aston Martin,Silverstone,2022,R,18.0,9.0
+Kevin Magnussen,Haas F1 Team,Silverstone,2022,R,17.0,10.0
+Lance Stroll,Aston Martin,Silverstone,2022,R,20.0,11.0
+Nicholas Latifi,Williams,Silverstone,2022,R,10.0,12.0
+Daniel Ricciardo,McLaren,Silverstone,2022,R,14.0,13.0
+Yuki Tsunoda,AlphaTauri,Silverstone,2022,R,13.0,14.0
+Esteban Ocon,Alpine,Silverstone,2022,R,15.0,15.0
+Pierre Gasly,AlphaTauri,Silverstone,2022,R,11.0,16.0
+Valtteri Bottas,Alfa Romeo,Silverstone,2022,R,12.0,17.0
+George Russell,Mercedes,Silverstone,2022,R,8.0,18.0
+Guanyu Zhou,Alfa Romeo,Silverstone,2022,R,9.0,19.0
+Alexander Albon,Williams,Silverstone,2022,R,16.0,20.0
+Max Verstappen,Red Bull Racing,Spielberg,2022,Q,,1.0
+Charles Leclerc,Ferrari,Spielberg,2022,Q,,2.0
+Carlos Sainz,Ferrari,Spielberg,2022,Q,,3.0
+George Russell,Mercedes,Spielberg,2022,Q,,4.0
+Esteban Ocon,Alpine,Spielberg,2022,Q,,5.0
+Kevin Magnussen,Haas F1 Team,Spielberg,2022,Q,,6.0
+Mick Schumacher,Haas F1 Team,Spielberg,2022,Q,,7.0
+Fernando Alonso,Alpine,Spielberg,2022,Q,,8.0
+Lewis Hamilton,Mercedes,Spielberg,2022,Q,,9.0
+Pierre Gasly,AlphaTauri,Spielberg,2022,Q,,10.0
+Alexander Albon,Williams,Spielberg,2022,Q,,11.0
+Valtteri Bottas,Alfa Romeo,Spielberg,2022,Q,,12.0
+Sergio Perez,Red Bull Racing,Spielberg,2022,Q,,13.0
+Yuki Tsunoda,AlphaTauri,Spielberg,2022,Q,,14.0
+Lando Norris,McLaren,Spielberg,2022,Q,,15.0
+Daniel Ricciardo,McLaren,Spielberg,2022,Q,,16.0
+Lance Stroll,Aston Martin,Spielberg,2022,Q,,17.0
+Guanyu Zhou,Alfa Romeo,Spielberg,2022,Q,,18.0
+Nicholas Latifi,Williams,Spielberg,2022,Q,,19.0
+Sebastian Vettel,Aston Martin,Spielberg,2022,Q,,20.0
+Charles Leclerc,Ferrari,Spielberg,2022,R,2.0,1.0
+Max Verstappen,Red Bull Racing,Spielberg,2022,R,1.0,2.0
+Lewis Hamilton,Mercedes,Spielberg,2022,R,8.0,3.0
+George Russell,Mercedes,Spielberg,2022,R,4.0,4.0
+Esteban Ocon,Alpine,Spielberg,2022,R,6.0,5.0
+Mick Schumacher,Haas F1 Team,Spielberg,2022,R,9.0,6.0
+Lando Norris,McLaren,Spielberg,2022,R,10.0,7.0
+Kevin Magnussen,Haas F1 Team,Spielberg,2022,R,7.0,8.0
+Daniel Ricciardo,McLaren,Spielberg,2022,R,11.0,9.0
+Fernando Alonso,Alpine,Spielberg,2022,R,19.0,10.0
+Valtteri Bottas,Alfa Romeo,Spielberg,2022,R,0.0,11.0
+Alexander Albon,Williams,Spielberg,2022,R,15.0,12.0
+Lance Stroll,Aston Martin,Spielberg,2022,R,12.0,13.0
+Guanyu Zhou,Alfa Romeo,Spielberg,2022,R,13.0,14.0
+Pierre Gasly,AlphaTauri,Spielberg,2022,R,14.0,15.0
+Yuki Tsunoda,AlphaTauri,Spielberg,2022,R,16.0,16.0
+Sebastian Vettel,Aston Martin,Spielberg,2022,R,18.0,17.0
+Carlos Sainz,Ferrari,Spielberg,2022,R,3.0,18.0
+Nicholas Latifi,Williams,Spielberg,2022,R,17.0,19.0
+Sergio Perez,Red Bull Racing,Spielberg,2022,R,5.0,20.0
+Charles Leclerc,Ferrari,Le Castellet,2022,Q,,1.0
+Max Verstappen,Red Bull Racing,Le Castellet,2022,Q,,2.0
+Sergio Perez,Red Bull Racing,Le Castellet,2022,Q,,3.0
+Lewis Hamilton,Mercedes,Le Castellet,2022,Q,,4.0
+Lando Norris,McLaren,Le Castellet,2022,Q,,5.0
+George Russell,Mercedes,Le Castellet,2022,Q,,6.0
+Fernando Alonso,Alpine,Le Castellet,2022,Q,,7.0
+Yuki Tsunoda,AlphaTauri,Le Castellet,2022,Q,,8.0
+Carlos Sainz,Ferrari,Le Castellet,2022,Q,,9.0
+Kevin Magnussen,Haas F1 Team,Le Castellet,2022,Q,,10.0
+Daniel Ricciardo,McLaren,Le Castellet,2022,Q,,11.0
+Esteban Ocon,Alpine,Le Castellet,2022,Q,,12.0
+Valtteri Bottas,Alfa Romeo,Le Castellet,2022,Q,,13.0
+Sebastian Vettel,Aston Martin,Le Castellet,2022,Q,,14.0
+Alexander Albon,Williams,Le Castellet,2022,Q,,15.0
+Pierre Gasly,AlphaTauri,Le Castellet,2022,Q,,16.0
+Lance Stroll,Aston Martin,Le Castellet,2022,Q,,17.0
+Guanyu Zhou,Alfa Romeo,Le Castellet,2022,Q,,18.0
+Mick Schumacher,Haas F1 Team,Le Castellet,2022,Q,,19.0
+Nicholas Latifi,Williams,Le Castellet,2022,Q,,20.0
+Max Verstappen,Red Bull Racing,Le Castellet,2022,R,2.0,1.0
+Lewis Hamilton,Mercedes,Le Castellet,2022,R,4.0,2.0
+George Russell,Mercedes,Le Castellet,2022,R,6.0,3.0
+Sergio Perez,Red Bull Racing,Le Castellet,2022,R,3.0,4.0
+Carlos Sainz,Ferrari,Le Castellet,2022,R,19.0,5.0
+Fernando Alonso,Alpine,Le Castellet,2022,R,7.0,6.0
+Lando Norris,McLaren,Le Castellet,2022,R,5.0,7.0
+Esteban Ocon,Alpine,Le Castellet,2022,R,10.0,8.0
+Daniel Ricciardo,McLaren,Le Castellet,2022,R,9.0,9.0
+Lance Stroll,Aston Martin,Le Castellet,2022,R,15.0,10.0
+Sebastian Vettel,Aston Martin,Le Castellet,2022,R,12.0,11.0
+Pierre Gasly,AlphaTauri,Le Castellet,2022,R,14.0,12.0
+Alexander Albon,Williams,Le Castellet,2022,R,13.0,13.0
+Valtteri Bottas,Alfa Romeo,Le Castellet,2022,R,11.0,14.0
+Mick Schumacher,Haas F1 Team,Le Castellet,2022,R,17.0,15.0
+Guanyu Zhou,Alfa Romeo,Le Castellet,2022,R,16.0,16.0
+Nicholas Latifi,Williams,Le Castellet,2022,R,18.0,17.0
+Kevin Magnussen,Haas F1 Team,Le Castellet,2022,R,20.0,18.0
+Charles Leclerc,Ferrari,Le Castellet,2022,R,1.0,19.0
+Yuki Tsunoda,AlphaTauri,Le Castellet,2022,R,8.0,20.0
+George Russell,Mercedes,Budapest,2022,Q,,1.0
+Carlos Sainz,Ferrari,Budapest,2022,Q,,2.0
+Charles Leclerc,Ferrari,Budapest,2022,Q,,3.0
+Lando Norris,McLaren,Budapest,2022,Q,,4.0
+Esteban Ocon,Alpine,Budapest,2022,Q,,5.0
+Fernando Alonso,Alpine,Budapest,2022,Q,,6.0
+Lewis Hamilton,Mercedes,Budapest,2022,Q,,7.0
+Valtteri Bottas,Alfa Romeo,Budapest,2022,Q,,8.0
+Daniel Ricciardo,McLaren,Budapest,2022,Q,,9.0
+Max Verstappen,Red Bull Racing,Budapest,2022,Q,,10.0
+Sergio Perez,Red Bull Racing,Budapest,2022,Q,,11.0
+Guanyu Zhou,Alfa Romeo,Budapest,2022,Q,,12.0
+Kevin Magnussen,Haas F1 Team,Budapest,2022,Q,,13.0
+Lance Stroll,Aston Martin,Budapest,2022,Q,,14.0
+Mick Schumacher,Haas F1 Team,Budapest,2022,Q,,15.0
+Yuki Tsunoda,AlphaTauri,Budapest,2022,Q,,16.0
+Alexander Albon,Williams,Budapest,2022,Q,,17.0
+Sebastian Vettel,Aston Martin,Budapest,2022,Q,,18.0
+Pierre Gasly,AlphaTauri,Budapest,2022,Q,,19.0
+Nicholas Latifi,Williams,Budapest,2022,Q,,20.0
+Max Verstappen,Red Bull Racing,Budapest,2022,R,10.0,1.0
+Lewis Hamilton,Mercedes,Budapest,2022,R,7.0,2.0
+George Russell,Mercedes,Budapest,2022,R,1.0,3.0
+Carlos Sainz,Ferrari,Budapest,2022,R,2.0,4.0
+Sergio Perez,Red Bull Racing,Budapest,2022,R,11.0,5.0
+Charles Leclerc,Ferrari,Budapest,2022,R,3.0,6.0
+Lando Norris,McLaren,Budapest,2022,R,4.0,7.0
+Fernando Alonso,Alpine,Budapest,2022,R,6.0,8.0
+Esteban Ocon,Alpine,Budapest,2022,R,5.0,9.0
+Sebastian Vettel,Aston Martin,Budapest,2022,R,18.0,10.0
+Lance Stroll,Aston Martin,Budapest,2022,R,14.0,11.0
+Pierre Gasly,AlphaTauri,Budapest,2022,R,0.0,12.0
+Guanyu Zhou,Alfa Romeo,Budapest,2022,R,12.0,13.0
+Mick Schumacher,Haas F1 Team,Budapest,2022,R,15.0,14.0
+Daniel Ricciardo,McLaren,Budapest,2022,R,9.0,15.0
+Kevin Magnussen,Haas F1 Team,Budapest,2022,R,13.0,16.0
+Alexander Albon,Williams,Budapest,2022,R,17.0,17.0
+Nicholas Latifi,Williams,Budapest,2022,R,19.0,18.0
+Yuki Tsunoda,AlphaTauri,Budapest,2022,R,16.0,19.0
+Valtteri Bottas,Alfa Romeo,Budapest,2022,R,8.0,20.0
+Max Verstappen,Red Bull Racing,Spa-Francorchamps,2022,Q,,1.0
+Carlos Sainz,Ferrari,Spa-Francorchamps,2022,Q,,2.0
+Sergio Perez,Red Bull Racing,Spa-Francorchamps,2022,Q,,3.0
+Charles Leclerc,Ferrari,Spa-Francorchamps,2022,Q,,4.0
+Esteban Ocon,Alpine,Spa-Francorchamps,2022,Q,,5.0
+Fernando Alonso,Alpine,Spa-Francorchamps,2022,Q,,6.0
+Lewis Hamilton,Mercedes,Spa-Francorchamps,2022,Q,,7.0
+George Russell,Mercedes,Spa-Francorchamps,2022,Q,,8.0
+Alexander Albon,Williams,Spa-Francorchamps,2022,Q,,9.0
+Lando Norris,McLaren,Spa-Francorchamps,2022,Q,,10.0
+Daniel Ricciardo,McLaren,Spa-Francorchamps,2022,Q,,11.0
+Pierre Gasly,AlphaTauri,Spa-Francorchamps,2022,Q,,12.0
+Guanyu Zhou,Alfa Romeo,Spa-Francorchamps,2022,Q,,13.0
+Lance Stroll,Aston Martin,Spa-Francorchamps,2022,Q,,14.0
+Mick Schumacher,Haas F1 Team,Spa-Francorchamps,2022,Q,,15.0
+Sebastian Vettel,Aston Martin,Spa-Francorchamps,2022,Q,,16.0
+Nicholas Latifi,Williams,Spa-Francorchamps,2022,Q,,17.0
+Kevin Magnussen,Haas F1 Team,Spa-Francorchamps,2022,Q,,18.0
+Yuki Tsunoda,AlphaTauri,Spa-Francorchamps,2022,Q,,19.0
+Valtteri Bottas,Alfa Romeo,Spa-Francorchamps,2022,Q,,20.0
+Max Verstappen,Red Bull Racing,Spa-Francorchamps,2022,R,14.0,1.0
+Sergio Perez,Red Bull Racing,Spa-Francorchamps,2022,R,2.0,2.0
+Carlos Sainz,Ferrari,Spa-Francorchamps,2022,R,1.0,3.0
+George Russell,Mercedes,Spa-Francorchamps,2022,R,5.0,4.0
+Fernando Alonso,Alpine,Spa-Francorchamps,2022,R,3.0,5.0
+Charles Leclerc,Ferrari,Spa-Francorchamps,2022,R,15.0,6.0
+Esteban Ocon,Alpine,Spa-Francorchamps,2022,R,16.0,7.0
+Sebastian Vettel,Aston Martin,Spa-Francorchamps,2022,R,10.0,8.0
+Pierre Gasly,AlphaTauri,Spa-Francorchamps,2022,R,0.0,9.0
+Alexander Albon,Williams,Spa-Francorchamps,2022,R,6.0,10.0
+Lance Stroll,Aston Martin,Spa-Francorchamps,2022,R,9.0,11.0
+Lando Norris,McLaren,Spa-Francorchamps,2022,R,17.0,12.0
+Yuki Tsunoda,AlphaTauri,Spa-Francorchamps,2022,R,0.0,13.0
+Guanyu Zhou,Alfa Romeo,Spa-Francorchamps,2022,R,18.0,14.0
+Daniel Ricciardo,McLaren,Spa-Francorchamps,2022,R,7.0,15.0
+Kevin Magnussen,Haas F1 Team,Spa-Francorchamps,2022,R,12.0,16.0
+Mick Schumacher,Haas F1 Team,Spa-Francorchamps,2022,R,19.0,17.0
+Nicholas Latifi,Williams,Spa-Francorchamps,2022,R,11.0,18.0
+Valtteri Bottas,Alfa Romeo,Spa-Francorchamps,2022,R,13.0,19.0
+Lewis Hamilton,Mercedes,Spa-Francorchamps,2022,R,4.0,20.0
+Max Verstappen,Red Bull Racing,Zandvoort,2022,Q,,1.0
+Charles Leclerc,Ferrari,Zandvoort,2022,Q,,2.0
+Carlos Sainz,Ferrari,Zandvoort,2022,Q,,3.0
+Lewis Hamilton,Mercedes,Zandvoort,2022,Q,,4.0
+Sergio Perez,Red Bull Racing,Zandvoort,2022,Q,,5.0
+George Russell,Mercedes,Zandvoort,2022,Q,,6.0
+Lando Norris,McLaren,Zandvoort,2022,Q,,7.0
+Mick Schumacher,Haas F1 Team,Zandvoort,2022,Q,,8.0
+Yuki Tsunoda,AlphaTauri,Zandvoort,2022,Q,,9.0
+Lance Stroll,Aston Martin,Zandvoort,2022,Q,,10.0
+Pierre Gasly,AlphaTauri,Zandvoort,2022,Q,,11.0
+Esteban Ocon,Alpine,Zandvoort,2022,Q,,12.0
+Fernando Alonso,Alpine,Zandvoort,2022,Q,,13.0
+Guanyu Zhou,Alfa Romeo,Zandvoort,2022,Q,,14.0
+Alexander Albon,Williams,Zandvoort,2022,Q,,15.0
+Valtteri Bottas,Alfa Romeo,Zandvoort,2022,Q,,16.0
+Daniel Ricciardo,McLaren,Zandvoort,2022,Q,,17.0
+Kevin Magnussen,Haas F1 Team,Zandvoort,2022,Q,,18.0
+Sebastian Vettel,Aston Martin,Zandvoort,2022,Q,,19.0
+Nicholas Latifi,Williams,Zandvoort,2022,Q,,20.0
+Max Verstappen,Red Bull Racing,Zandvoort,2022,R,1.0,1.0
+George Russell,Mercedes,Zandvoort,2022,R,6.0,2.0
+Charles Leclerc,Ferrari,Zandvoort,2022,R,2.0,3.0
+Lewis Hamilton,Mercedes,Zandvoort,2022,R,4.0,4.0
+Sergio Perez,Red Bull Racing,Zandvoort,2022,R,5.0,5.0
+Fernando Alonso,Alpine,Zandvoort,2022,R,13.0,6.0
+Lando Norris,McLaren,Zandvoort,2022,R,7.0,7.0
+Carlos Sainz,Ferrari,Zandvoort,2022,R,3.0,8.0
+Esteban Ocon,Alpine,Zandvoort,2022,R,12.0,9.0
+Lance Stroll,Aston Martin,Zandvoort,2022,R,10.0,10.0
+Pierre Gasly,AlphaTauri,Zandvoort,2022,R,11.0,11.0
+Alexander Albon,Williams,Zandvoort,2022,R,15.0,12.0
+Mick Schumacher,Haas F1 Team,Zandvoort,2022,R,8.0,13.0
+Sebastian Vettel,Aston Martin,Zandvoort,2022,R,19.0,14.0
+Kevin Magnussen,Haas F1 Team,Zandvoort,2022,R,18.0,15.0
+Guanyu Zhou,Alfa Romeo,Zandvoort,2022,R,14.0,16.0
+Daniel Ricciardo,McLaren,Zandvoort,2022,R,17.0,17.0
+Nicholas Latifi,Williams,Zandvoort,2022,R,20.0,18.0
+Valtteri Bottas,Alfa Romeo,Zandvoort,2022,R,16.0,19.0
+Yuki Tsunoda,AlphaTauri,Zandvoort,2022,R,9.0,20.0
+Charles Leclerc,Ferrari,Monza,2022,Q,,1.0
+Max Verstappen,Red Bull Racing,Monza,2022,Q,,2.0
+Carlos Sainz,Ferrari,Monza,2022,Q,,3.0
+Sergio Perez,Red Bull Racing,Monza,2022,Q,,4.0
+Lewis Hamilton,Mercedes,Monza,2022,Q,,5.0
+George Russell,Mercedes,Monza,2022,Q,,6.0
+Lando Norris,McLaren,Monza,2022,Q,,7.0
+Daniel Ricciardo,McLaren,Monza,2022,Q,,8.0
+Pierre Gasly,AlphaTauri,Monza,2022,Q,,9.0
+Fernando Alonso,Alpine,Monza,2022,Q,,10.0
+Esteban Ocon,Alpine,Monza,2022,Q,,11.0
+Valtteri Bottas,Alfa Romeo,Monza,2022,Q,,12.0
+Nyck De Vries,Williams,Monza,2022,Q,,13.0
+Guanyu Zhou,Alfa Romeo,Monza,2022,Q,,14.0
+Yuki Tsunoda,AlphaTauri,Monza,2022,Q,,15.0
+Nicholas Latifi,Williams,Monza,2022,Q,,16.0
+Sebastian Vettel,Aston Martin,Monza,2022,Q,,17.0
+Lance Stroll,Aston Martin,Monza,2022,Q,,18.0
+Kevin Magnussen,Haas F1 Team,Monza,2022,Q,,19.0
+Mick Schumacher,Haas F1 Team,Monza,2022,Q,,20.0
+Max Verstappen,Red Bull Racing,Monza,2022,R,7.0,1.0
+Charles Leclerc,Ferrari,Monza,2022,R,1.0,2.0
+George Russell,Mercedes,Monza,2022,R,2.0,3.0
+Carlos Sainz,Ferrari,Monza,2022,R,18.0,4.0
+Lewis Hamilton,Mercedes,Monza,2022,R,19.0,5.0
+Sergio Perez,Red Bull Racing,Monza,2022,R,13.0,6.0
+Lando Norris,McLaren,Monza,2022,R,3.0,7.0
+Pierre Gasly,AlphaTauri,Monza,2022,R,5.0,8.0
+Nyck De Vries,Williams,Monza,2022,R,8.0,9.0
+Guanyu Zhou,Alfa Romeo,Monza,2022,R,9.0,10.0
+Esteban Ocon,Alpine,Monza,2022,R,14.0,11.0
+Mick Schumacher,Haas F1 Team,Monza,2022,R,17.0,12.0
+Valtteri Bottas,Alfa Romeo,Monza,2022,R,15.0,13.0
+Yuki Tsunoda,AlphaTauri,Monza,2022,R,20.0,14.0
+Nicholas Latifi,Williams,Monza,2022,R,10.0,15.0
+Kevin Magnussen,Haas F1 Team,Monza,2022,R,16.0,16.0
+Daniel Ricciardo,McLaren,Monza,2022,R,4.0,17.0
+Lance Stroll,Aston Martin,Monza,2022,R,12.0,18.0
+Fernando Alonso,Alpine,Monza,2022,R,6.0,19.0
+Sebastian Vettel,Aston Martin,Monza,2022,R,11.0,20.0
+Charles Leclerc,Ferrari,Marina Bay,2022,Q,,1.0
+Sergio Perez,Red Bull Racing,Marina Bay,2022,Q,,2.0
+Lewis Hamilton,Mercedes,Marina Bay,2022,Q,,3.0
+Carlos Sainz,Ferrari,Marina Bay,2022,Q,,4.0
+Fernando Alonso,Alpine,Marina Bay,2022,Q,,5.0
+Lando Norris,McLaren,Marina Bay,2022,Q,,6.0
+Pierre Gasly,AlphaTauri,Marina Bay,2022,Q,,7.0
+Max Verstappen,Red Bull Racing,Marina Bay,2022,Q,,8.0
+Kevin Magnussen,Haas F1 Team,Marina Bay,2022,Q,,9.0
+Yuki Tsunoda,AlphaTauri,Marina Bay,2022,Q,,10.0
+George Russell,Mercedes,Marina Bay,2022,Q,,11.0
+Lance Stroll,Aston Martin,Marina Bay,2022,Q,,12.0
+Mick Schumacher,Haas F1 Team,Marina Bay,2022,Q,,13.0
+Sebastian Vettel,Aston Martin,Marina Bay,2022,Q,,14.0
+Guanyu Zhou,Alfa Romeo,Marina Bay,2022,Q,,15.0
+Valtteri Bottas,Alfa Romeo,Marina Bay,2022,Q,,16.0
+Daniel Ricciardo,McLaren,Marina Bay,2022,Q,,17.0
+Esteban Ocon,Alpine,Marina Bay,2022,Q,,18.0
+Alexander Albon,Williams,Marina Bay,2022,Q,,19.0
+Nicholas Latifi,Williams,Marina Bay,2022,Q,,20.0
+Sergio Perez,Red Bull Racing,Marina Bay,2022,R,2.0,1.0
+Charles Leclerc,Ferrari,Marina Bay,2022,R,1.0,2.0
+Carlos Sainz,Ferrari,Marina Bay,2022,R,4.0,3.0
+Lando Norris,McLaren,Marina Bay,2022,R,6.0,4.0
+Daniel Ricciardo,McLaren,Marina Bay,2022,R,16.0,5.0
+Lance Stroll,Aston Martin,Marina Bay,2022,R,11.0,6.0
+Max Verstappen,Red Bull Racing,Marina Bay,2022,R,8.0,7.0
+Sebastian Vettel,Aston Martin,Marina Bay,2022,R,13.0,8.0
+Lewis Hamilton,Mercedes,Marina Bay,2022,R,3.0,9.0
+Pierre Gasly,AlphaTauri,Marina Bay,2022,R,7.0,10.0
+Valtteri Bottas,Alfa Romeo,Marina Bay,2022,R,15.0,11.0
+Kevin Magnussen,Haas F1 Team,Marina Bay,2022,R,9.0,12.0
+Mick Schumacher,Haas F1 Team,Marina Bay,2022,R,12.0,13.0
+George Russell,Mercedes,Marina Bay,2022,R,0.0,14.0
+Yuki Tsunoda,AlphaTauri,Marina Bay,2022,R,10.0,15.0
+Esteban Ocon,Alpine,Marina Bay,2022,R,17.0,16.0
+Alexander Albon,Williams,Marina Bay,2022,R,18.0,17.0
+Fernando Alonso,Alpine,Marina Bay,2022,R,5.0,18.0
+Nicholas Latifi,Williams,Marina Bay,2022,R,19.0,19.0
+Guanyu Zhou,Alfa Romeo,Marina Bay,2022,R,14.0,20.0
+Max Verstappen,Red Bull Racing,Suzuka,2022,Q,,1.0
+Charles Leclerc,Ferrari,Suzuka,2022,Q,,2.0
+Carlos Sainz,Ferrari,Suzuka,2022,Q,,3.0
+Sergio Perez,Red Bull Racing,Suzuka,2022,Q,,4.0
+Esteban Ocon,Alpine,Suzuka,2022,Q,,5.0
+Lewis Hamilton,Mercedes,Suzuka,2022,Q,,6.0
+Fernando Alonso,Alpine,Suzuka,2022,Q,,7.0
+George Russell,Mercedes,Suzuka,2022,Q,,8.0
+Sebastian Vettel,Aston Martin,Suzuka,2022,Q,,9.0
+Lando Norris,McLaren,Suzuka,2022,Q,,10.0
+Daniel Ricciardo,McLaren,Suzuka,2022,Q,,11.0
+Valtteri Bottas,Alfa Romeo,Suzuka,2022,Q,,12.0
+Yuki Tsunoda,AlphaTauri,Suzuka,2022,Q,,13.0
+Guanyu Zhou,Alfa Romeo,Suzuka,2022,Q,,14.0
+Mick Schumacher,Haas F1 Team,Suzuka,2022,Q,,15.0
+Alexander Albon,Williams,Suzuka,2022,Q,,16.0
+Pierre Gasly,AlphaTauri,Suzuka,2022,Q,,17.0
+Kevin Magnussen,Haas F1 Team,Suzuka,2022,Q,,18.0
+Lance Stroll,Aston Martin,Suzuka,2022,Q,,19.0
+Nicholas Latifi,Williams,Suzuka,2022,Q,,20.0
+Max Verstappen,Red Bull Racing,Suzuka,2022,R,1.0,1.0
+Sergio Perez,Red Bull Racing,Suzuka,2022,R,4.0,2.0
+Charles Leclerc,Ferrari,Suzuka,2022,R,2.0,3.0
+Esteban Ocon,Alpine,Suzuka,2022,R,5.0,4.0
+Lewis Hamilton,Mercedes,Suzuka,2022,R,6.0,5.0
+Sebastian Vettel,Aston Martin,Suzuka,2022,R,9.0,6.0
+Fernando Alonso,Alpine,Suzuka,2022,R,7.0,7.0
+George Russell,Mercedes,Suzuka,2022,R,8.0,8.0
+Nicholas Latifi,Williams,Suzuka,2022,R,20.0,9.0
+Lando Norris,McLaren,Suzuka,2022,R,10.0,10.0
+Daniel Ricciardo,McLaren,Suzuka,2022,R,11.0,11.0
+Lance Stroll,Aston Martin,Suzuka,2022,R,19.0,12.0
+Yuki Tsunoda,AlphaTauri,Suzuka,2022,R,13.0,13.0
+Kevin Magnussen,Haas F1 Team,Suzuka,2022,R,18.0,14.0
+Valtteri Bottas,Alfa Romeo,Suzuka,2022,R,12.0,15.0
+Guanyu Zhou,Alfa Romeo,Suzuka,2022,R,14.0,16.0
+Mick Schumacher,Haas F1 Team,Suzuka,2022,R,15.0,17.0
+Pierre Gasly,AlphaTauri,Suzuka,2022,R,17.0,18.0
+Carlos Sainz,Ferrari,Suzuka,2022,R,3.0,19.0
+Alexander Albon,Williams,Suzuka,2022,R,16.0,20.0
+Carlos Sainz,Ferrari,Austin,2022,Q,,1.0
+Charles Leclerc,Ferrari,Austin,2022,Q,,2.0
+Max Verstappen,Red Bull Racing,Austin,2022,Q,,3.0
+Sergio Perez,Red Bull Racing,Austin,2022,Q,,4.0
+Lewis Hamilton,Mercedes,Austin,2022,Q,,5.0
+George Russell,Mercedes,Austin,2022,Q,,6.0
+Lance Stroll,Aston Martin,Austin,2022,Q,,7.0
+Lando Norris,McLaren,Austin,2022,Q,,8.0
+Fernando Alonso,Alpine,Austin,2022,Q,,9.0
+Valtteri Bottas,Alfa Romeo,Austin,2022,Q,,10.0
+Alexander Albon,Williams,Austin,2022,Q,,11.0
+Sebastian Vettel,Aston Martin,Austin,2022,Q,,12.0
+Pierre Gasly,AlphaTauri,Austin,2022,Q,,13.0
+Guanyu Zhou,Alfa Romeo,Austin,2022,Q,,14.0
+Yuki Tsunoda,AlphaTauri,Austin,2022,Q,,15.0
+Kevin Magnussen,Haas F1 Team,Austin,2022,Q,,16.0
+Daniel Ricciardo,McLaren,Austin,2022,Q,,17.0
+Esteban Ocon,Alpine,Austin,2022,Q,,18.0
+Mick Schumacher,Haas F1 Team,Austin,2022,Q,,19.0
+Nicholas Latifi,Williams,Austin,2022,Q,,20.0
+Max Verstappen,Red Bull Racing,Austin,2022,R,2.0,1.0
+Lewis Hamilton,Mercedes,Austin,2022,R,3.0,2.0
+Charles Leclerc,Ferrari,Austin,2022,R,12.0,3.0
+Sergio Perez,Red Bull Racing,Austin,2022,R,9.0,4.0
+George Russell,Mercedes,Austin,2022,R,4.0,5.0
+Lando Norris,McLaren,Austin,2022,R,6.0,6.0
+Fernando Alonso,Alpine,Austin,2022,R,14.0,7.0
+Sebastian Vettel,Aston Martin,Austin,2022,R,10.0,8.0
+Kevin Magnussen,Haas F1 Team,Austin,2022,R,13.0,9.0
+Yuki Tsunoda,AlphaTauri,Austin,2022,R,19.0,10.0
+Esteban Ocon,Alpine,Austin,2022,R,0.0,11.0
+Guanyu Zhou,Alfa Romeo,Austin,2022,R,18.0,12.0
+Alexander Albon,Williams,Austin,2022,R,8.0,13.0
+Pierre Gasly,AlphaTauri,Austin,2022,R,11.0,14.0
+Mick Schumacher,Haas F1 Team,Austin,2022,R,16.0,15.0
+Daniel Ricciardo,McLaren,Austin,2022,R,15.0,16.0
+Nicholas Latifi,Williams,Austin,2022,R,17.0,17.0
+Lance Stroll,Aston Martin,Austin,2022,R,5.0,18.0
+Valtteri Bottas,Alfa Romeo,Austin,2022,R,7.0,19.0
+Carlos Sainz,Ferrari,Austin,2022,R,1.0,20.0
+Max Verstappen,Red Bull Racing,Mexico City,2022,Q,,1.0
+George Russell,Mercedes,Mexico City,2022,Q,,2.0
+Lewis Hamilton,Mercedes,Mexico City,2022,Q,,3.0
+Sergio Perez,Red Bull Racing,Mexico City,2022,Q,,4.0
+Carlos Sainz,Ferrari,Mexico City,2022,Q,,5.0
+Valtteri Bottas,Alfa Romeo,Mexico City,2022,Q,,6.0
+Charles Leclerc,Ferrari,Mexico City,2022,Q,,7.0
+Lando Norris,McLaren,Mexico City,2022,Q,,8.0
+Fernando Alonso,Alpine,Mexico City,2022,Q,,9.0
+Esteban Ocon,Alpine,Mexico City,2022,Q,,10.0
+Daniel Ricciardo,McLaren,Mexico City,2022,Q,,11.0
+Guanyu Zhou,Alfa Romeo,Mexico City,2022,Q,,12.0
+Yuki Tsunoda,AlphaTauri,Mexico City,2022,Q,,13.0
+Pierre Gasly,AlphaTauri,Mexico City,2022,Q,,14.0
+Kevin Magnussen,Haas F1 Team,Mexico City,2022,Q,,15.0
+Mick Schumacher,Haas F1 Team,Mexico City,2022,Q,,16.0
+Sebastian Vettel,Aston Martin,Mexico City,2022,Q,,17.0
+Lance Stroll,Aston Martin,Mexico City,2022,Q,,18.0
+Alexander Albon,Williams,Mexico City,2022,Q,,19.0
+Nicholas Latifi,Williams,Mexico City,2022,Q,,20.0
+Max Verstappen,Red Bull Racing,Mexico City,2022,R,1.0,1.0
+Lewis Hamilton,Mercedes,Mexico City,2022,R,3.0,2.0
+Sergio Perez,Red Bull Racing,Mexico City,2022,R,4.0,3.0
+George Russell,Mercedes,Mexico City,2022,R,2.0,4.0
+Carlos Sainz,Ferrari,Mexico City,2022,R,5.0,5.0
+Charles Leclerc,Ferrari,Mexico City,2022,R,7.0,6.0
+Daniel Ricciardo,McLaren,Mexico City,2022,R,11.0,7.0
+Esteban Ocon,Alpine,Mexico City,2022,R,10.0,8.0
+Lando Norris,McLaren,Mexico City,2022,R,8.0,9.0
+Valtteri Bottas,Alfa Romeo,Mexico City,2022,R,6.0,10.0
+Pierre Gasly,AlphaTauri,Mexico City,2022,R,14.0,11.0
+Alexander Albon,Williams,Mexico City,2022,R,17.0,12.0
+Guanyu Zhou,Alfa Romeo,Mexico City,2022,R,12.0,13.0
+Sebastian Vettel,Aston Martin,Mexico City,2022,R,16.0,14.0
+Lance Stroll,Aston Martin,Mexico City,2022,R,20.0,15.0
+Mick Schumacher,Haas F1 Team,Mexico City,2022,R,15.0,16.0
+Kevin Magnussen,Haas F1 Team,Mexico City,2022,R,19.0,17.0
+Nicholas Latifi,Williams,Mexico City,2022,R,18.0,18.0
+Fernando Alonso,Alpine,Mexico City,2022,R,9.0,19.0
+Yuki Tsunoda,AlphaTauri,Mexico City,2022,R,13.0,20.0
+Kevin Magnussen,Haas F1 Team,São Paulo,2022,Q,,1.0
+Max Verstappen,Red Bull Racing,São Paulo,2022,Q,,2.0
+George Russell,Mercedes,São Paulo,2022,Q,,3.0
+Lando Norris,McLaren,São Paulo,2022,Q,,4.0
+Carlos Sainz,Ferrari,São Paulo,2022,Q,,5.0
+Esteban Ocon,Alpine,São Paulo,2022,Q,,6.0
+Fernando Alonso,Alpine,São Paulo,2022,Q,,7.0
+Lewis Hamilton,Mercedes,São Paulo,2022,Q,,8.0
+Sergio Perez,Red Bull Racing,São Paulo,2022,Q,,9.0
+Charles Leclerc,Ferrari,São Paulo,2022,Q,,10.0
+Alexander Albon,Williams,São Paulo,2022,Q,,11.0
+Pierre Gasly,AlphaTauri,São Paulo,2022,Q,,12.0
+Sebastian Vettel,Aston Martin,São Paulo,2022,Q,,13.0
+Daniel Ricciardo,McLaren,São Paulo,2022,Q,,14.0
+Lance Stroll,Aston Martin,São Paulo,2022,Q,,15.0
+Nicholas Latifi,Williams,São Paulo,2022,Q,,16.0
+Guanyu Zhou,Alfa Romeo,São Paulo,2022,Q,,17.0
+Valtteri Bottas,Alfa Romeo,São Paulo,2022,Q,,18.0
+Yuki Tsunoda,AlphaTauri,São Paulo,2022,Q,,19.0
+Mick Schumacher,Haas F1 Team,São Paulo,2022,Q,,20.0
+George Russell,Mercedes,São Paulo,2022,R,1.0,1.0
+Lewis Hamilton,Mercedes,São Paulo,2022,R,2.0,2.0
+Carlos Sainz,Ferrari,São Paulo,2022,R,7.0,3.0
+Charles Leclerc,Ferrari,São Paulo,2022,R,5.0,4.0
+Fernando Alonso,Alpine,São Paulo,2022,R,17.0,5.0
+Max Verstappen,Red Bull Racing,São Paulo,2022,R,3.0,6.0
+Sergio Perez,Red Bull Racing,São Paulo,2022,R,4.0,7.0
+Esteban Ocon,Alpine,São Paulo,2022,R,16.0,8.0
+Valtteri Bottas,Alfa Romeo,São Paulo,2022,R,14.0,9.0
+Lance Stroll,Aston Martin,São Paulo,2022,R,15.0,10.0
+Sebastian Vettel,Aston Martin,São Paulo,2022,R,9.0,11.0
+Guanyu Zhou,Alfa Romeo,São Paulo,2022,R,13.0,12.0
+Mick Schumacher,Haas F1 Team,São Paulo,2022,R,12.0,13.0
+Pierre Gasly,AlphaTauri,São Paulo,2022,R,10.0,14.0
+Alexander Albon,Williams,São Paulo,2022,R,19.0,15.0
+Nicholas Latifi,Williams,São Paulo,2022,R,18.0,16.0
+Yuki Tsunoda,AlphaTauri,São Paulo,2022,R,0.0,17.0
+Lando Norris,McLaren,São Paulo,2022,R,6.0,18.0
+Kevin Magnussen,Haas F1 Team,São Paulo,2022,R,8.0,19.0
+Daniel Ricciardo,McLaren,São Paulo,2022,R,11.0,20.0
+Max Verstappen,Red Bull Racing,Yas Island,2022,Q,,1.0
+Sergio Perez,Red Bull Racing,Yas Island,2022,Q,,2.0
+Charles Leclerc,Ferrari,Yas Island,2022,Q,,3.0
+Carlos Sainz,Ferrari,Yas Island,2022,Q,,4.0
+Lewis Hamilton,Mercedes,Yas Island,2022,Q,,5.0
+George Russell,Mercedes,Yas Island,2022,Q,,6.0
+Lando Norris,McLaren,Yas Island,2022,Q,,7.0
+Esteban Ocon,Alpine,Yas Island,2022,Q,,8.0
+Sebastian Vettel,Aston Martin,Yas Island,2022,Q,,9.0
+Daniel Ricciardo,McLaren,Yas Island,2022,Q,,10.0
+Fernando Alonso,Alpine,Yas Island,2022,Q,,11.0
+Yuki Tsunoda,AlphaTauri,Yas Island,2022,Q,,12.0
+Mick Schumacher,Haas F1 Team,Yas Island,2022,Q,,13.0
+Lance Stroll,Aston Martin,Yas Island,2022,Q,,14.0
+Guanyu Zhou,Alfa Romeo,Yas Island,2022,Q,,15.0
+Kevin Magnussen,Haas F1 Team,Yas Island,2022,Q,,16.0
+Pierre Gasly,AlphaTauri,Yas Island,2022,Q,,17.0
+Valtteri Bottas,Alfa Romeo,Yas Island,2022,Q,,18.0
+Alexander Albon,Williams,Yas Island,2022,Q,,19.0
+Nicholas Latifi,Williams,Yas Island,2022,Q,,20.0
+Max Verstappen,Red Bull Racing,Yas Island,2022,R,1.0,1.0
+Charles Leclerc,Ferrari,Yas Island,2022,R,3.0,2.0
+Sergio Perez,Red Bull Racing,Yas Island,2022,R,2.0,3.0
+Carlos Sainz,Ferrari,Yas Island,2022,R,4.0,4.0
+George Russell,Mercedes,Yas Island,2022,R,6.0,5.0
+Lando Norris,McLaren,Yas Island,2022,R,7.0,6.0
+Esteban Ocon,Alpine,Yas Island,2022,R,8.0,7.0
+Lance Stroll,Aston Martin,Yas Island,2022,R,14.0,8.0
+Daniel Ricciardo,McLaren,Yas Island,2022,R,13.0,9.0
+Sebastian Vettel,Aston Martin,Yas Island,2022,R,9.0,10.0
+Yuki Tsunoda,AlphaTauri,Yas Island,2022,R,11.0,11.0
+Guanyu Zhou,Alfa Romeo,Yas Island,2022,R,15.0,12.0
+Alexander Albon,Williams,Yas Island,2022,R,19.0,13.0
+Pierre Gasly,AlphaTauri,Yas Island,2022,R,17.0,14.0
+Valtteri Bottas,Alfa Romeo,Yas Island,2022,R,18.0,15.0
+Mick Schumacher,Haas F1 Team,Yas Island,2022,R,12.0,16.0
+Kevin Magnussen,Haas F1 Team,Yas Island,2022,R,16.0,17.0
+Lewis Hamilton,Mercedes,Yas Island,2022,R,5.0,18.0
+Nicholas Latifi,Williams,Yas Island,2022,R,20.0,19.0
+Fernando Alonso,Alpine,Yas Island,2022,R,10.0,20.0
+Max Verstappen,Red Bull Racing,Sakhir,2023,Q,,1.0
+Sergio Perez,Red Bull Racing,Sakhir,2023,Q,,2.0
+Charles Leclerc,Ferrari,Sakhir,2023,Q,,3.0
+Carlos Sainz,Ferrari,Sakhir,2023,Q,,4.0
+Fernando Alonso,Aston Martin,Sakhir,2023,Q,,5.0
+George Russell,Mercedes,Sakhir,2023,Q,,6.0
+Lewis Hamilton,Mercedes,Sakhir,2023,Q,,7.0
+Lance Stroll,Aston Martin,Sakhir,2023,Q,,8.0
+Esteban Ocon,Alpine,Sakhir,2023,Q,,9.0
+Nico Hulkenberg,Haas F1 Team,Sakhir,2023,Q,,10.0
+Lando Norris,McLaren,Sakhir,2023,Q,,11.0
+Valtteri Bottas,Alfa Romeo,Sakhir,2023,Q,,12.0
+Guanyu Zhou,Alfa Romeo,Sakhir,2023,Q,,13.0
+Yuki Tsunoda,AlphaTauri,Sakhir,2023,Q,,14.0
+Alexander Albon,Williams,Sakhir,2023,Q,,15.0
+Logan Sargeant,Williams,Sakhir,2023,Q,,16.0
+Kevin Magnussen,Haas F1 Team,Sakhir,2023,Q,,17.0
+Oscar Piastri,McLaren,Sakhir,2023,Q,,18.0
+Nyck De Vries,AlphaTauri,Sakhir,2023,Q,,19.0
+Pierre Gasly,Alpine,Sakhir,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,Sakhir,2023,R,1.0,1.0
+Sergio Perez,Red Bull Racing,Sakhir,2023,R,2.0,2.0
+Fernando Alonso,Aston Martin,Sakhir,2023,R,5.0,3.0
+Carlos Sainz,Ferrari,Sakhir,2023,R,4.0,4.0
+Lewis Hamilton,Mercedes,Sakhir,2023,R,7.0,5.0
+Lance Stroll,Aston Martin,Sakhir,2023,R,8.0,6.0
+George Russell,Mercedes,Sakhir,2023,R,6.0,7.0
+Valtteri Bottas,Alfa Romeo,Sakhir,2023,R,12.0,8.0
+Pierre Gasly,Alpine,Sakhir,2023,R,20.0,9.0
+Alexander Albon,Williams,Sakhir,2023,R,15.0,10.0
+Yuki Tsunoda,AlphaTauri,Sakhir,2023,R,14.0,11.0
+Logan Sargeant,Williams,Sakhir,2023,R,16.0,12.0
+Kevin Magnussen,Haas F1 Team,Sakhir,2023,R,17.0,13.0
+Nyck De Vries,AlphaTauri,Sakhir,2023,R,19.0,14.0
+Nico Hulkenberg,Haas F1 Team,Sakhir,2023,R,10.0,15.0
+Guanyu Zhou,Alfa Romeo,Sakhir,2023,R,13.0,16.0
+Lando Norris,McLaren,Sakhir,2023,R,11.0,17.0
+Esteban Ocon,Alpine,Sakhir,2023,R,9.0,18.0
+Charles Leclerc,Ferrari,Sakhir,2023,R,3.0,19.0
+Oscar Piastri,McLaren,Sakhir,2023,R,18.0,20.0
+Max Verstappen,Red Bull Racing,Sakhir,2023,Q,,1.0
+Sergio Perez,Red Bull Racing,Sakhir,2023,Q,,2.0
+Charles Leclerc,Ferrari,Sakhir,2023,Q,,3.0
+Carlos Sainz,Ferrari,Sakhir,2023,Q,,4.0
+Fernando Alonso,Aston Martin,Sakhir,2023,Q,,5.0
+George Russell,Mercedes,Sakhir,2023,Q,,6.0
+Lewis Hamilton,Mercedes,Sakhir,2023,Q,,7.0
+Lance Stroll,Aston Martin,Sakhir,2023,Q,,8.0
+Esteban Ocon,Alpine,Sakhir,2023,Q,,9.0
+Nico Hulkenberg,Haas F1 Team,Sakhir,2023,Q,,10.0
+Lando Norris,McLaren,Sakhir,2023,Q,,11.0
+Valtteri Bottas,Alfa Romeo,Sakhir,2023,Q,,12.0
+Guanyu Zhou,Alfa Romeo,Sakhir,2023,Q,,13.0
+Yuki Tsunoda,AlphaTauri,Sakhir,2023,Q,,14.0
+Alexander Albon,Williams,Sakhir,2023,Q,,15.0
+Logan Sargeant,Williams,Sakhir,2023,Q,,16.0
+Kevin Magnussen,Haas F1 Team,Sakhir,2023,Q,,17.0
+Oscar Piastri,McLaren,Sakhir,2023,Q,,18.0
+Nyck De Vries,AlphaTauri,Sakhir,2023,Q,,19.0
+Pierre Gasly,Alpine,Sakhir,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,Sakhir,2023,R,1.0,1.0
+Sergio Perez,Red Bull Racing,Sakhir,2023,R,2.0,2.0
+Fernando Alonso,Aston Martin,Sakhir,2023,R,5.0,3.0
+Carlos Sainz,Ferrari,Sakhir,2023,R,4.0,4.0
+Lewis Hamilton,Mercedes,Sakhir,2023,R,7.0,5.0
+Lance Stroll,Aston Martin,Sakhir,2023,R,8.0,6.0
+George Russell,Mercedes,Sakhir,2023,R,6.0,7.0
+Valtteri Bottas,Alfa Romeo,Sakhir,2023,R,12.0,8.0
+Pierre Gasly,Alpine,Sakhir,2023,R,20.0,9.0
+Alexander Albon,Williams,Sakhir,2023,R,15.0,10.0
+Yuki Tsunoda,AlphaTauri,Sakhir,2023,R,14.0,11.0
+Logan Sargeant,Williams,Sakhir,2023,R,16.0,12.0
+Kevin Magnussen,Haas F1 Team,Sakhir,2023,R,17.0,13.0
+Nyck De Vries,AlphaTauri,Sakhir,2023,R,19.0,14.0
+Nico Hulkenberg,Haas F1 Team,Sakhir,2023,R,10.0,15.0
+Guanyu Zhou,Alfa Romeo,Sakhir,2023,R,13.0,16.0
+Lando Norris,McLaren,Sakhir,2023,R,11.0,17.0
+Esteban Ocon,Alpine,Sakhir,2023,R,9.0,18.0
+Charles Leclerc,Ferrari,Sakhir,2023,R,3.0,19.0
+Oscar Piastri,McLaren,Sakhir,2023,R,18.0,20.0
+Sergio Perez,Red Bull Racing,Jeddah,2023,Q,,1.0
+Charles Leclerc,Ferrari,Jeddah,2023,Q,,2.0
+Fernando Alonso,Aston Martin,Jeddah,2023,Q,,3.0
+George Russell,Mercedes,Jeddah,2023,Q,,4.0
+Carlos Sainz,Ferrari,Jeddah,2023,Q,,5.0
+Lance Stroll,Aston Martin,Jeddah,2023,Q,,6.0
+Esteban Ocon,Alpine,Jeddah,2023,Q,,7.0
+Lewis Hamilton,Mercedes,Jeddah,2023,Q,,8.0
+Oscar Piastri,McLaren,Jeddah,2023,Q,,9.0
+Pierre Gasly,Alpine,Jeddah,2023,Q,,10.0
+Nico Hulkenberg,Haas F1 Team,Jeddah,2023,Q,,11.0
+Guanyu Zhou,Alfa Romeo,Jeddah,2023,Q,,12.0
+Kevin Magnussen,Haas F1 Team,Jeddah,2023,Q,,13.0
+Valtteri Bottas,Alfa Romeo,Jeddah,2023,Q,,14.0
+Max Verstappen,Red Bull Racing,Jeddah,2023,Q,,15.0
+Yuki Tsunoda,AlphaTauri,Jeddah,2023,Q,,16.0
+Alexander Albon,Williams,Jeddah,2023,Q,,17.0
+Nyck De Vries,AlphaTauri,Jeddah,2023,Q,,18.0
+Lando Norris,McLaren,Jeddah,2023,Q,,19.0
+Logan Sargeant,Williams,Jeddah,2023,Q,,20.0
+Sergio Perez,Red Bull Racing,Jeddah,2023,R,1.0,1.0
+Max Verstappen,Red Bull Racing,Jeddah,2023,R,15.0,2.0
+Fernando Alonso,Aston Martin,Jeddah,2023,R,2.0,3.0
+George Russell,Mercedes,Jeddah,2023,R,3.0,4.0
+Lewis Hamilton,Mercedes,Jeddah,2023,R,7.0,5.0
+Carlos Sainz,Ferrari,Jeddah,2023,R,4.0,6.0
+Charles Leclerc,Ferrari,Jeddah,2023,R,12.0,7.0
+Esteban Ocon,Alpine,Jeddah,2023,R,6.0,8.0
+Pierre Gasly,Alpine,Jeddah,2023,R,9.0,9.0
+Kevin Magnussen,Haas F1 Team,Jeddah,2023,R,13.0,10.0
+Yuki Tsunoda,AlphaTauri,Jeddah,2023,R,16.0,11.0
+Nico Hulkenberg,Haas F1 Team,Jeddah,2023,R,10.0,12.0
+Guanyu Zhou,Alfa Romeo,Jeddah,2023,R,11.0,13.0
+Nyck De Vries,AlphaTauri,Jeddah,2023,R,18.0,14.0
+Oscar Piastri,McLaren,Jeddah,2023,R,8.0,15.0
+Logan Sargeant,Williams,Jeddah,2023,R,20.0,16.0
+Lando Norris,McLaren,Jeddah,2023,R,19.0,17.0
+Valtteri Bottas,Alfa Romeo,Jeddah,2023,R,14.0,18.0
+Alexander Albon,Williams,Jeddah,2023,R,17.0,19.0
+Lance Stroll,Aston Martin,Jeddah,2023,R,5.0,20.0
+Max Verstappen,Red Bull Racing,Melbourne,2023,Q,,1.0
+George Russell,Mercedes,Melbourne,2023,Q,,2.0
+Lewis Hamilton,Mercedes,Melbourne,2023,Q,,3.0
+Fernando Alonso,Aston Martin,Melbourne,2023,Q,,4.0
+Carlos Sainz,Ferrari,Melbourne,2023,Q,,5.0
+Lance Stroll,Aston Martin,Melbourne,2023,Q,,6.0
+Charles Leclerc,Ferrari,Melbourne,2023,Q,,7.0
+Alexander Albon,Williams,Melbourne,2023,Q,,8.0
+Pierre Gasly,Alpine,Melbourne,2023,Q,,9.0
+Nico Hulkenberg,Haas F1 Team,Melbourne,2023,Q,,10.0
+Esteban Ocon,Alpine,Melbourne,2023,Q,,11.0
+Yuki Tsunoda,AlphaTauri,Melbourne,2023,Q,,12.0
+Lando Norris,McLaren,Melbourne,2023,Q,,13.0
+Kevin Magnussen,Haas F1 Team,Melbourne,2023,Q,,14.0
+Nyck De Vries,AlphaTauri,Melbourne,2023,Q,,15.0
+Oscar Piastri,McLaren,Melbourne,2023,Q,,16.0
+Guanyu Zhou,Alfa Romeo,Melbourne,2023,Q,,17.0
+Logan Sargeant,Williams,Melbourne,2023,Q,,18.0
+Valtteri Bottas,Alfa Romeo,Melbourne,2023,Q,,19.0
+Sergio Perez,Red Bull Racing,Melbourne,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,Melbourne,2023,R,1.0,1.0
+Lewis Hamilton,Mercedes,Melbourne,2023,R,3.0,2.0
+Fernando Alonso,Aston Martin,Melbourne,2023,R,4.0,3.0
+Lance Stroll,Aston Martin,Melbourne,2023,R,6.0,4.0
+Sergio Perez,Red Bull Racing,Melbourne,2023,R,20.0,5.0
+Lando Norris,McLaren,Melbourne,2023,R,13.0,6.0
+Nico Hulkenberg,Haas F1 Team,Melbourne,2023,R,10.0,7.0
+Oscar Piastri,McLaren,Melbourne,2023,R,16.0,8.0
+Guanyu Zhou,Alfa Romeo,Melbourne,2023,R,17.0,9.0
+Yuki Tsunoda,AlphaTauri,Melbourne,2023,R,12.0,10.0
+Valtteri Bottas,Alfa Romeo,Melbourne,2023,R,19.0,11.0
+Carlos Sainz,Ferrari,Melbourne,2023,R,5.0,12.0
+Pierre Gasly,Alpine,Melbourne,2023,R,9.0,13.0
+Esteban Ocon,Alpine,Melbourne,2023,R,11.0,14.0
+Nyck De Vries,AlphaTauri,Melbourne,2023,R,15.0,15.0
+Logan Sargeant,Williams,Melbourne,2023,R,18.0,16.0
+Kevin Magnussen,Haas F1 Team,Melbourne,2023,R,14.0,17.0
+George Russell,Mercedes,Melbourne,2023,R,2.0,18.0
+Alexander Albon,Williams,Melbourne,2023,R,8.0,19.0
+Charles Leclerc,Ferrari,Melbourne,2023,R,7.0,20.0
+Charles Leclerc,Ferrari,Baku,2023,Q,,1.0
+Max Verstappen,Red Bull Racing,Baku,2023,Q,,2.0
+Sergio Perez,Red Bull Racing,Baku,2023,Q,,3.0
+Carlos Sainz,Ferrari,Baku,2023,Q,,4.0
+Lewis Hamilton,Mercedes,Baku,2023,Q,,5.0
+Fernando Alonso,Aston Martin,Baku,2023,Q,,6.0
+Lando Norris,McLaren,Baku,2023,Q,,7.0
+Yuki Tsunoda,AlphaTauri,Baku,2023,Q,,8.0
+Lance Stroll,Aston Martin,Baku,2023,Q,,9.0
+Oscar Piastri,McLaren,Baku,2023,Q,,10.0
+George Russell,Mercedes,Baku,2023,Q,,11.0
+Esteban Ocon,Alpine,Baku,2023,Q,,12.0
+Alexander Albon,Williams,Baku,2023,Q,,13.0
+Valtteri Bottas,Alfa Romeo,Baku,2023,Q,,14.0
+Logan Sargeant,Williams,Baku,2023,Q,,15.0
+Guanyu Zhou,Alfa Romeo,Baku,2023,Q,,16.0
+Nico Hulkenberg,Haas F1 Team,Baku,2023,Q,,17.0
+Kevin Magnussen,Haas F1 Team,Baku,2023,Q,,18.0
+Pierre Gasly,Alpine,Baku,2023,Q,,19.0
+Nyck De Vries,AlphaTauri,Baku,2023,Q,,20.0
+Sergio Perez,Red Bull Racing,Baku,2023,R,3.0,1.0
+Max Verstappen,Red Bull Racing,Baku,2023,R,2.0,2.0
+Charles Leclerc,Ferrari,Baku,2023,R,1.0,3.0
+Fernando Alonso,Aston Martin,Baku,2023,R,6.0,4.0
+Carlos Sainz,Ferrari,Baku,2023,R,4.0,5.0
+Lewis Hamilton,Mercedes,Baku,2023,R,5.0,6.0
+Lance Stroll,Aston Martin,Baku,2023,R,9.0,7.0
+George Russell,Mercedes,Baku,2023,R,11.0,8.0
+Lando Norris,McLaren,Baku,2023,R,7.0,9.0
+Yuki Tsunoda,AlphaTauri,Baku,2023,R,8.0,10.0
+Oscar Piastri,McLaren,Baku,2023,R,10.0,11.0
+Alexander Albon,Williams,Baku,2023,R,12.0,12.0
+Kevin Magnussen,Haas F1 Team,Baku,2023,R,16.0,13.0
+Pierre Gasly,Alpine,Baku,2023,R,17.0,14.0
+Esteban Ocon,Alpine,Baku,2023,R,19.0,15.0
+Logan Sargeant,Williams,Baku,2023,R,14.0,16.0
+Nico Hulkenberg,Haas F1 Team,Baku,2023,R,20.0,17.0
+Valtteri Bottas,Alfa Romeo,Baku,2023,R,13.0,18.0
+Guanyu Zhou,Alfa Romeo,Baku,2023,R,15.0,19.0
+Nyck De Vries,AlphaTauri,Baku,2023,R,18.0,20.0
+Sergio Perez,Red Bull Racing,Miami,2023,Q,,1.0
+Fernando Alonso,Aston Martin,Miami,2023,Q,,2.0
+Carlos Sainz,Ferrari,Miami,2023,Q,,3.0
+Kevin Magnussen,Haas F1 Team,Miami,2023,Q,,4.0
+Pierre Gasly,Alpine,Miami,2023,Q,,5.0
+George Russell,Mercedes,Miami,2023,Q,,6.0
+Charles Leclerc,Ferrari,Miami,2023,Q,,7.0
+Esteban Ocon,Alpine,Miami,2023,Q,,8.0
+Max Verstappen,Red Bull Racing,Miami,2023,Q,,9.0
+Valtteri Bottas,Alfa Romeo,Miami,2023,Q,,10.0
+Alexander Albon,Williams,Miami,2023,Q,,11.0
+Nico Hulkenberg,Haas F1 Team,Miami,2023,Q,,12.0
+Lewis Hamilton,Mercedes,Miami,2023,Q,,13.0
+Guanyu Zhou,Alfa Romeo,Miami,2023,Q,,14.0
+Nyck De Vries,AlphaTauri,Miami,2023,Q,,15.0
+Lando Norris,McLaren,Miami,2023,Q,,16.0
+Yuki Tsunoda,AlphaTauri,Miami,2023,Q,,17.0
+Lance Stroll,Aston Martin,Miami,2023,Q,,18.0
+Oscar Piastri,McLaren,Miami,2023,Q,,19.0
+Logan Sargeant,Williams,Miami,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,Miami,2023,R,9.0,1.0
+Sergio Perez,Red Bull Racing,Miami,2023,R,1.0,2.0
+Fernando Alonso,Aston Martin,Miami,2023,R,2.0,3.0
+George Russell,Mercedes,Miami,2023,R,6.0,4.0
+Carlos Sainz,Ferrari,Miami,2023,R,3.0,5.0
+Lewis Hamilton,Mercedes,Miami,2023,R,13.0,6.0
+Charles Leclerc,Ferrari,Miami,2023,R,7.0,7.0
+Pierre Gasly,Alpine,Miami,2023,R,5.0,8.0
+Esteban Ocon,Alpine,Miami,2023,R,8.0,9.0
+Kevin Magnussen,Haas F1 Team,Miami,2023,R,4.0,10.0
+Yuki Tsunoda,AlphaTauri,Miami,2023,R,17.0,11.0
+Lance Stroll,Aston Martin,Miami,2023,R,18.0,12.0
+Valtteri Bottas,Alfa Romeo,Miami,2023,R,10.0,13.0
+Alexander Albon,Williams,Miami,2023,R,11.0,14.0
+Nico Hulkenberg,Haas F1 Team,Miami,2023,R,12.0,15.0
+Guanyu Zhou,Alfa Romeo,Miami,2023,R,14.0,16.0
+Lando Norris,McLaren,Miami,2023,R,16.0,17.0
+Nyck De Vries,AlphaTauri,Miami,2023,R,15.0,18.0
+Oscar Piastri,McLaren,Miami,2023,R,19.0,19.0
+Logan Sargeant,Williams,Miami,2023,R,20.0,20.0
+Max Verstappen,Red Bull Racing,Monaco,2023,Q,,1.0
+Fernando Alonso,Aston Martin,Monaco,2023,Q,,2.0
+Charles Leclerc,Ferrari,Monaco,2023,Q,,3.0
+Esteban Ocon,Alpine,Monaco,2023,Q,,4.0
+Carlos Sainz,Ferrari,Monaco,2023,Q,,5.0
+Lewis Hamilton,Mercedes,Monaco,2023,Q,,6.0
+Pierre Gasly,Alpine,Monaco,2023,Q,,7.0
+George Russell,Mercedes,Monaco,2023,Q,,8.0
+Yuki Tsunoda,AlphaTauri,Monaco,2023,Q,,9.0
+Lando Norris,McLaren,Monaco,2023,Q,,10.0
+Oscar Piastri,McLaren,Monaco,2023,Q,,11.0
+Nyck De Vries,AlphaTauri,Monaco,2023,Q,,12.0
+Alexander Albon,Williams,Monaco,2023,Q,,13.0
+Lance Stroll,Aston Martin,Monaco,2023,Q,,14.0
+Valtteri Bottas,Alfa Romeo,Monaco,2023,Q,,15.0
+Logan Sargeant,Williams,Monaco,2023,Q,,16.0
+Kevin Magnussen,Haas F1 Team,Monaco,2023,Q,,17.0
+Nico Hulkenberg,Haas F1 Team,Monaco,2023,Q,,18.0
+Guanyu Zhou,Alfa Romeo,Monaco,2023,Q,,19.0
+Sergio Perez,Red Bull Racing,Monaco,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,Monaco,2023,R,1.0,1.0
+Fernando Alonso,Aston Martin,Monaco,2023,R,2.0,2.0
+Esteban Ocon,Alpine,Monaco,2023,R,3.0,3.0
+Lewis Hamilton,Mercedes,Monaco,2023,R,5.0,4.0
+George Russell,Mercedes,Monaco,2023,R,8.0,5.0
+Charles Leclerc,Ferrari,Monaco,2023,R,6.0,6.0
+Pierre Gasly,Alpine,Monaco,2023,R,7.0,7.0
+Carlos Sainz,Ferrari,Monaco,2023,R,4.0,8.0
+Lando Norris,McLaren,Monaco,2023,R,10.0,9.0
+Oscar Piastri,McLaren,Monaco,2023,R,11.0,10.0
+Valtteri Bottas,Alfa Romeo,Monaco,2023,R,15.0,11.0
+Nyck De Vries,AlphaTauri,Monaco,2023,R,12.0,12.0
+Guanyu Zhou,Alfa Romeo,Monaco,2023,R,19.0,13.0
+Alexander Albon,Williams,Monaco,2023,R,13.0,14.0
+Yuki Tsunoda,AlphaTauri,Monaco,2023,R,9.0,15.0
+Sergio Perez,Red Bull Racing,Monaco,2023,R,20.0,16.0
+Nico Hulkenberg,Haas F1 Team,Monaco,2023,R,18.0,17.0
+Logan Sargeant,Williams,Monaco,2023,R,16.0,18.0
+Kevin Magnussen,Haas F1 Team,Monaco,2023,R,17.0,19.0
+Lance Stroll,Aston Martin,Monaco,2023,R,14.0,20.0
+Max Verstappen,Red Bull Racing,Barcelona,2023,Q,,1.0
+Carlos Sainz,Ferrari,Barcelona,2023,Q,,2.0
+Lando Norris,McLaren,Barcelona,2023,Q,,3.0
+Pierre Gasly,Alpine,Barcelona,2023,Q,,4.0
+Lewis Hamilton,Mercedes,Barcelona,2023,Q,,5.0
+Lance Stroll,Aston Martin,Barcelona,2023,Q,,6.0
+Esteban Ocon,Alpine,Barcelona,2023,Q,,7.0
+Nico Hulkenberg,Haas F1 Team,Barcelona,2023,Q,,8.0
+Fernando Alonso,Aston Martin,Barcelona,2023,Q,,9.0
+Oscar Piastri,McLaren,Barcelona,2023,Q,,10.0
+Sergio Perez,Red Bull Racing,Barcelona,2023,Q,,11.0
+George Russell,Mercedes,Barcelona,2023,Q,,12.0
+Guanyu Zhou,Alfa Romeo,Barcelona,2023,Q,,13.0
+Nyck De Vries,AlphaTauri,Barcelona,2023,Q,,14.0
+Yuki Tsunoda,AlphaTauri,Barcelona,2023,Q,,15.0
+Valtteri Bottas,Alfa Romeo,Barcelona,2023,Q,,16.0
+Kevin Magnussen,Haas F1 Team,Barcelona,2023,Q,,17.0
+Alexander Albon,Williams,Barcelona,2023,Q,,18.0
+Charles Leclerc,Ferrari,Barcelona,2023,Q,,19.0
+Logan Sargeant,Williams,Barcelona,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,Barcelona,2023,R,1.0,1.0
+Lewis Hamilton,Mercedes,Barcelona,2023,R,4.0,2.0
+George Russell,Mercedes,Barcelona,2023,R,12.0,3.0
+Sergio Perez,Red Bull Racing,Barcelona,2023,R,11.0,4.0
+Carlos Sainz,Ferrari,Barcelona,2023,R,2.0,5.0
+Lance Stroll,Aston Martin,Barcelona,2023,R,5.0,6.0
+Fernando Alonso,Aston Martin,Barcelona,2023,R,8.0,7.0
+Esteban Ocon,Alpine,Barcelona,2023,R,6.0,8.0
+Guanyu Zhou,Alfa Romeo,Barcelona,2023,R,13.0,9.0
+Pierre Gasly,Alpine,Barcelona,2023,R,10.0,10.0
+Charles Leclerc,Ferrari,Barcelona,2023,R,19.0,11.0
+Yuki Tsunoda,AlphaTauri,Barcelona,2023,R,15.0,12.0
+Oscar Piastri,McLaren,Barcelona,2023,R,9.0,13.0
+Nyck De Vries,AlphaTauri,Barcelona,2023,R,14.0,14.0
+Nico Hulkenberg,Haas F1 Team,Barcelona,2023,R,7.0,15.0
+Alexander Albon,Williams,Barcelona,2023,R,18.0,16.0
+Lando Norris,McLaren,Barcelona,2023,R,3.0,17.0
+Kevin Magnussen,Haas F1 Team,Barcelona,2023,R,17.0,18.0
+Valtteri Bottas,Alfa Romeo,Barcelona,2023,R,16.0,19.0
+Logan Sargeant,Williams,Barcelona,2023,R,20.0,20.0
+Max Verstappen,Red Bull Racing,Montréal,2023,Q,,1.0
+Nico Hulkenberg,Haas F1 Team,Montréal,2023,Q,,2.0
+Fernando Alonso,Aston Martin,Montréal,2023,Q,,3.0
+Lewis Hamilton,Mercedes,Montréal,2023,Q,,4.0
+George Russell,Mercedes,Montréal,2023,Q,,5.0
+Esteban Ocon,Alpine,Montréal,2023,Q,,6.0
+Lando Norris,McLaren,Montréal,2023,Q,,7.0
+Carlos Sainz,Ferrari,Montréal,2023,Q,,8.0
+Oscar Piastri,McLaren,Montréal,2023,Q,,9.0
+Alexander Albon,Williams,Montréal,2023,Q,,10.0
+Charles Leclerc,Ferrari,Montréal,2023,Q,,11.0
+Sergio Perez,Red Bull Racing,Montréal,2023,Q,,12.0
+Lance Stroll,Aston Martin,Montréal,2023,Q,,13.0
+Kevin Magnussen,Haas F1 Team,Montréal,2023,Q,,14.0
+Valtteri Bottas,Alfa Romeo,Montréal,2023,Q,,15.0
+Yuki Tsunoda,AlphaTauri,Montréal,2023,Q,,16.0
+Pierre Gasly,Alpine,Montréal,2023,Q,,17.0
+Nyck De Vries,AlphaTauri,Montréal,2023,Q,,18.0
+Logan Sargeant,Williams,Montréal,2023,Q,,19.0
+Guanyu Zhou,Alfa Romeo,Montréal,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,Montréal,2023,R,1.0,1.0
+Fernando Alonso,Aston Martin,Montréal,2023,R,2.0,2.0
+Lewis Hamilton,Mercedes,Montréal,2023,R,3.0,3.0
+Charles Leclerc,Ferrari,Montréal,2023,R,10.0,4.0
+Carlos Sainz,Ferrari,Montréal,2023,R,11.0,5.0
+Sergio Perez,Red Bull Racing,Montréal,2023,R,12.0,6.0
+Alexander Albon,Williams,Montréal,2023,R,9.0,7.0
+Esteban Ocon,Alpine,Montréal,2023,R,6.0,8.0
+Lance Stroll,Aston Martin,Montréal,2023,R,16.0,9.0
+Valtteri Bottas,Alfa Romeo,Montréal,2023,R,14.0,10.0
+Oscar Piastri,McLaren,Montréal,2023,R,8.0,11.0
+Pierre Gasly,Alpine,Montréal,2023,R,15.0,12.0
+Lando Norris,McLaren,Montréal,2023,R,7.0,13.0
+Yuki Tsunoda,AlphaTauri,Montréal,2023,R,19.0,14.0
+Nico Hulkenberg,Haas F1 Team,Montréal,2023,R,5.0,15.0
+Guanyu Zhou,Alfa Romeo,Montréal,2023,R,20.0,16.0
+Kevin Magnussen,Haas F1 Team,Montréal,2023,R,13.0,17.0
+Nyck De Vries,AlphaTauri,Montréal,2023,R,17.0,18.0
+George Russell,Mercedes,Montréal,2023,R,4.0,19.0
+Logan Sargeant,Williams,Montréal,2023,R,18.0,20.0
+Max Verstappen,Red Bull Racing,Spielberg,2023,Q,,1.0
+Charles Leclerc,Ferrari,Spielberg,2023,Q,,2.0
+Carlos Sainz,Ferrari,Spielberg,2023,Q,,3.0
+Lando Norris,McLaren,Spielberg,2023,Q,,4.0
+Lewis Hamilton,Mercedes,Spielberg,2023,Q,,5.0
+Lance Stroll,Aston Martin,Spielberg,2023,Q,,6.0
+Fernando Alonso,Aston Martin,Spielberg,2023,Q,,7.0
+Nico Hulkenberg,Haas F1 Team,Spielberg,2023,Q,,8.0
+Pierre Gasly,Alpine,Spielberg,2023,Q,,9.0
+Alexander Albon,Williams,Spielberg,2023,Q,,10.0
+George Russell,Mercedes,Spielberg,2023,Q,,11.0
+Esteban Ocon,Alpine,Spielberg,2023,Q,,12.0
+Oscar Piastri,McLaren,Spielberg,2023,Q,,13.0
+Valtteri Bottas,Alfa Romeo,Spielberg,2023,Q,,14.0
+Sergio Perez,Red Bull Racing,Spielberg,2023,Q,,15.0
+Yuki Tsunoda,AlphaTauri,Spielberg,2023,Q,,16.0
+Guanyu Zhou,Alfa Romeo,Spielberg,2023,Q,,17.0
+Logan Sargeant,Williams,Spielberg,2023,Q,,18.0
+Kevin Magnussen,Haas F1 Team,Spielberg,2023,Q,,19.0
+Nyck De Vries,AlphaTauri,Spielberg,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,Spielberg,2023,R,1.0,1.0
+Charles Leclerc,Ferrari,Spielberg,2023,R,2.0,2.0
+Sergio Perez,Red Bull Racing,Spielberg,2023,R,15.0,3.0
+Lando Norris,McLaren,Spielberg,2023,R,4.0,4.0
+Fernando Alonso,Aston Martin,Spielberg,2023,R,7.0,5.0
+Carlos Sainz,Ferrari,Spielberg,2023,R,3.0,6.0
+George Russell,Mercedes,Spielberg,2023,R,11.0,7.0
+Lewis Hamilton,Mercedes,Spielberg,2023,R,5.0,8.0
+Lance Stroll,Aston Martin,Spielberg,2023,R,6.0,9.0
+Pierre Gasly,Alpine,Spielberg,2023,R,9.0,10.0
+Alexander Albon,Williams,Spielberg,2023,R,10.0,11.0
+Guanyu Zhou,Alfa Romeo,Spielberg,2023,R,17.0,12.0
+Logan Sargeant,Williams,Spielberg,2023,R,18.0,13.0
+Esteban Ocon,Alpine,Spielberg,2023,R,12.0,14.0
+Valtteri Bottas,Alfa Romeo,Spielberg,2023,R,14.0,15.0
+Oscar Piastri,McLaren,Spielberg,2023,R,13.0,16.0
+Nyck De Vries,AlphaTauri,Spielberg,2023,R,20.0,17.0
+Kevin Magnussen,Haas F1 Team,Spielberg,2023,R,19.0,18.0
+Yuki Tsunoda,AlphaTauri,Spielberg,2023,R,16.0,19.0
+Nico Hulkenberg,Haas F1 Team,Spielberg,2023,R,8.0,20.0
+Max Verstappen,Red Bull Racing,Silverstone,2023,Q,,1.0
+Lando Norris,McLaren,Silverstone,2023,Q,,2.0
+Oscar Piastri,McLaren,Silverstone,2023,Q,,3.0
+Charles Leclerc,Ferrari,Silverstone,2023,Q,,4.0
+Carlos Sainz,Ferrari,Silverstone,2023,Q,,5.0
+George Russell,Mercedes,Silverstone,2023,Q,,6.0
+Lewis Hamilton,Mercedes,Silverstone,2023,Q,,7.0
+Alexander Albon,Williams,Silverstone,2023,Q,,8.0
+Fernando Alonso,Aston Martin,Silverstone,2023,Q,,9.0
+Pierre Gasly,Alpine,Silverstone,2023,Q,,10.0
+Nico Hulkenberg,Haas F1 Team,Silverstone,2023,Q,,11.0
+Lance Stroll,Aston Martin,Silverstone,2023,Q,,12.0
+Esteban Ocon,Alpine,Silverstone,2023,Q,,13.0
+Logan Sargeant,Williams,Silverstone,2023,Q,,14.0
+Valtteri Bottas,Alfa Romeo,Silverstone,2023,Q,,15.0
+Sergio Perez,Red Bull Racing,Silverstone,2023,Q,,15.0
+Yuki Tsunoda,AlphaTauri,Silverstone,2023,Q,,16.0
+Guanyu Zhou,Alfa Romeo,Silverstone,2023,Q,,17.0
+Nyck De Vries,AlphaTauri,Silverstone,2023,Q,,18.0
+Kevin Magnussen,Haas F1 Team,Silverstone,2023,Q,,19.0
+Max Verstappen,Red Bull Racing,Silverstone,2023,R,1.0,1.0
+Lando Norris,McLaren,Silverstone,2023,R,2.0,2.0
+Lewis Hamilton,Mercedes,Silverstone,2023,R,7.0,3.0
+Oscar Piastri,McLaren,Silverstone,2023,R,3.0,4.0
+George Russell,Mercedes,Silverstone,2023,R,6.0,5.0
+Sergio Perez,Red Bull Racing,Silverstone,2023,R,15.0,6.0
+Fernando Alonso,Aston Martin,Silverstone,2023,R,9.0,7.0
+Alexander Albon,Williams,Silverstone,2023,R,8.0,8.0
+Charles Leclerc,Ferrari,Silverstone,2023,R,4.0,9.0
+Carlos Sainz,Ferrari,Silverstone,2023,R,5.0,10.0
+Logan Sargeant,Williams,Silverstone,2023,R,14.0,11.0
+Valtteri Bottas,Alfa Romeo,Silverstone,2023,R,20.0,12.0
+Nico Hulkenberg,Haas F1 Team,Silverstone,2023,R,11.0,13.0
+Lance Stroll,Aston Martin,Silverstone,2023,R,12.0,14.0
+Guanyu Zhou,Alfa Romeo,Silverstone,2023,R,17.0,15.0
+Yuki Tsunoda,AlphaTauri,Silverstone,2023,R,16.0,16.0
+Nyck De Vries,AlphaTauri,Silverstone,2023,R,18.0,17.0
+Pierre Gasly,Alpine,Silverstone,2023,R,10.0,18.0
+Kevin Magnussen,Haas F1 Team,Silverstone,2023,R,19.0,19.0
+Esteban Ocon,Alpine,Silverstone,2023,R,13.0,20.0
+Lewis Hamilton,Mercedes,Budapest,2023,Q,,1.0
+Max Verstappen,Red Bull Racing,Budapest,2023,Q,,2.0
+Lando Norris,McLaren,Budapest,2023,Q,,3.0
+Oscar Piastri,McLaren,Budapest,2023,Q,,4.0
+Guanyu Zhou,Alfa Romeo,Budapest,2023,Q,,5.0
+Charles Leclerc,Ferrari,Budapest,2023,Q,,6.0
+Valtteri Bottas,Alfa Romeo,Budapest,2023,Q,,7.0
+Fernando Alonso,Aston Martin,Budapest,2023,Q,,8.0
+Sergio Perez,Red Bull Racing,Budapest,2023,Q,,9.0
+Nico Hulkenberg,Haas F1 Team,Budapest,2023,Q,,10.0
+Carlos Sainz,Ferrari,Budapest,2023,Q,,11.0
+Esteban Ocon,Alpine,Budapest,2023,Q,,12.0
+Daniel Ricciardo,AlphaTauri,Budapest,2023,Q,,13.0
+Lance Stroll,Aston Martin,Budapest,2023,Q,,14.0
+Pierre Gasly,Alpine,Budapest,2023,Q,,15.0
+Alexander Albon,Williams,Budapest,2023,Q,,16.0
+Yuki Tsunoda,AlphaTauri,Budapest,2023,Q,,17.0
+George Russell,Mercedes,Budapest,2023,Q,,18.0
+Kevin Magnussen,Haas F1 Team,Budapest,2023,Q,,19.0
+Logan Sargeant,Williams,Budapest,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,Budapest,2023,R,2.0,1.0
+Lando Norris,McLaren,Budapest,2023,R,3.0,2.0
+Sergio Perez,Red Bull Racing,Budapest,2023,R,9.0,3.0
+Lewis Hamilton,Mercedes,Budapest,2023,R,1.0,4.0
+Oscar Piastri,McLaren,Budapest,2023,R,4.0,5.0
+George Russell,Mercedes,Budapest,2023,R,18.0,6.0
+Charles Leclerc,Ferrari,Budapest,2023,R,6.0,7.0
+Carlos Sainz,Ferrari,Budapest,2023,R,11.0,8.0
+Fernando Alonso,Aston Martin,Budapest,2023,R,8.0,9.0
+Lance Stroll,Aston Martin,Budapest,2023,R,14.0,10.0
+Alexander Albon,Williams,Budapest,2023,R,16.0,11.0
+Valtteri Bottas,Alfa Romeo,Budapest,2023,R,7.0,12.0
+Daniel Ricciardo,AlphaTauri,Budapest,2023,R,13.0,13.0
+Nico Hulkenberg,Haas F1 Team,Budapest,2023,R,10.0,14.0
+Yuki Tsunoda,AlphaTauri,Budapest,2023,R,17.0,15.0
+Guanyu Zhou,Alfa Romeo,Budapest,2023,R,5.0,16.0
+Kevin Magnussen,Haas F1 Team,Budapest,2023,R,19.0,17.0
+Logan Sargeant,Williams,Budapest,2023,R,20.0,18.0
+Esteban Ocon,Alpine,Budapest,2023,R,12.0,19.0
+Pierre Gasly,Alpine,Budapest,2023,R,15.0,20.0
+Max Verstappen,Red Bull Racing,Spa-Francorchamps,2023,Q,,1.0
+Charles Leclerc,Ferrari,Spa-Francorchamps,2023,Q,,2.0
+Sergio Perez,Red Bull Racing,Spa-Francorchamps,2023,Q,,3.0
+Lewis Hamilton,Mercedes,Spa-Francorchamps,2023,Q,,4.0
+Carlos Sainz,Ferrari,Spa-Francorchamps,2023,Q,,5.0
+Oscar Piastri,McLaren,Spa-Francorchamps,2023,Q,,6.0
+Lando Norris,McLaren,Spa-Francorchamps,2023,Q,,7.0
+George Russell,Mercedes,Spa-Francorchamps,2023,Q,,8.0
+Fernando Alonso,Aston Martin,Spa-Francorchamps,2023,Q,,9.0
+Lance Stroll,Aston Martin,Spa-Francorchamps,2023,Q,,10.0
+Yuki Tsunoda,AlphaTauri,Spa-Francorchamps,2023,Q,,11.0
+Pierre Gasly,Alpine,Spa-Francorchamps,2023,Q,,12.0
+Kevin Magnussen,Haas F1 Team,Spa-Francorchamps,2023,Q,,13.0
+Valtteri Bottas,Alfa Romeo,Spa-Francorchamps,2023,Q,,14.0
+Esteban Ocon,Alpine,Spa-Francorchamps,2023,Q,,15.0
+Alexander Albon,Williams,Spa-Francorchamps,2023,Q,,16.0
+Guanyu Zhou,Alfa Romeo,Spa-Francorchamps,2023,Q,,17.0
+Logan Sargeant,Williams,Spa-Francorchamps,2023,Q,,18.0
+Daniel Ricciardo,AlphaTauri,Spa-Francorchamps,2023,Q,,19.0
+Nico Hulkenberg,Haas F1 Team,Spa-Francorchamps,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,Spa-Francorchamps,2023,R,6.0,1.0
+Sergio Perez,Red Bull Racing,Spa-Francorchamps,2023,R,2.0,2.0
+Charles Leclerc,Ferrari,Spa-Francorchamps,2023,R,1.0,3.0
+Lewis Hamilton,Mercedes,Spa-Francorchamps,2023,R,3.0,4.0
+Fernando Alonso,Aston Martin,Spa-Francorchamps,2023,R,9.0,5.0
+George Russell,Mercedes,Spa-Francorchamps,2023,R,8.0,6.0
+Lando Norris,McLaren,Spa-Francorchamps,2023,R,7.0,7.0
+Esteban Ocon,Alpine,Spa-Francorchamps,2023,R,14.0,8.0
+Lance Stroll,Aston Martin,Spa-Francorchamps,2023,R,10.0,9.0
+Yuki Tsunoda,AlphaTauri,Spa-Francorchamps,2023,R,11.0,10.0
+Pierre Gasly,Alpine,Spa-Francorchamps,2023,R,12.0,11.0
+Valtteri Bottas,Alfa Romeo,Spa-Francorchamps,2023,R,13.0,12.0
+Guanyu Zhou,Alfa Romeo,Spa-Francorchamps,2023,R,17.0,13.0
+Alexander Albon,Williams,Spa-Francorchamps,2023,R,15.0,14.0
+Kevin Magnussen,Haas F1 Team,Spa-Francorchamps,2023,R,16.0,15.0
+Daniel Ricciardo,AlphaTauri,Spa-Francorchamps,2023,R,19.0,16.0
+Logan Sargeant,Williams,Spa-Francorchamps,2023,R,18.0,17.0
+Nico Hulkenberg,Haas F1 Team,Spa-Francorchamps,2023,R,20.0,18.0
+Carlos Sainz,Ferrari,Spa-Francorchamps,2023,R,4.0,19.0
+Oscar Piastri,McLaren,Spa-Francorchamps,2023,R,5.0,20.0
+Max Verstappen,Red Bull Racing,Zandvoort,2023,Q,,1.0
+Lando Norris,McLaren,Zandvoort,2023,Q,,2.0
+George Russell,Mercedes,Zandvoort,2023,Q,,3.0
+Alexander Albon,Williams,Zandvoort,2023,Q,,4.0
+Fernando Alonso,Aston Martin,Zandvoort,2023,Q,,5.0
+Carlos Sainz,Ferrari,Zandvoort,2023,Q,,6.0
+Sergio Perez,Red Bull Racing,Zandvoort,2023,Q,,7.0
+Oscar Piastri,McLaren,Zandvoort,2023,Q,,8.0
+Charles Leclerc,Ferrari,Zandvoort,2023,Q,,9.0
+Logan Sargeant,Williams,Zandvoort,2023,Q,,10.0
+Lance Stroll,Aston Martin,Zandvoort,2023,Q,,11.0
+Pierre Gasly,Alpine,Zandvoort,2023,Q,,12.0
+Lewis Hamilton,Mercedes,Zandvoort,2023,Q,,13.0
+Yuki Tsunoda,AlphaTauri,Zandvoort,2023,Q,,14.0
+Nico Hulkenberg,Haas F1 Team,Zandvoort,2023,Q,,15.0
+Guanyu Zhou,Alfa Romeo,Zandvoort,2023,Q,,16.0
+Esteban Ocon,Alpine,Zandvoort,2023,Q,,17.0
+Kevin Magnussen,Haas F1 Team,Zandvoort,2023,Q,,18.0
+Valtteri Bottas,Alfa Romeo,Zandvoort,2023,Q,,19.0
+Liam Lawson,AlphaTauri,Zandvoort,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,Zandvoort,2023,R,1.0,1.0
+Fernando Alonso,Aston Martin,Zandvoort,2023,R,5.0,2.0
+Pierre Gasly,Alpine,Zandvoort,2023,R,12.0,3.0
+Sergio Perez,Red Bull Racing,Zandvoort,2023,R,7.0,4.0
+Carlos Sainz,Ferrari,Zandvoort,2023,R,6.0,5.0
+Lewis Hamilton,Mercedes,Zandvoort,2023,R,13.0,6.0
+Lando Norris,McLaren,Zandvoort,2023,R,2.0,7.0
+Alexander Albon,Williams,Zandvoort,2023,R,4.0,8.0
+Oscar Piastri,McLaren,Zandvoort,2023,R,8.0,9.0
+Esteban Ocon,Alpine,Zandvoort,2023,R,16.0,10.0
+Lance Stroll,Aston Martin,Zandvoort,2023,R,11.0,11.0
+Nico Hulkenberg,Haas F1 Team,Zandvoort,2023,R,14.0,12.0
+Liam Lawson,AlphaTauri,Zandvoort,2023,R,19.0,13.0
+Valtteri Bottas,Alfa Romeo,Zandvoort,2023,R,18.0,14.0
+Yuki Tsunoda,AlphaTauri,Zandvoort,2023,R,17.0,15.0
+Kevin Magnussen,Haas F1 Team,Zandvoort,2023,R,0.0,16.0
+George Russell,Mercedes,Zandvoort,2023,R,3.0,17.0
+Guanyu Zhou,Alfa Romeo,Zandvoort,2023,R,15.0,18.0
+Charles Leclerc,Ferrari,Zandvoort,2023,R,9.0,19.0
+Logan Sargeant,Williams,Zandvoort,2023,R,10.0,20.0
+Carlos Sainz,Ferrari,Monza,2023,Q,,1.0
+Max Verstappen,Red Bull Racing,Monza,2023,Q,,2.0
+Charles Leclerc,Ferrari,Monza,2023,Q,,3.0
+George Russell,Mercedes,Monza,2023,Q,,4.0
+Sergio Perez,Red Bull Racing,Monza,2023,Q,,5.0
+Alexander Albon,Williams,Monza,2023,Q,,6.0
+Oscar Piastri,McLaren,Monza,2023,Q,,7.0
+Lewis Hamilton,Mercedes,Monza,2023,Q,,8.0
+Lando Norris,McLaren,Monza,2023,Q,,9.0
+Fernando Alonso,Aston Martin,Monza,2023,Q,,10.0
+Yuki Tsunoda,AlphaTauri,Monza,2023,Q,,11.0
+Liam Lawson,AlphaTauri,Monza,2023,Q,,12.0
+Nico Hulkenberg,Haas F1 Team,Monza,2023,Q,,13.0
+Valtteri Bottas,Alfa Romeo,Monza,2023,Q,,14.0
+Logan Sargeant,Williams,Monza,2023,Q,,15.0
+Guanyu Zhou,Alfa Romeo,Monza,2023,Q,,16.0
+Pierre Gasly,Alpine,Monza,2023,Q,,17.0
+Esteban Ocon,Alpine,Monza,2023,Q,,18.0
+Kevin Magnussen,Haas F1 Team,Monza,2023,Q,,19.0
+Lance Stroll,Aston Martin,Monza,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,Monza,2023,R,2.0,1.0
+Sergio Perez,Red Bull Racing,Monza,2023,R,5.0,2.0
+Carlos Sainz,Ferrari,Monza,2023,R,1.0,3.0
+Charles Leclerc,Ferrari,Monza,2023,R,3.0,4.0
+George Russell,Mercedes,Monza,2023,R,4.0,5.0
+Lewis Hamilton,Mercedes,Monza,2023,R,8.0,6.0
+Alexander Albon,Williams,Monza,2023,R,6.0,7.0
+Lando Norris,McLaren,Monza,2023,R,9.0,8.0
+Fernando Alonso,Aston Martin,Monza,2023,R,10.0,9.0
+Valtteri Bottas,Alfa Romeo,Monza,2023,R,14.0,10.0
+Liam Lawson,AlphaTauri,Monza,2023,R,12.0,11.0
+Oscar Piastri,McLaren,Monza,2023,R,7.0,12.0
+Logan Sargeant,Williams,Monza,2023,R,15.0,13.0
+Guanyu Zhou,Alfa Romeo,Monza,2023,R,16.0,14.0
+Pierre Gasly,Alpine,Monza,2023,R,17.0,15.0
+Lance Stroll,Aston Martin,Monza,2023,R,20.0,16.0
+Nico Hulkenberg,Haas F1 Team,Monza,2023,R,13.0,17.0
+Kevin Magnussen,Haas F1 Team,Monza,2023,R,19.0,18.0
+Esteban Ocon,Alpine,Monza,2023,R,18.0,19.0
+Yuki Tsunoda,AlphaTauri,Monza,2023,R,11.0,20.0
+Carlos Sainz,Ferrari,Marina Bay,2023,Q,,1.0
+George Russell,Mercedes,Marina Bay,2023,Q,,2.0
+Charles Leclerc,Ferrari,Marina Bay,2023,Q,,3.0
+Lando Norris,McLaren,Marina Bay,2023,Q,,4.0
+Lewis Hamilton,Mercedes,Marina Bay,2023,Q,,5.0
+Kevin Magnussen,Haas F1 Team,Marina Bay,2023,Q,,6.0
+Fernando Alonso,Aston Martin,Marina Bay,2023,Q,,7.0
+Esteban Ocon,Alpine,Marina Bay,2023,Q,,8.0
+Nico Hulkenberg,Haas F1 Team,Marina Bay,2023,Q,,9.0
+Liam Lawson,AlphaTauri,Marina Bay,2023,Q,,10.0
+Max Verstappen,Red Bull Racing,Marina Bay,2023,Q,,11.0
+Pierre Gasly,Alpine,Marina Bay,2023,Q,,12.0
+Sergio Perez,Red Bull Racing,Marina Bay,2023,Q,,13.0
+Alexander Albon,Williams,Marina Bay,2023,Q,,14.0
+Yuki Tsunoda,AlphaTauri,Marina Bay,2023,Q,,15.0
+Valtteri Bottas,Alfa Romeo,Marina Bay,2023,Q,,16.0
+Oscar Piastri,McLaren,Marina Bay,2023,Q,,17.0
+Logan Sargeant,Williams,Marina Bay,2023,Q,,18.0
+Guanyu Zhou,Alfa Romeo,Marina Bay,2023,Q,,19.0
+Lance Stroll,Aston Martin,Marina Bay,2023,Q,,20.0
+Carlos Sainz,Ferrari,Marina Bay,2023,R,1.0,1.0
+Lando Norris,McLaren,Marina Bay,2023,R,4.0,2.0
+Lewis Hamilton,Mercedes,Marina Bay,2023,R,5.0,3.0
+Charles Leclerc,Ferrari,Marina Bay,2023,R,3.0,4.0
+Max Verstappen,Red Bull Racing,Marina Bay,2023,R,11.0,5.0
+Pierre Gasly,Alpine,Marina Bay,2023,R,12.0,6.0
+Oscar Piastri,McLaren,Marina Bay,2023,R,17.0,7.0
+Sergio Perez,Red Bull Racing,Marina Bay,2023,R,13.0,8.0
+Liam Lawson,AlphaTauri,Marina Bay,2023,R,10.0,9.0
+Kevin Magnussen,Haas F1 Team,Marina Bay,2023,R,6.0,10.0
+Alexander Albon,Williams,Marina Bay,2023,R,14.0,11.0
+Guanyu Zhou,Alfa Romeo,Marina Bay,2023,R,19.0,12.0
+Nico Hulkenberg,Haas F1 Team,Marina Bay,2023,R,9.0,13.0
+Logan Sargeant,Williams,Marina Bay,2023,R,18.0,14.0
+Fernando Alonso,Aston Martin,Marina Bay,2023,R,7.0,15.0
+George Russell,Mercedes,Marina Bay,2023,R,2.0,16.0
+Valtteri Bottas,Alfa Romeo,Marina Bay,2023,R,16.0,17.0
+Esteban Ocon,Alpine,Marina Bay,2023,R,8.0,18.0
+Yuki Tsunoda,AlphaTauri,Marina Bay,2023,R,15.0,19.0
+Lance Stroll,Aston Martin,Marina Bay,2023,R,,
+Max Verstappen,Red Bull Racing,Suzuka,2023,Q,,1.0
+Oscar Piastri,McLaren,Suzuka,2023,Q,,2.0
+Lando Norris,McLaren,Suzuka,2023,Q,,3.0
+Charles Leclerc,Ferrari,Suzuka,2023,Q,,4.0
+Sergio Perez,Red Bull Racing,Suzuka,2023,Q,,5.0
+Carlos Sainz,Ferrari,Suzuka,2023,Q,,6.0
+Lewis Hamilton,Mercedes,Suzuka,2023,Q,,7.0
+George Russell,Mercedes,Suzuka,2023,Q,,8.0
+Yuki Tsunoda,AlphaTauri,Suzuka,2023,Q,,9.0
+Fernando Alonso,Aston Martin,Suzuka,2023,Q,,10.0
+Liam Lawson,AlphaTauri,Suzuka,2023,Q,,11.0
+Pierre Gasly,Alpine,Suzuka,2023,Q,,12.0
+Alexander Albon,Williams,Suzuka,2023,Q,,13.0
+Esteban Ocon,Alpine,Suzuka,2023,Q,,14.0
+Kevin Magnussen,Haas F1 Team,Suzuka,2023,Q,,15.0
+Valtteri Bottas,Alfa Romeo,Suzuka,2023,Q,,16.0
+Lance Stroll,Aston Martin,Suzuka,2023,Q,,17.0
+Nico Hulkenberg,Haas F1 Team,Suzuka,2023,Q,,18.0
+Guanyu Zhou,Alfa Romeo,Suzuka,2023,Q,,19.0
+Logan Sargeant,Williams,Suzuka,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,Suzuka,2023,R,1.0,1.0
+Lando Norris,McLaren,Suzuka,2023,R,3.0,2.0
+Oscar Piastri,McLaren,Suzuka,2023,R,2.0,3.0
+Charles Leclerc,Ferrari,Suzuka,2023,R,4.0,4.0
+Lewis Hamilton,Mercedes,Suzuka,2023,R,7.0,5.0
+Carlos Sainz,Ferrari,Suzuka,2023,R,6.0,6.0
+George Russell,Mercedes,Suzuka,2023,R,8.0,7.0
+Fernando Alonso,Aston Martin,Suzuka,2023,R,10.0,8.0
+Esteban Ocon,Alpine,Suzuka,2023,R,14.0,9.0
+Pierre Gasly,Alpine,Suzuka,2023,R,12.0,10.0
+Liam Lawson,AlphaTauri,Suzuka,2023,R,11.0,11.0
+Yuki Tsunoda,AlphaTauri,Suzuka,2023,R,9.0,12.0
+Guanyu Zhou,Alfa Romeo,Suzuka,2023,R,19.0,13.0
+Nico Hulkenberg,Haas F1 Team,Suzuka,2023,R,18.0,14.0
+Kevin Magnussen,Haas F1 Team,Suzuka,2023,R,15.0,15.0
+Alexander Albon,Williams,Suzuka,2023,R,13.0,16.0
+Logan Sargeant,Williams,Suzuka,2023,R,20.0,17.0
+Lance Stroll,Aston Martin,Suzuka,2023,R,17.0,18.0
+Sergio Perez,Red Bull Racing,Suzuka,2023,R,5.0,19.0
+Valtteri Bottas,Alfa Romeo,Suzuka,2023,R,16.0,20.0
+Max Verstappen,Red Bull Racing,Lusail,2023,Q,,1.0
+George Russell,Mercedes,Lusail,2023,Q,,2.0
+Lewis Hamilton,Mercedes,Lusail,2023,Q,,3.0
+Fernando Alonso,Aston Martin,Lusail,2023,Q,,4.0
+Charles Leclerc,Ferrari,Lusail,2023,Q,,5.0
+Oscar Piastri,McLaren,Lusail,2023,Q,,6.0
+Pierre Gasly,Alpine,Lusail,2023,Q,,7.0
+Esteban Ocon,Alpine,Lusail,2023,Q,,8.0
+Valtteri Bottas,Alfa Romeo,Lusail,2023,Q,,9.0
+Lando Norris,McLaren,Lusail,2023,Q,,10.0
+Yuki Tsunoda,AlphaTauri,Lusail,2023,Q,,11.0
+Carlos Sainz,Ferrari,Lusail,2023,Q,,12.0
+Sergio Perez,Red Bull Racing,Lusail,2023,Q,,13.0
+Alexander Albon,Williams,Lusail,2023,Q,,14.0
+Nico Hulkenberg,Haas F1 Team,Lusail,2023,Q,,15.0
+Logan Sargeant,Williams,Lusail,2023,Q,,16.0
+Lance Stroll,Aston Martin,Lusail,2023,Q,,17.0
+Liam Lawson,AlphaTauri,Lusail,2023,Q,,18.0
+Kevin Magnussen,Haas F1 Team,Lusail,2023,Q,,19.0
+Guanyu Zhou,Alfa Romeo,Lusail,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,Lusail,2023,R,1.0,1.0
+Oscar Piastri,McLaren,Lusail,2023,R,6.0,2.0
+Lando Norris,McLaren,Lusail,2023,R,10.0,3.0
+George Russell,Mercedes,Lusail,2023,R,2.0,4.0
+Charles Leclerc,Ferrari,Lusail,2023,R,5.0,5.0
+Fernando Alonso,Aston Martin,Lusail,2023,R,4.0,6.0
+Esteban Ocon,Alpine,Lusail,2023,R,8.0,7.0
+Valtteri Bottas,Alfa Romeo,Lusail,2023,R,9.0,8.0
+Guanyu Zhou,Alfa Romeo,Lusail,2023,R,19.0,9.0
+Sergio Perez,Red Bull Racing,Lusail,2023,R,20.0,10.0
+Lance Stroll,Aston Martin,Lusail,2023,R,16.0,11.0
+Pierre Gasly,Alpine,Lusail,2023,R,7.0,12.0
+Alexander Albon,Williams,Lusail,2023,R,13.0,13.0
+Kevin Magnussen,Haas F1 Team,Lusail,2023,R,18.0,14.0
+Yuki Tsunoda,AlphaTauri,Lusail,2023,R,11.0,15.0
+Nico Hulkenberg,Haas F1 Team,Lusail,2023,R,14.0,16.0
+Liam Lawson,AlphaTauri,Lusail,2023,R,17.0,17.0
+Logan Sargeant,Williams,Lusail,2023,R,15.0,18.0
+Lewis Hamilton,Mercedes,Lusail,2023,R,3.0,19.0
+Carlos Sainz,Ferrari,Lusail,2023,R,12.0,20.0
+Charles Leclerc,Ferrari,Austin,2023,Q,,1.0
+Lando Norris,McLaren,Austin,2023,Q,,2.0
+Lewis Hamilton,Mercedes,Austin,2023,Q,,3.0
+Carlos Sainz,Ferrari,Austin,2023,Q,,4.0
+George Russell,Mercedes,Austin,2023,Q,,5.0
+Max Verstappen,Red Bull Racing,Austin,2023,Q,,6.0
+Pierre Gasly,Alpine,Austin,2023,Q,,7.0
+Esteban Ocon,Alpine,Austin,2023,Q,,8.0
+Sergio Perez,Red Bull Racing,Austin,2023,Q,,9.0
+Oscar Piastri,McLaren,Austin,2023,Q,,10.0
+Yuki Tsunoda,AlphaTauri,Austin,2023,Q,,11.0
+Guanyu Zhou,Alfa Romeo,Austin,2023,Q,,12.0
+Valtteri Bottas,Alfa Romeo,Austin,2023,Q,,13.0
+Kevin Magnussen,Haas F1 Team,Austin,2023,Q,,14.0
+Daniel Ricciardo,AlphaTauri,Austin,2023,Q,,15.0
+Nico Hulkenberg,Haas F1 Team,Austin,2023,Q,,16.0
+Fernando Alonso,Aston Martin,Austin,2023,Q,,17.0
+Alexander Albon,Williams,Austin,2023,Q,,18.0
+Lance Stroll,Aston Martin,Austin,2023,Q,,19.0
+Logan Sargeant,Williams,Austin,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,Austin,2023,R,6.0,1.0
+Lando Norris,McLaren,Austin,2023,R,2.0,2.0
+Carlos Sainz,Ferrari,Austin,2023,R,4.0,3.0
+Sergio Perez,Red Bull Racing,Austin,2023,R,9.0,4.0
+George Russell,Mercedes,Austin,2023,R,5.0,5.0
+Pierre Gasly,Alpine,Austin,2023,R,7.0,6.0
+Lance Stroll,Aston Martin,Austin,2023,R,20.0,7.0
+Yuki Tsunoda,AlphaTauri,Austin,2023,R,11.0,8.0
+Alexander Albon,Williams,Austin,2023,R,15.0,9.0
+Logan Sargeant,Williams,Austin,2023,R,16.0,10.0
+Nico Hulkenberg,Haas F1 Team,Austin,2023,R,18.0,11.0
+Valtteri Bottas,Alfa Romeo,Austin,2023,R,13.0,12.0
+Guanyu Zhou,Alfa Romeo,Austin,2023,R,12.0,13.0
+Kevin Magnussen,Haas F1 Team,Austin,2023,R,17.0,14.0
+Daniel Ricciardo,AlphaTauri,Austin,2023,R,14.0,15.0
+Fernando Alonso,Aston Martin,Austin,2023,R,19.0,16.0
+Oscar Piastri,McLaren,Austin,2023,R,10.0,17.0
+Esteban Ocon,Alpine,Austin,2023,R,8.0,18.0
+Lewis Hamilton,Mercedes,Austin,2023,R,3.0,19.0
+Charles Leclerc,Ferrari,Austin,2023,R,1.0,20.0
+Charles Leclerc,Ferrari,Mexico City,2023,Q,,1.0
+Carlos Sainz,Ferrari,Mexico City,2023,Q,,2.0
+Max Verstappen,Red Bull Racing,Mexico City,2023,Q,,3.0
+Daniel Ricciardo,AlphaTauri,Mexico City,2023,Q,,4.0
+Sergio Perez,Red Bull Racing,Mexico City,2023,Q,,5.0
+Lewis Hamilton,Mercedes,Mexico City,2023,Q,,6.0
+Oscar Piastri,McLaren,Mexico City,2023,Q,,7.0
+George Russell,Mercedes,Mexico City,2023,Q,,8.0
+Valtteri Bottas,Alfa Romeo,Mexico City,2023,Q,,9.0
+Guanyu Zhou,Alfa Romeo,Mexico City,2023,Q,,10.0
+Pierre Gasly,Alpine,Mexico City,2023,Q,,11.0
+Nico Hulkenberg,Haas F1 Team,Mexico City,2023,Q,,12.0
+Fernando Alonso,Aston Martin,Mexico City,2023,Q,,13.0
+Alexander Albon,Williams,Mexico City,2023,Q,,14.0
+Yuki Tsunoda,AlphaTauri,Mexico City,2023,Q,,15.0
+Esteban Ocon,Alpine,Mexico City,2023,Q,,16.0
+Kevin Magnussen,Haas F1 Team,Mexico City,2023,Q,,17.0
+Lance Stroll,Aston Martin,Mexico City,2023,Q,,18.0
+Lando Norris,McLaren,Mexico City,2023,Q,,19.0
+Logan Sargeant,Williams,Mexico City,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,Mexico City,2023,R,3.0,1.0
+Lewis Hamilton,Mercedes,Mexico City,2023,R,6.0,2.0
+Charles Leclerc,Ferrari,Mexico City,2023,R,1.0,3.0
+Carlos Sainz,Ferrari,Mexico City,2023,R,2.0,4.0
+Lando Norris,McLaren,Mexico City,2023,R,17.0,5.0
+George Russell,Mercedes,Mexico City,2023,R,8.0,6.0
+Daniel Ricciardo,AlphaTauri,Mexico City,2023,R,4.0,7.0
+Oscar Piastri,McLaren,Mexico City,2023,R,7.0,8.0
+Alexander Albon,Williams,Mexico City,2023,R,14.0,9.0
+Esteban Ocon,Alpine,Mexico City,2023,R,15.0,10.0
+Pierre Gasly,Alpine,Mexico City,2023,R,11.0,11.0
+Yuki Tsunoda,AlphaTauri,Mexico City,2023,R,18.0,12.0
+Nico Hulkenberg,Haas F1 Team,Mexico City,2023,R,12.0,13.0
+Guanyu Zhou,Alfa Romeo,Mexico City,2023,R,10.0,14.0
+Valtteri Bottas,Alfa Romeo,Mexico City,2023,R,9.0,15.0
+Logan Sargeant,Williams,Mexico City,2023,R,19.0,16.0
+Lance Stroll,Aston Martin,Mexico City,2023,R,0.0,17.0
+Fernando Alonso,Aston Martin,Mexico City,2023,R,13.0,18.0
+Kevin Magnussen,Haas F1 Team,Mexico City,2023,R,16.0,19.0
+Sergio Perez,Red Bull Racing,Mexico City,2023,R,5.0,20.0
+Max Verstappen,Red Bull Racing,São Paulo,2023,Q,,1.0
+Charles Leclerc,Ferrari,São Paulo,2023,Q,,2.0
+Lance Stroll,Aston Martin,São Paulo,2023,Q,,3.0
+Fernando Alonso,Aston Martin,São Paulo,2023,Q,,4.0
+Lewis Hamilton,Mercedes,São Paulo,2023,Q,,5.0
+George Russell,Mercedes,São Paulo,2023,Q,,6.0
+Lando Norris,McLaren,São Paulo,2023,Q,,7.0
+Carlos Sainz,Ferrari,São Paulo,2023,Q,,8.0
+Sergio Perez,Red Bull Racing,São Paulo,2023,Q,,9.0
+Oscar Piastri,McLaren,São Paulo,2023,Q,,10.0
+Nico Hulkenberg,Haas F1 Team,São Paulo,2023,Q,,11.0
+Esteban Ocon,Alpine,São Paulo,2023,Q,,12.0
+Pierre Gasly,Alpine,São Paulo,2023,Q,,13.0
+Kevin Magnussen,Haas F1 Team,São Paulo,2023,Q,,14.0
+Alexander Albon,Williams,São Paulo,2023,Q,,15.0
+Yuki Tsunoda,AlphaTauri,São Paulo,2023,Q,,16.0
+Daniel Ricciardo,AlphaTauri,São Paulo,2023,Q,,17.0
+Valtteri Bottas,Alfa Romeo,São Paulo,2023,Q,,18.0
+Logan Sargeant,Williams,São Paulo,2023,Q,,19.0
+Guanyu Zhou,Alfa Romeo,São Paulo,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,São Paulo,2023,R,1.0,1.0
+Lando Norris,McLaren,São Paulo,2023,R,6.0,2.0
+Fernando Alonso,Aston Martin,São Paulo,2023,R,4.0,3.0
+Sergio Perez,Red Bull Racing,São Paulo,2023,R,9.0,4.0
+Lance Stroll,Aston Martin,São Paulo,2023,R,3.0,5.0
+Carlos Sainz,Ferrari,São Paulo,2023,R,7.0,6.0
+Pierre Gasly,Alpine,São Paulo,2023,R,15.0,7.0
+Lewis Hamilton,Mercedes,São Paulo,2023,R,5.0,8.0
+Yuki Tsunoda,AlphaTauri,São Paulo,2023,R,16.0,9.0
+Esteban Ocon,Alpine,São Paulo,2023,R,14.0,10.0
+Logan Sargeant,Williams,São Paulo,2023,R,19.0,11.0
+Nico Hulkenberg,Haas F1 Team,São Paulo,2023,R,11.0,12.0
+Daniel Ricciardo,AlphaTauri,São Paulo,2023,R,17.0,13.0
+Oscar Piastri,McLaren,São Paulo,2023,R,10.0,14.0
+George Russell,Mercedes,São Paulo,2023,R,8.0,15.0
+Valtteri Bottas,Alfa Romeo,São Paulo,2023,R,18.0,16.0
+Guanyu Zhou,Alfa Romeo,São Paulo,2023,R,20.0,17.0
+Kevin Magnussen,Haas F1 Team,São Paulo,2023,R,12.0,18.0
+Alexander Albon,Williams,São Paulo,2023,R,13.0,19.0
+Charles Leclerc,Ferrari,São Paulo,2023,R,2.0,20.0
+Charles Leclerc,Ferrari,Las Vegas,2023,Q,,1.0
+Carlos Sainz,Ferrari,Las Vegas,2023,Q,,2.0
+Max Verstappen,Red Bull Racing,Las Vegas,2023,Q,,3.0
+George Russell,Mercedes,Las Vegas,2023,Q,,4.0
+Pierre Gasly,Alpine,Las Vegas,2023,Q,,5.0
+Alexander Albon,Williams,Las Vegas,2023,Q,,6.0
+Logan Sargeant,Williams,Las Vegas,2023,Q,,7.0
+Valtteri Bottas,Alfa Romeo,Las Vegas,2023,Q,,8.0
+Kevin Magnussen,Haas F1 Team,Las Vegas,2023,Q,,9.0
+Fernando Alonso,Aston Martin,Las Vegas,2023,Q,,10.0
+Lewis Hamilton,Mercedes,Las Vegas,2023,Q,,11.0
+Sergio Perez,Red Bull Racing,Las Vegas,2023,Q,,12.0
+Nico Hulkenberg,Haas F1 Team,Las Vegas,2023,Q,,13.0
+Lance Stroll,Aston Martin,Las Vegas,2023,Q,,14.0
+Daniel Ricciardo,AlphaTauri,Las Vegas,2023,Q,,15.0
+Lando Norris,McLaren,Las Vegas,2023,Q,,16.0
+Esteban Ocon,Alpine,Las Vegas,2023,Q,,17.0
+Guanyu Zhou,Alfa Romeo,Las Vegas,2023,Q,,18.0
+Oscar Piastri,McLaren,Las Vegas,2023,Q,,19.0
+Yuki Tsunoda,AlphaTauri,Las Vegas,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,Las Vegas,2023,R,2.0,1.0
+Charles Leclerc,Ferrari,Las Vegas,2023,R,1.0,2.0
+Sergio Perez,Red Bull Racing,Las Vegas,2023,R,11.0,3.0
+Esteban Ocon,Alpine,Las Vegas,2023,R,16.0,4.0
+Lance Stroll,Aston Martin,Las Vegas,2023,R,19.0,5.0
+Carlos Sainz,Ferrari,Las Vegas,2023,R,12.0,6.0
+Lewis Hamilton,Mercedes,Las Vegas,2023,R,10.0,7.0
+George Russell,Mercedes,Las Vegas,2023,R,3.0,8.0
+Fernando Alonso,Aston Martin,Las Vegas,2023,R,9.0,9.0
+Oscar Piastri,McLaren,Las Vegas,2023,R,18.0,10.0
+Pierre Gasly,Alpine,Las Vegas,2023,R,4.0,11.0
+Alexander Albon,Williams,Las Vegas,2023,R,5.0,12.0
+Kevin Magnussen,Haas F1 Team,Las Vegas,2023,R,8.0,13.0
+Daniel Ricciardo,AlphaTauri,Las Vegas,2023,R,14.0,14.0
+Guanyu Zhou,Alfa Romeo,Las Vegas,2023,R,17.0,15.0
+Logan Sargeant,Williams,Las Vegas,2023,R,6.0,16.0
+Valtteri Bottas,Alfa Romeo,Las Vegas,2023,R,7.0,17.0
+Yuki Tsunoda,AlphaTauri,Las Vegas,2023,R,20.0,18.0
+Nico Hulkenberg,Haas F1 Team,Las Vegas,2023,R,13.0,19.0
+Lando Norris,McLaren,Las Vegas,2023,R,15.0,20.0
+Max Verstappen,Red Bull Racing,Yas Island,2023,Q,,1.0
+Charles Leclerc,Ferrari,Yas Island,2023,Q,,2.0
+Oscar Piastri,McLaren,Yas Island,2023,Q,,3.0
+George Russell,Mercedes,Yas Island,2023,Q,,4.0
+Lando Norris,McLaren,Yas Island,2023,Q,,5.0
+Yuki Tsunoda,AlphaTauri,Yas Island,2023,Q,,6.0
+Fernando Alonso,Aston Martin,Yas Island,2023,Q,,7.0
+Nico Hulkenberg,Haas F1 Team,Yas Island,2023,Q,,8.0
+Sergio Perez,Red Bull Racing,Yas Island,2023,Q,,9.0
+Pierre Gasly,Alpine,Yas Island,2023,Q,,10.0
+Lewis Hamilton,Mercedes,Yas Island,2023,Q,,11.0
+Esteban Ocon,Alpine,Yas Island,2023,Q,,12.0
+Lance Stroll,Aston Martin,Yas Island,2023,Q,,13.0
+Alexander Albon,Williams,Yas Island,2023,Q,,14.0
+Daniel Ricciardo,AlphaTauri,Yas Island,2023,Q,,15.0
+Carlos Sainz,Ferrari,Yas Island,2023,Q,,16.0
+Kevin Magnussen,Haas F1 Team,Yas Island,2023,Q,,17.0
+Valtteri Bottas,Alfa Romeo,Yas Island,2023,Q,,18.0
+Guanyu Zhou,Alfa Romeo,Yas Island,2023,Q,,19.0
+Logan Sargeant,Williams,Yas Island,2023,Q,,20.0
+Max Verstappen,Red Bull Racing,Yas Island,2023,R,1.0,1.0
+Charles Leclerc,Ferrari,Yas Island,2023,R,2.0,2.0
+George Russell,Mercedes,Yas Island,2023,R,4.0,3.0
+Sergio Perez,Red Bull Racing,Yas Island,2023,R,9.0,4.0
+Lando Norris,McLaren,Yas Island,2023,R,5.0,5.0
+Oscar Piastri,McLaren,Yas Island,2023,R,3.0,6.0
+Fernando Alonso,Aston Martin,Yas Island,2023,R,7.0,7.0
+Yuki Tsunoda,AlphaTauri,Yas Island,2023,R,6.0,8.0
+Lewis Hamilton,Mercedes,Yas Island,2023,R,11.0,9.0
+Lance Stroll,Aston Martin,Yas Island,2023,R,13.0,10.0
+Daniel Ricciardo,AlphaTauri,Yas Island,2023,R,15.0,11.0
+Esteban Ocon,Alpine,Yas Island,2023,R,12.0,12.0
+Pierre Gasly,Alpine,Yas Island,2023,R,10.0,13.0
+Alexander Albon,Williams,Yas Island,2023,R,14.0,14.0
+Nico Hulkenberg,Haas F1 Team,Yas Island,2023,R,8.0,15.0
+Logan Sargeant,Williams,Yas Island,2023,R,20.0,16.0
+Guanyu Zhou,Alfa Romeo,Yas Island,2023,R,19.0,17.0
+Carlos Sainz,Ferrari,Yas Island,2023,R,16.0,18.0
+Valtteri Bottas,Alfa Romeo,Yas Island,2023,R,18.0,19.0
+Kevin Magnussen,Haas F1 Team,Yas Island,2023,R,17.0,20.0
+Max Verstappen,Red Bull Racing,Sakhir,2024,Q,,1.0
+Charles Leclerc,Ferrari,Sakhir,2024,Q,,2.0
+George Russell,Mercedes,Sakhir,2024,Q,,3.0
+Carlos Sainz,Ferrari,Sakhir,2024,Q,,4.0
+Sergio Perez,Red Bull Racing,Sakhir,2024,Q,,5.0
+Fernando Alonso,Aston Martin,Sakhir,2024,Q,,6.0
+Lando Norris,McLaren,Sakhir,2024,Q,,7.0
+Oscar Piastri,McLaren,Sakhir,2024,Q,,8.0
+Lewis Hamilton,Mercedes,Sakhir,2024,Q,,9.0
+Nico Hulkenberg,Haas F1 Team,Sakhir,2024,Q,,10.0
+Yuki Tsunoda,RB,Sakhir,2024,Q,,11.0
+Lance Stroll,Aston Martin,Sakhir,2024,Q,,12.0
+Alexander Albon,Williams,Sakhir,2024,Q,,13.0
+Daniel Ricciardo,RB,Sakhir,2024,Q,,14.0
+Kevin Magnussen,Haas F1 Team,Sakhir,2024,Q,,15.0
+Valtteri Bottas,Kick Sauber,Sakhir,2024,Q,,16.0
+Guanyu Zhou,Kick Sauber,Sakhir,2024,Q,,17.0
+Logan Sargeant,Williams,Sakhir,2024,Q,,18.0
+Esteban Ocon,Alpine,Sakhir,2024,Q,,19.0
+Pierre Gasly,Alpine,Sakhir,2024,Q,,20.0
+Max Verstappen,Red Bull Racing,Sakhir,2024,R,1.0,1.0
+Sergio Perez,Red Bull Racing,Sakhir,2024,R,5.0,2.0
+Carlos Sainz,Ferrari,Sakhir,2024,R,4.0,3.0
+Charles Leclerc,Ferrari,Sakhir,2024,R,2.0,4.0
+George Russell,Mercedes,Sakhir,2024,R,3.0,5.0
+Lando Norris,McLaren,Sakhir,2024,R,7.0,6.0
+Lewis Hamilton,Mercedes,Sakhir,2024,R,9.0,7.0
+Oscar Piastri,McLaren,Sakhir,2024,R,8.0,8.0
+Fernando Alonso,Aston Martin,Sakhir,2024,R,6.0,9.0
+Lance Stroll,Aston Martin,Sakhir,2024,R,12.0,10.0
+Guanyu Zhou,Kick Sauber,Sakhir,2024,R,17.0,11.0
+Kevin Magnussen,Haas F1 Team,Sakhir,2024,R,15.0,12.0
+Daniel Ricciardo,RB,Sakhir,2024,R,14.0,13.0
+Yuki Tsunoda,RB,Sakhir,2024,R,11.0,14.0
+Alexander Albon,Williams,Sakhir,2024,R,13.0,15.0
+Nico Hulkenberg,Haas F1 Team,Sakhir,2024,R,10.0,16.0
+Esteban Ocon,Alpine,Sakhir,2024,R,19.0,17.0
+Pierre Gasly,Alpine,Sakhir,2024,R,20.0,18.0
+Valtteri Bottas,Kick Sauber,Sakhir,2024,R,16.0,19.0
+Logan Sargeant,Williams,Sakhir,2024,R,18.0,20.0
+Max Verstappen,Red Bull Racing,Sakhir,2024,Q,,1.0
+Charles Leclerc,Ferrari,Sakhir,2024,Q,,2.0
+George Russell,Mercedes,Sakhir,2024,Q,,3.0
+Carlos Sainz,Ferrari,Sakhir,2024,Q,,4.0
+Sergio Perez,Red Bull Racing,Sakhir,2024,Q,,5.0
+Fernando Alonso,Aston Martin,Sakhir,2024,Q,,6.0
+Lando Norris,McLaren,Sakhir,2024,Q,,7.0
+Oscar Piastri,McLaren,Sakhir,2024,Q,,8.0
+Lewis Hamilton,Mercedes,Sakhir,2024,Q,,9.0
+Nico Hulkenberg,Haas F1 Team,Sakhir,2024,Q,,10.0
+Yuki Tsunoda,RB,Sakhir,2024,Q,,11.0
+Lance Stroll,Aston Martin,Sakhir,2024,Q,,12.0
+Alexander Albon,Williams,Sakhir,2024,Q,,13.0
+Daniel Ricciardo,RB,Sakhir,2024,Q,,14.0
+Kevin Magnussen,Haas F1 Team,Sakhir,2024,Q,,15.0
+Valtteri Bottas,Kick Sauber,Sakhir,2024,Q,,16.0
+Guanyu Zhou,Kick Sauber,Sakhir,2024,Q,,17.0
+Logan Sargeant,Williams,Sakhir,2024,Q,,18.0
+Esteban Ocon,Alpine,Sakhir,2024,Q,,19.0
+Pierre Gasly,Alpine,Sakhir,2024,Q,,20.0
+Max Verstappen,Red Bull Racing,Sakhir,2024,R,1.0,1.0
+Sergio Perez,Red Bull Racing,Sakhir,2024,R,5.0,2.0
+Carlos Sainz,Ferrari,Sakhir,2024,R,4.0,3.0
+Charles Leclerc,Ferrari,Sakhir,2024,R,2.0,4.0
+George Russell,Mercedes,Sakhir,2024,R,3.0,5.0
+Lando Norris,McLaren,Sakhir,2024,R,7.0,6.0
+Lewis Hamilton,Mercedes,Sakhir,2024,R,9.0,7.0
+Oscar Piastri,McLaren,Sakhir,2024,R,8.0,8.0
+Fernando Alonso,Aston Martin,Sakhir,2024,R,6.0,9.0
+Lance Stroll,Aston Martin,Sakhir,2024,R,12.0,10.0
+Guanyu Zhou,Kick Sauber,Sakhir,2024,R,17.0,11.0
+Kevin Magnussen,Haas F1 Team,Sakhir,2024,R,15.0,12.0
+Daniel Ricciardo,RB,Sakhir,2024,R,14.0,13.0
+Yuki Tsunoda,RB,Sakhir,2024,R,11.0,14.0
+Alexander Albon,Williams,Sakhir,2024,R,13.0,15.0
+Nico Hulkenberg,Haas F1 Team,Sakhir,2024,R,10.0,16.0
+Esteban Ocon,Alpine,Sakhir,2024,R,19.0,17.0
+Pierre Gasly,Alpine,Sakhir,2024,R,20.0,18.0
+Valtteri Bottas,Kick Sauber,Sakhir,2024,R,16.0,19.0
+Logan Sargeant,Williams,Sakhir,2024,R,18.0,20.0
+Max Verstappen,Red Bull Racing,Jeddah,2024,Q,,1.0
+Charles Leclerc,Ferrari,Jeddah,2024,Q,,2.0
+Sergio Perez,Red Bull Racing,Jeddah,2024,Q,,3.0
+Fernando Alonso,Aston Martin,Jeddah,2024,Q,,4.0
+Oscar Piastri,McLaren,Jeddah,2024,Q,,5.0
+Lando Norris,McLaren,Jeddah,2024,Q,,6.0
+George Russell,Mercedes,Jeddah,2024,Q,,7.0
+Lewis Hamilton,Mercedes,Jeddah,2024,Q,,8.0
+Yuki Tsunoda,RB,Jeddah,2024,Q,,9.0
+Lance Stroll,Aston Martin,Jeddah,2024,Q,,10.0
+Oliver Bearman,Ferrari,Jeddah,2024,Q,,11.0
+Alexander Albon,Williams,Jeddah,2024,Q,,12.0
+Kevin Magnussen,Haas F1 Team,Jeddah,2024,Q,,13.0
+Daniel Ricciardo,RB,Jeddah,2024,Q,,14.0
+Nico Hulkenberg,Haas F1 Team,Jeddah,2024,Q,,15.0
+Valtteri Bottas,Kick Sauber,Jeddah,2024,Q,,16.0
+Esteban Ocon,Alpine,Jeddah,2024,Q,,17.0
+Pierre Gasly,Alpine,Jeddah,2024,Q,,18.0
+Logan Sargeant,Williams,Jeddah,2024,Q,,19.0
+Guanyu Zhou,Kick Sauber,Jeddah,2024,Q,,20.0
+Max Verstappen,Red Bull Racing,Jeddah,2024,R,1.0,1.0
+Sergio Perez,Red Bull Racing,Jeddah,2024,R,3.0,2.0
+Charles Leclerc,Ferrari,Jeddah,2024,R,2.0,3.0
+Oscar Piastri,McLaren,Jeddah,2024,R,5.0,4.0
+Fernando Alonso,Aston Martin,Jeddah,2024,R,4.0,5.0
+George Russell,Mercedes,Jeddah,2024,R,7.0,6.0
+Oliver Bearman,Ferrari,Jeddah,2024,R,11.0,7.0
+Lando Norris,McLaren,Jeddah,2024,R,6.0,8.0
+Lewis Hamilton,Mercedes,Jeddah,2024,R,8.0,9.0
+Nico Hulkenberg,Haas F1 Team,Jeddah,2024,R,15.0,10.0
+Alexander Albon,Williams,Jeddah,2024,R,12.0,11.0
+Kevin Magnussen,Haas F1 Team,Jeddah,2024,R,13.0,12.0
+Esteban Ocon,Alpine,Jeddah,2024,R,17.0,13.0
+Logan Sargeant,Williams,Jeddah,2024,R,19.0,14.0
+Yuki Tsunoda,RB,Jeddah,2024,R,9.0,15.0
+Daniel Ricciardo,RB,Jeddah,2024,R,14.0,16.0
+Valtteri Bottas,Kick Sauber,Jeddah,2024,R,16.0,17.0
+Guanyu Zhou,Kick Sauber,Jeddah,2024,R,20.0,18.0
+Lance Stroll,Aston Martin,Jeddah,2024,R,10.0,19.0
+Pierre Gasly,Alpine,Jeddah,2024,R,18.0,20.0
+Max Verstappen,Red Bull Racing,Melbourne,2024,Q,,1.0
+Carlos Sainz,Ferrari,Melbourne,2024,Q,,2.0
+Sergio Perez,Red Bull Racing,Melbourne,2024,Q,,3.0
+Lando Norris,McLaren,Melbourne,2024,Q,,4.0
+Charles Leclerc,Ferrari,Melbourne,2024,Q,,5.0
+Oscar Piastri,McLaren,Melbourne,2024,Q,,6.0
+George Russell,Mercedes,Melbourne,2024,Q,,7.0
+Yuki Tsunoda,RB,Melbourne,2024,Q,,8.0
+Lance Stroll,Aston Martin,Melbourne,2024,Q,,9.0
+Fernando Alonso,Aston Martin,Melbourne,2024,Q,,10.0
+Lewis Hamilton,Mercedes,Melbourne,2024,Q,,11.0
+Alexander Albon,Williams,Melbourne,2024,Q,,12.0
+Valtteri Bottas,Kick Sauber,Melbourne,2024,Q,,13.0
+Kevin Magnussen,Haas F1 Team,Melbourne,2024,Q,,14.0
+Esteban Ocon,Alpine,Melbourne,2024,Q,,15.0
+Nico Hulkenberg,Haas F1 Team,Melbourne,2024,Q,,16.0
+Pierre Gasly,Alpine,Melbourne,2024,Q,,17.0
+Daniel Ricciardo,RB,Melbourne,2024,Q,,18.0
+Guanyu Zhou,Kick Sauber,Melbourne,2024,Q,,19.0
+Carlos Sainz,Ferrari,Melbourne,2024,R,2.0,1.0
+Charles Leclerc,Ferrari,Melbourne,2024,R,4.0,2.0
+Lando Norris,McLaren,Melbourne,2024,R,3.0,3.0
+Oscar Piastri,McLaren,Melbourne,2024,R,5.0,4.0
+Sergio Perez,Red Bull Racing,Melbourne,2024,R,6.0,5.0
+Lance Stroll,Aston Martin,Melbourne,2024,R,9.0,6.0
+Yuki Tsunoda,RB,Melbourne,2024,R,8.0,7.0
+Fernando Alonso,Aston Martin,Melbourne,2024,R,10.0,8.0
+Nico Hulkenberg,Haas F1 Team,Melbourne,2024,R,16.0,9.0
+Kevin Magnussen,Haas F1 Team,Melbourne,2024,R,14.0,10.0
+Alexander Albon,Williams,Melbourne,2024,R,12.0,11.0
+Daniel Ricciardo,RB,Melbourne,2024,R,18.0,12.0
+Pierre Gasly,Alpine,Melbourne,2024,R,17.0,13.0
+Valtteri Bottas,Kick Sauber,Melbourne,2024,R,13.0,14.0
+Guanyu Zhou,Kick Sauber,Melbourne,2024,R,19.0,15.0
+Esteban Ocon,Alpine,Melbourne,2024,R,15.0,16.0
+George Russell,Mercedes,Melbourne,2024,R,7.0,17.0
+Lewis Hamilton,Mercedes,Melbourne,2024,R,11.0,18.0
+Max Verstappen,Red Bull Racing,Melbourne,2024,R,1.0,19.0
+Max Verstappen,Red Bull Racing,Suzuka,2024,Q,,1.0
+Sergio Perez,Red Bull Racing,Suzuka,2024,Q,,2.0
+Lando Norris,McLaren,Suzuka,2024,Q,,3.0
+Carlos Sainz,Ferrari,Suzuka,2024,Q,,4.0
+Fernando Alonso,Aston Martin,Suzuka,2024,Q,,5.0
+Oscar Piastri,McLaren,Suzuka,2024,Q,,6.0
+Lewis Hamilton,Mercedes,Suzuka,2024,Q,,7.0
+Charles Leclerc,Ferrari,Suzuka,2024,Q,,8.0
+George Russell,Mercedes,Suzuka,2024,Q,,9.0
+Yuki Tsunoda,RB,Suzuka,2024,Q,,10.0
+Daniel Ricciardo,RB,Suzuka,2024,Q,,11.0
+Nico Hulkenberg,Haas F1 Team,Suzuka,2024,Q,,12.0
+Valtteri Bottas,Kick Sauber,Suzuka,2024,Q,,13.0
+Alexander Albon,Williams,Suzuka,2024,Q,,14.0
+Esteban Ocon,Alpine,Suzuka,2024,Q,,15.0
+Lance Stroll,Aston Martin,Suzuka,2024,Q,,16.0
+Pierre Gasly,Alpine,Suzuka,2024,Q,,17.0
+Kevin Magnussen,Haas F1 Team,Suzuka,2024,Q,,18.0
+Logan Sargeant,Williams,Suzuka,2024,Q,,19.0
+Guanyu Zhou,Kick Sauber,Suzuka,2024,Q,,20.0
+Max Verstappen,Red Bull Racing,Suzuka,2024,R,1.0,1.0
+Sergio Perez,Red Bull Racing,Suzuka,2024,R,2.0,2.0
+Carlos Sainz,Ferrari,Suzuka,2024,R,4.0,3.0
+Charles Leclerc,Ferrari,Suzuka,2024,R,8.0,4.0
+Lando Norris,McLaren,Suzuka,2024,R,3.0,5.0
+Fernando Alonso,Aston Martin,Suzuka,2024,R,5.0,6.0
+George Russell,Mercedes,Suzuka,2024,R,9.0,7.0
+Oscar Piastri,McLaren,Suzuka,2024,R,6.0,8.0
+Lewis Hamilton,Mercedes,Suzuka,2024,R,7.0,9.0
+Yuki Tsunoda,RB,Suzuka,2024,R,10.0,10.0
+Nico Hulkenberg,Haas F1 Team,Suzuka,2024,R,12.0,11.0
+Lance Stroll,Aston Martin,Suzuka,2024,R,16.0,12.0
+Kevin Magnussen,Haas F1 Team,Suzuka,2024,R,18.0,13.0
+Valtteri Bottas,Kick Sauber,Suzuka,2024,R,13.0,14.0
+Esteban Ocon,Alpine,Suzuka,2024,R,15.0,15.0
+Pierre Gasly,Alpine,Suzuka,2024,R,17.0,16.0
+Logan Sargeant,Williams,Suzuka,2024,R,19.0,17.0
+Guanyu Zhou,Kick Sauber,Suzuka,2024,R,20.0,18.0
+Daniel Ricciardo,RB,Suzuka,2024,R,11.0,19.0
+Alexander Albon,Williams,Suzuka,2024,R,14.0,20.0
+Max Verstappen,Red Bull Racing,Shanghai,2024,Q,,1.0
+Sergio Perez,Red Bull Racing,Shanghai,2024,Q,,2.0
+Fernando Alonso,Aston Martin,Shanghai,2024,Q,,3.0
+Lando Norris,McLaren,Shanghai,2024,Q,,4.0
+Oscar Piastri,McLaren,Shanghai,2024,Q,,5.0
+Charles Leclerc,Ferrari,Shanghai,2024,Q,,6.0
+Carlos Sainz,Ferrari,Shanghai,2024,Q,,7.0
+George Russell,Mercedes,Shanghai,2024,Q,,8.0
+Nico Hulkenberg,Haas F1 Team,Shanghai,2024,Q,,9.0
+Valtteri Bottas,Kick Sauber,Shanghai,2024,Q,,10.0
+Lance Stroll,Aston Martin,Shanghai,2024,Q,,11.0
+Daniel Ricciardo,RB,Shanghai,2024,Q,,12.0
+Esteban Ocon,Alpine,Shanghai,2024,Q,,13.0
+Alexander Albon,Williams,Shanghai,2024,Q,,14.0
+Pierre Gasly,Alpine,Shanghai,2024,Q,,15.0
+Guanyu Zhou,Kick Sauber,Shanghai,2024,Q,,16.0
+Kevin Magnussen,Haas F1 Team,Shanghai,2024,Q,,17.0
+Lewis Hamilton,Mercedes,Shanghai,2024,Q,,18.0
+Yuki Tsunoda,RB,Shanghai,2024,Q,,19.0
+Logan Sargeant,Williams,Shanghai,2024,Q,,20.0
+Max Verstappen,Red Bull Racing,Shanghai,2024,R,1.0,1.0
+Lando Norris,McLaren,Shanghai,2024,R,4.0,2.0
+Sergio Perez,Red Bull Racing,Shanghai,2024,R,2.0,3.0
+Charles Leclerc,Ferrari,Shanghai,2024,R,6.0,4.0
+Carlos Sainz,Ferrari,Shanghai,2024,R,7.0,5.0
+George Russell,Mercedes,Shanghai,2024,R,8.0,6.0
+Fernando Alonso,Aston Martin,Shanghai,2024,R,3.0,7.0
+Oscar Piastri,McLaren,Shanghai,2024,R,5.0,8.0
+Lewis Hamilton,Mercedes,Shanghai,2024,R,18.0,9.0
+Nico Hulkenberg,Haas F1 Team,Shanghai,2024,R,9.0,10.0
+Esteban Ocon,Alpine,Shanghai,2024,R,13.0,11.0
+Alexander Albon,Williams,Shanghai,2024,R,14.0,12.0
+Pierre Gasly,Alpine,Shanghai,2024,R,15.0,13.0
+Guanyu Zhou,Kick Sauber,Shanghai,2024,R,16.0,14.0
+Lance Stroll,Aston Martin,Shanghai,2024,R,11.0,15.0
+Kevin Magnussen,Haas F1 Team,Shanghai,2024,R,17.0,16.0
+Logan Sargeant,Williams,Shanghai,2024,R,20.0,17.0
+Daniel Ricciardo,RB,Shanghai,2024,R,12.0,18.0
+Yuki Tsunoda,RB,Shanghai,2024,R,19.0,19.0
+Valtteri Bottas,Kick Sauber,Shanghai,2024,R,10.0,20.0
+Max Verstappen,Red Bull Racing,Miami,2024,Q,,1.0
+Charles Leclerc,Ferrari,Miami,2024,Q,,2.0
+Carlos Sainz,Ferrari,Miami,2024,Q,,3.0
+Sergio Perez,Red Bull Racing,Miami,2024,Q,,4.0
+Lando Norris,McLaren,Miami,2024,Q,,5.0
+Oscar Piastri,McLaren,Miami,2024,Q,,6.0
+George Russell,Mercedes,Miami,2024,Q,,7.0
+Lewis Hamilton,Mercedes,Miami,2024,Q,,8.0
+Nico Hulkenberg,Haas F1 Team,Miami,2024,Q,,9.0
+Yuki Tsunoda,RB,Miami,2024,Q,,10.0
+Lance Stroll,Aston Martin,Miami,2024,Q,,11.0
+Pierre Gasly,Alpine,Miami,2024,Q,,12.0
+Esteban Ocon,Alpine,Miami,2024,Q,,13.0
+Alexander Albon,Williams,Miami,2024,Q,,14.0
+Fernando Alonso,Aston Martin,Miami,2024,Q,,15.0
+Valtteri Bottas,Kick Sauber,Miami,2024,Q,,16.0
+Logan Sargeant,Williams,Miami,2024,Q,,17.0
+Daniel Ricciardo,RB,Miami,2024,Q,,18.0
+Kevin Magnussen,Haas F1 Team,Miami,2024,Q,,19.0
+Guanyu Zhou,Kick Sauber,Miami,2024,Q,,20.0
+Lando Norris,McLaren,Miami,2024,R,5.0,1.0
+Max Verstappen,Red Bull Racing,Miami,2024,R,1.0,2.0
+Charles Leclerc,Ferrari,Miami,2024,R,2.0,3.0
+Sergio Perez,Red Bull Racing,Miami,2024,R,4.0,4.0
+Carlos Sainz,Ferrari,Miami,2024,R,3.0,5.0
+Lewis Hamilton,Mercedes,Miami,2024,R,8.0,6.0
+Yuki Tsunoda,RB,Miami,2024,R,10.0,7.0
+George Russell,Mercedes,Miami,2024,R,7.0,8.0
+Fernando Alonso,Aston Martin,Miami,2024,R,15.0,9.0
+Esteban Ocon,Alpine,Miami,2024,R,13.0,10.0
+Nico Hulkenberg,Haas F1 Team,Miami,2024,R,9.0,11.0
+Pierre Gasly,Alpine,Miami,2024,R,12.0,12.0
+Oscar Piastri,McLaren,Miami,2024,R,6.0,13.0
+Guanyu Zhou,Kick Sauber,Miami,2024,R,19.0,14.0
+Daniel Ricciardo,RB,Miami,2024,R,20.0,15.0
+Valtteri Bottas,Kick Sauber,Miami,2024,R,16.0,16.0
+Lance Stroll,Aston Martin,Miami,2024,R,11.0,17.0
+Alexander Albon,Williams,Miami,2024,R,14.0,18.0
+Kevin Magnussen,Haas F1 Team,Miami,2024,R,18.0,19.0
+Logan Sargeant,Williams,Miami,2024,R,17.0,20.0
+Max Verstappen,Red Bull Racing,Imola,2024,Q,,1.0
+Oscar Piastri,McLaren,Imola,2024,Q,,2.0
+Lando Norris,McLaren,Imola,2024,Q,,3.0
+Charles Leclerc,Ferrari,Imola,2024,Q,,4.0
+Carlos Sainz,Ferrari,Imola,2024,Q,,5.0
+George Russell,Mercedes,Imola,2024,Q,,6.0
+Yuki Tsunoda,RB,Imola,2024,Q,,7.0
+Lewis Hamilton,Mercedes,Imola,2024,Q,,8.0
+Daniel Ricciardo,RB,Imola,2024,Q,,9.0
+Nico Hulkenberg,Haas F1 Team,Imola,2024,Q,,10.0
+Sergio Perez,Red Bull Racing,Imola,2024,Q,,11.0
+Esteban Ocon,Alpine,Imola,2024,Q,,12.0
+Lance Stroll,Aston Martin,Imola,2024,Q,,13.0
+Alexander Albon,Williams,Imola,2024,Q,,14.0
+Pierre Gasly,Alpine,Imola,2024,Q,,15.0
+Valtteri Bottas,Kick Sauber,Imola,2024,Q,,16.0
+Guanyu Zhou,Kick Sauber,Imola,2024,Q,,17.0
+Kevin Magnussen,Haas F1 Team,Imola,2024,Q,,18.0
+Fernando Alonso,Aston Martin,Imola,2024,Q,,19.0
+Logan Sargeant,Williams,Imola,2024,Q,,20.0
+Max Verstappen,Red Bull Racing,Imola,2024,R,1.0,1.0
+Lando Norris,McLaren,Imola,2024,R,2.0,2.0
+Charles Leclerc,Ferrari,Imola,2024,R,3.0,3.0
+Oscar Piastri,McLaren,Imola,2024,R,5.0,4.0
+Carlos Sainz,Ferrari,Imola,2024,R,4.0,5.0
+Lewis Hamilton,Mercedes,Imola,2024,R,8.0,6.0
+George Russell,Mercedes,Imola,2024,R,6.0,7.0
+Sergio Perez,Red Bull Racing,Imola,2024,R,11.0,8.0
+Lance Stroll,Aston Martin,Imola,2024,R,13.0,9.0
+Yuki Tsunoda,RB,Imola,2024,R,7.0,10.0
+Nico Hulkenberg,Haas F1 Team,Imola,2024,R,10.0,11.0
+Kevin Magnussen,Haas F1 Team,Imola,2024,R,18.0,12.0
+Daniel Ricciardo,RB,Imola,2024,R,9.0,13.0
+Esteban Ocon,Alpine,Imola,2024,R,12.0,14.0
+Guanyu Zhou,Kick Sauber,Imola,2024,R,17.0,15.0
+Pierre Gasly,Alpine,Imola,2024,R,15.0,16.0
+Logan Sargeant,Williams,Imola,2024,R,19.0,17.0
+Valtteri Bottas,Kick Sauber,Imola,2024,R,16.0,18.0
+Fernando Alonso,Aston Martin,Imola,2024,R,20.0,19.0
+Alexander Albon,Williams,Imola,2024,R,14.0,20.0
+Charles Leclerc,Ferrari,Monaco,2024,Q,,1.0
+Oscar Piastri,McLaren,Monaco,2024,Q,,2.0
+Carlos Sainz,Ferrari,Monaco,2024,Q,,3.0
+Lando Norris,McLaren,Monaco,2024,Q,,4.0
+George Russell,Mercedes,Monaco,2024,Q,,5.0
+Max Verstappen,Red Bull Racing,Monaco,2024,Q,,6.0
+Lewis Hamilton,Mercedes,Monaco,2024,Q,,7.0
+Yuki Tsunoda,RB,Monaco,2024,Q,,8.0
+Alexander Albon,Williams,Monaco,2024,Q,,9.0
+Pierre Gasly,Alpine,Monaco,2024,Q,,10.0
+Esteban Ocon,Alpine,Monaco,2024,Q,,11.0
+Daniel Ricciardo,RB,Monaco,2024,Q,,12.0
+Lance Stroll,Aston Martin,Monaco,2024,Q,,13.0
+Nico Hulkenberg,Haas F1 Team,Monaco,2024,Q,,14.0
+Fernando Alonso,Aston Martin,Monaco,2024,Q,,14.0
+Logan Sargeant,Williams,Monaco,2024,Q,,15.0
+Kevin Magnussen,Haas F1 Team,Monaco,2024,Q,,15.0
+Sergio Perez,Red Bull Racing,Monaco,2024,Q,,16.0
+Valtteri Bottas,Kick Sauber,Monaco,2024,Q,,17.0
+Guanyu Zhou,Kick Sauber,Monaco,2024,Q,,18.0
+Charles Leclerc,Ferrari,Monaco,2024,R,1.0,1.0
+Oscar Piastri,McLaren,Monaco,2024,R,2.0,2.0
+Carlos Sainz,Ferrari,Monaco,2024,R,3.0,3.0
+Lando Norris,McLaren,Monaco,2024,R,4.0,4.0
+George Russell,Mercedes,Monaco,2024,R,5.0,5.0
+Max Verstappen,Red Bull Racing,Monaco,2024,R,6.0,6.0
+Lewis Hamilton,Mercedes,Monaco,2024,R,7.0,7.0
+Yuki Tsunoda,RB,Monaco,2024,R,8.0,8.0
+Alexander Albon,Williams,Monaco,2024,R,9.0,9.0
+Pierre Gasly,Alpine,Monaco,2024,R,10.0,10.0
+Fernando Alonso,Aston Martin,Monaco,2024,R,14.0,11.0
+Daniel Ricciardo,RB,Monaco,2024,R,12.0,12.0
+Valtteri Bottas,Kick Sauber,Monaco,2024,R,17.0,13.0
+Lance Stroll,Aston Martin,Monaco,2024,R,13.0,14.0
+Logan Sargeant,Williams,Monaco,2024,R,15.0,15.0
+Guanyu Zhou,Kick Sauber,Monaco,2024,R,18.0,16.0
+Esteban Ocon,Alpine,Monaco,2024,R,11.0,17.0
+Sergio Perez,Red Bull Racing,Monaco,2024,R,16.0,18.0
+Nico Hulkenberg,Haas F1 Team,Monaco,2024,R,19.0,19.0
+Kevin Magnussen,Haas F1 Team,Monaco,2024,R,20.0,20.0
+George Russell,Mercedes,Montréal,2024,Q,,1.0
+Max Verstappen,Red Bull Racing,Montréal,2024,Q,,2.0
+Lando Norris,McLaren,Montréal,2024,Q,,3.0
+Oscar Piastri,McLaren,Montréal,2024,Q,,4.0
+Daniel Ricciardo,RB,Montréal,2024,Q,,5.0
+Fernando Alonso,Aston Martin,Montréal,2024,Q,,6.0
+Lewis Hamilton,Mercedes,Montréal,2024,Q,,7.0
+Yuki Tsunoda,RB,Montréal,2024,Q,,8.0
+Lance Stroll,Aston Martin,Montréal,2024,Q,,9.0
+Alexander Albon,Williams,Montréal,2024,Q,,10.0
+Charles Leclerc,Ferrari,Montréal,2024,Q,,11.0
+Carlos Sainz,Ferrari,Montréal,2024,Q,,12.0
+Logan Sargeant,Williams,Montréal,2024,Q,,13.0
+Kevin Magnussen,Haas F1 Team,Montréal,2024,Q,,14.0
+Pierre Gasly,Alpine,Montréal,2024,Q,,15.0
+Sergio Perez,Red Bull Racing,Montréal,2024,Q,,16.0
+Valtteri Bottas,Kick Sauber,Montréal,2024,Q,,17.0
+Esteban Ocon,Alpine,Montréal,2024,Q,,18.0
+Nico Hulkenberg,Haas F1 Team,Montréal,2024,Q,,19.0
+Guanyu Zhou,Kick Sauber,Montréal,2024,Q,,20.0
+Max Verstappen,Red Bull Racing,Montréal,2024,R,2.0,1.0
+Lando Norris,McLaren,Montréal,2024,R,3.0,2.0
+George Russell,Mercedes,Montréal,2024,R,1.0,3.0
+Lewis Hamilton,Mercedes,Montréal,2024,R,7.0,4.0
+Oscar Piastri,McLaren,Montréal,2024,R,4.0,5.0
+Fernando Alonso,Aston Martin,Montréal,2024,R,6.0,6.0
+Lance Stroll,Aston Martin,Montréal,2024,R,9.0,7.0
+Daniel Ricciardo,RB,Montréal,2024,R,5.0,8.0
+Pierre Gasly,Alpine,Montréal,2024,R,15.0,9.0
+Esteban Ocon,Alpine,Montréal,2024,R,18.0,10.0
+Nico Hulkenberg,Haas F1 Team,Montréal,2024,R,17.0,11.0
+Kevin Magnussen,Haas F1 Team,Montréal,2024,R,14.0,12.0
+Valtteri Bottas,Kick Sauber,Montréal,2024,R,19.0,13.0
+Yuki Tsunoda,RB,Montréal,2024,R,8.0,14.0
+Guanyu Zhou,Kick Sauber,Montréal,2024,R,20.0,15.0
+Carlos Sainz,Ferrari,Montréal,2024,R,12.0,16.0
+Alexander Albon,Williams,Montréal,2024,R,10.0,17.0
+Sergio Perez,Red Bull Racing,Montréal,2024,R,16.0,18.0
+Charles Leclerc,Ferrari,Montréal,2024,R,11.0,19.0
+Logan Sargeant,Williams,Montréal,2024,R,13.0,20.0
+Lando Norris,McLaren,Barcelona,2024,Q,,1.0
+Max Verstappen,Red Bull Racing,Barcelona,2024,Q,,2.0
+Lewis Hamilton,Mercedes,Barcelona,2024,Q,,3.0
+George Russell,Mercedes,Barcelona,2024,Q,,4.0
+Charles Leclerc,Ferrari,Barcelona,2024,Q,,5.0
+Carlos Sainz,Ferrari,Barcelona,2024,Q,,6.0
+Pierre Gasly,Alpine,Barcelona,2024,Q,,7.0
+Sergio Perez,Red Bull Racing,Barcelona,2024,Q,,8.0
+Esteban Ocon,Alpine,Barcelona,2024,Q,,9.0
+Oscar Piastri,McLaren,Barcelona,2024,Q,,10.0
+Fernando Alonso,Aston Martin,Barcelona,2024,Q,,11.0
+Valtteri Bottas,Kick Sauber,Barcelona,2024,Q,,12.0
+Nico Hulkenberg,Haas F1 Team,Barcelona,2024,Q,,13.0
+Lance Stroll,Aston Martin,Barcelona,2024,Q,,14.0
+Guanyu Zhou,Kick Sauber,Barcelona,2024,Q,,15.0
+Kevin Magnussen,Haas F1 Team,Barcelona,2024,Q,,16.0
+Yuki Tsunoda,RB,Barcelona,2024,Q,,17.0
+Daniel Ricciardo,RB,Barcelona,2024,Q,,18.0
+Alexander Albon,Williams,Barcelona,2024,Q,,19.0
+Logan Sargeant,Williams,Barcelona,2024,Q,,20.0
+Max Verstappen,Red Bull Racing,Barcelona,2024,R,2.0,1.0
+Lando Norris,McLaren,Barcelona,2024,R,1.0,2.0
+Lewis Hamilton,Mercedes,Barcelona,2024,R,3.0,3.0
+George Russell,Mercedes,Barcelona,2024,R,4.0,4.0
+Charles Leclerc,Ferrari,Barcelona,2024,R,5.0,5.0
+Carlos Sainz,Ferrari,Barcelona,2024,R,6.0,6.0
+Oscar Piastri,McLaren,Barcelona,2024,R,9.0,7.0
+Sergio Perez,Red Bull Racing,Barcelona,2024,R,11.0,8.0
+Pierre Gasly,Alpine,Barcelona,2024,R,7.0,9.0
+Esteban Ocon,Alpine,Barcelona,2024,R,8.0,10.0
+Nico Hulkenberg,Haas F1 Team,Barcelona,2024,R,13.0,11.0
+Fernando Alonso,Aston Martin,Barcelona,2024,R,10.0,12.0
+Guanyu Zhou,Kick Sauber,Barcelona,2024,R,15.0,13.0
+Lance Stroll,Aston Martin,Barcelona,2024,R,14.0,14.0
+Daniel Ricciardo,RB,Barcelona,2024,R,18.0,15.0
+Valtteri Bottas,Kick Sauber,Barcelona,2024,R,12.0,16.0
+Kevin Magnussen,Haas F1 Team,Barcelona,2024,R,16.0,17.0
+Alexander Albon,Williams,Barcelona,2024,R,20.0,18.0
+Yuki Tsunoda,RB,Barcelona,2024,R,17.0,19.0
+Logan Sargeant,Williams,Barcelona,2024,R,19.0,20.0
+Max Verstappen,Red Bull Racing,Spielberg,2024,Q,,1.0
+Lando Norris,McLaren,Spielberg,2024,Q,,2.0
+George Russell,Mercedes,Spielberg,2024,Q,,3.0
+Carlos Sainz,Ferrari,Spielberg,2024,Q,,4.0
+Lewis Hamilton,Mercedes,Spielberg,2024,Q,,5.0
+Charles Leclerc,Ferrari,Spielberg,2024,Q,,6.0
+Oscar Piastri,McLaren,Spielberg,2024,Q,,7.0
+Sergio Perez,Red Bull Racing,Spielberg,2024,Q,,8.0
+Nico Hulkenberg,Haas F1 Team,Spielberg,2024,Q,,9.0
+Esteban Ocon,Alpine,Spielberg,2024,Q,,10.0
+Daniel Ricciardo,RB,Spielberg,2024,Q,,11.0
+Kevin Magnussen,Haas F1 Team,Spielberg,2024,Q,,12.0
+Pierre Gasly,Alpine,Spielberg,2024,Q,,13.0
+Yuki Tsunoda,RB,Spielberg,2024,Q,,14.0
+Fernando Alonso,Aston Martin,Spielberg,2024,Q,,15.0
+Alexander Albon,Williams,Spielberg,2024,Q,,16.0
+Lance Stroll,Aston Martin,Spielberg,2024,Q,,17.0
+Valtteri Bottas,Kick Sauber,Spielberg,2024,Q,,18.0
+Logan Sargeant,Williams,Spielberg,2024,Q,,19.0
+Guanyu Zhou,Kick Sauber,Spielberg,2024,Q,,20.0
+George Russell,Mercedes,Spielberg,2024,R,3.0,1.0
+Oscar Piastri,McLaren,Spielberg,2024,R,7.0,2.0
+Carlos Sainz,Ferrari,Spielberg,2024,R,4.0,3.0
+Lewis Hamilton,Mercedes,Spielberg,2024,R,5.0,4.0
+Max Verstappen,Red Bull Racing,Spielberg,2024,R,1.0,5.0
+Nico Hulkenberg,Haas F1 Team,Spielberg,2024,R,9.0,6.0
+Sergio Perez,Red Bull Racing,Spielberg,2024,R,8.0,7.0
+Kevin Magnussen,Haas F1 Team,Spielberg,2024,R,12.0,8.0
+Daniel Ricciardo,RB,Spielberg,2024,R,11.0,9.0
+Pierre Gasly,Alpine,Spielberg,2024,R,13.0,10.0
+Charles Leclerc,Ferrari,Spielberg,2024,R,6.0,11.0
+Esteban Ocon,Alpine,Spielberg,2024,R,10.0,12.0
+Lance Stroll,Aston Martin,Spielberg,2024,R,17.0,13.0
+Yuki Tsunoda,RB,Spielberg,2024,R,14.0,14.0
+Alexander Albon,Williams,Spielberg,2024,R,16.0,15.0
+Valtteri Bottas,Kick Sauber,Spielberg,2024,R,18.0,16.0
+Guanyu Zhou,Kick Sauber,Spielberg,2024,R,20.0,17.0
+Fernando Alonso,Aston Martin,Spielberg,2024,R,15.0,18.0
+Logan Sargeant,Williams,Spielberg,2024,R,19.0,19.0
+Lando Norris,McLaren,Spielberg,2024,R,2.0,20.0
+George Russell,Mercedes,Silverstone,2024,Q,,1.0
+Lewis Hamilton,Mercedes,Silverstone,2024,Q,,2.0
+Lando Norris,McLaren,Silverstone,2024,Q,,3.0
+Max Verstappen,Red Bull Racing,Silverstone,2024,Q,,4.0
+Oscar Piastri,McLaren,Silverstone,2024,Q,,5.0
+Nico Hulkenberg,Haas F1 Team,Silverstone,2024,Q,,6.0
+Carlos Sainz,Ferrari,Silverstone,2024,Q,,7.0
+Lance Stroll,Aston Martin,Silverstone,2024,Q,,8.0
+Alexander Albon,Williams,Silverstone,2024,Q,,9.0
+Fernando Alonso,Aston Martin,Silverstone,2024,Q,,10.0
+Charles Leclerc,Ferrari,Silverstone,2024,Q,,11.0
+Logan Sargeant,Williams,Silverstone,2024,Q,,12.0
+Yuki Tsunoda,RB,Silverstone,2024,Q,,13.0
+Guanyu Zhou,Kick Sauber,Silverstone,2024,Q,,14.0
+Daniel Ricciardo,RB,Silverstone,2024,Q,,15.0
+Valtteri Bottas,Kick Sauber,Silverstone,2024,Q,,16.0
+Kevin Magnussen,Haas F1 Team,Silverstone,2024,Q,,17.0
+Esteban Ocon,Alpine,Silverstone,2024,Q,,18.0
+Sergio Perez,Red Bull Racing,Silverstone,2024,Q,,19.0
+Pierre Gasly,Alpine,Silverstone,2024,Q,,20.0
+Lewis Hamilton,Mercedes,Silverstone,2024,R,2.0,1.0
+Max Verstappen,Red Bull Racing,Silverstone,2024,R,4.0,2.0
+Lando Norris,McLaren,Silverstone,2024,R,3.0,3.0
+Oscar Piastri,McLaren,Silverstone,2024,R,5.0,4.0
+Carlos Sainz,Ferrari,Silverstone,2024,R,7.0,5.0
+Nico Hulkenberg,Haas F1 Team,Silverstone,2024,R,6.0,6.0
+Lance Stroll,Aston Martin,Silverstone,2024,R,8.0,7.0
+Fernando Alonso,Aston Martin,Silverstone,2024,R,10.0,8.0
+Alexander Albon,Williams,Silverstone,2024,R,9.0,9.0
+Yuki Tsunoda,RB,Silverstone,2024,R,13.0,10.0
+Logan Sargeant,Williams,Silverstone,2024,R,12.0,11.0
+Kevin Magnussen,Haas F1 Team,Silverstone,2024,R,17.0,12.0
+Daniel Ricciardo,RB,Silverstone,2024,R,15.0,13.0
+Charles Leclerc,Ferrari,Silverstone,2024,R,11.0,14.0
+Valtteri Bottas,Kick Sauber,Silverstone,2024,R,16.0,15.0
+Esteban Ocon,Alpine,Silverstone,2024,R,18.0,16.0
+Sergio Perez,Red Bull Racing,Silverstone,2024,R,20.0,17.0
+Guanyu Zhou,Kick Sauber,Silverstone,2024,R,14.0,18.0
+George Russell,Mercedes,Silverstone,2024,R,1.0,19.0
+Pierre Gasly,Alpine,Silverstone,2024,R,19.0,20.0
+Lando Norris,McLaren,Budapest,2024,Q,,1.0
+Oscar Piastri,McLaren,Budapest,2024,Q,,2.0
+Max Verstappen,Red Bull Racing,Budapest,2024,Q,,3.0
+Carlos Sainz,Ferrari,Budapest,2024,Q,,4.0
+Lewis Hamilton,Mercedes,Budapest,2024,Q,,5.0
+Charles Leclerc,Ferrari,Budapest,2024,Q,,6.0
+Fernando Alonso,Aston Martin,Budapest,2024,Q,,7.0
+Lance Stroll,Aston Martin,Budapest,2024,Q,,8.0
+Daniel Ricciardo,RB,Budapest,2024,Q,,9.0
+Yuki Tsunoda,RB,Budapest,2024,Q,,10.0
+Nico Hulkenberg,Haas F1 Team,Budapest,2024,Q,,11.0
+Valtteri Bottas,Kick Sauber,Budapest,2024,Q,,12.0
+Alexander Albon,Williams,Budapest,2024,Q,,13.0
+Logan Sargeant,Williams,Budapest,2024,Q,,14.0
+Kevin Magnussen,Haas F1 Team,Budapest,2024,Q,,15.0
+Sergio Perez,Red Bull Racing,Budapest,2024,Q,,16.0
+George Russell,Mercedes,Budapest,2024,Q,,17.0
+Guanyu Zhou,Kick Sauber,Budapest,2024,Q,,18.0
+Esteban Ocon,Alpine,Budapest,2024,Q,,19.0
+Pierre Gasly,Alpine,Budapest,2024,Q,,20.0
+Oscar Piastri,McLaren,Budapest,2024,R,2.0,1.0
+Lando Norris,McLaren,Budapest,2024,R,1.0,2.0
+Lewis Hamilton,Mercedes,Budapest,2024,R,5.0,3.0
+Charles Leclerc,Ferrari,Budapest,2024,R,6.0,4.0
+Max Verstappen,Red Bull Racing,Budapest,2024,R,3.0,5.0
+Carlos Sainz,Ferrari,Budapest,2024,R,4.0,6.0
+Sergio Perez,Red Bull Racing,Budapest,2024,R,16.0,7.0
+George Russell,Mercedes,Budapest,2024,R,17.0,8.0
+Yuki Tsunoda,RB,Budapest,2024,R,10.0,9.0
+Lance Stroll,Aston Martin,Budapest,2024,R,8.0,10.0
+Fernando Alonso,Aston Martin,Budapest,2024,R,7.0,11.0
+Daniel Ricciardo,RB,Budapest,2024,R,9.0,12.0
+Nico Hulkenberg,Haas F1 Team,Budapest,2024,R,11.0,13.0
+Alexander Albon,Williams,Budapest,2024,R,13.0,14.0
+Kevin Magnussen,Haas F1 Team,Budapest,2024,R,15.0,15.0
+Valtteri Bottas,Kick Sauber,Budapest,2024,R,12.0,16.0
+Logan Sargeant,Williams,Budapest,2024,R,14.0,17.0
+Esteban Ocon,Alpine,Budapest,2024,R,19.0,18.0
+Guanyu Zhou,Kick Sauber,Budapest,2024,R,18.0,19.0
+Pierre Gasly,Alpine,Budapest,2024,R,20.0,20.0
+Max Verstappen,Red Bull Racing,Spa-Francorchamps,2024,Q,,1.0
+Charles Leclerc,Ferrari,Spa-Francorchamps,2024,Q,,2.0
+Sergio Perez,Red Bull Racing,Spa-Francorchamps,2024,Q,,3.0
+Lewis Hamilton,Mercedes,Spa-Francorchamps,2024,Q,,4.0
+Lando Norris,McLaren,Spa-Francorchamps,2024,Q,,5.0
+Oscar Piastri,McLaren,Spa-Francorchamps,2024,Q,,6.0
+George Russell,Mercedes,Spa-Francorchamps,2024,Q,,7.0
+Carlos Sainz,Ferrari,Spa-Francorchamps,2024,Q,,8.0
+Fernando Alonso,Aston Martin,Spa-Francorchamps,2024,Q,,9.0
+Esteban Ocon,Alpine,Spa-Francorchamps,2024,Q,,10.0
+Alexander Albon,Williams,Spa-Francorchamps,2024,Q,,11.0
+Pierre Gasly,Alpine,Spa-Francorchamps,2024,Q,,12.0
+Daniel Ricciardo,RB,Spa-Francorchamps,2024,Q,,13.0
+Valtteri Bottas,Kick Sauber,Spa-Francorchamps,2024,Q,,14.0
+Lance Stroll,Aston Martin,Spa-Francorchamps,2024,Q,,15.0
+Nico Hulkenberg,Haas F1 Team,Spa-Francorchamps,2024,Q,,16.0
+Kevin Magnussen,Haas F1 Team,Spa-Francorchamps,2024,Q,,17.0
+Yuki Tsunoda,RB,Spa-Francorchamps,2024,Q,,18.0
+Logan Sargeant,Williams,Spa-Francorchamps,2024,Q,,19.0
+Guanyu Zhou,Kick Sauber,Spa-Francorchamps,2024,Q,,20.0
+Lewis Hamilton,Mercedes,Spa-Francorchamps,2024,R,3.0,1.0
+Oscar Piastri,McLaren,Spa-Francorchamps,2024,R,5.0,2.0
+Charles Leclerc,Ferrari,Spa-Francorchamps,2024,R,1.0,3.0
+Max Verstappen,Red Bull Racing,Spa-Francorchamps,2024,R,11.0,4.0
+Lando Norris,McLaren,Spa-Francorchamps,2024,R,4.0,5.0
+Carlos Sainz,Ferrari,Spa-Francorchamps,2024,R,7.0,6.0
+Sergio Perez,Red Bull Racing,Spa-Francorchamps,2024,R,2.0,7.0
+Fernando Alonso,Aston Martin,Spa-Francorchamps,2024,R,8.0,8.0
+Esteban Ocon,Alpine,Spa-Francorchamps,2024,R,9.0,9.0
+Daniel Ricciardo,RB,Spa-Francorchamps,2024,R,13.0,10.0
+Lance Stroll,Aston Martin,Spa-Francorchamps,2024,R,15.0,11.0
+Alexander Albon,Williams,Spa-Francorchamps,2024,R,10.0,12.0
+Pierre Gasly,Alpine,Spa-Francorchamps,2024,R,12.0,13.0
+Kevin Magnussen,Haas F1 Team,Spa-Francorchamps,2024,R,17.0,14.0
+Valtteri Bottas,Kick Sauber,Spa-Francorchamps,2024,R,14.0,15.0
+Yuki Tsunoda,RB,Spa-Francorchamps,2024,R,20.0,16.0
+Logan Sargeant,Williams,Spa-Francorchamps,2024,R,18.0,17.0
+Nico Hulkenberg,Haas F1 Team,Spa-Francorchamps,2024,R,16.0,18.0
+Guanyu Zhou,Kick Sauber,Spa-Francorchamps,2024,R,19.0,19.0
+George Russell,Mercedes,Spa-Francorchamps,2024,R,6.0,20.0
+Lando Norris,McLaren,Zandvoort,2024,Q,,1.0
+Max Verstappen,Red Bull Racing,Zandvoort,2024,Q,,2.0
+Oscar Piastri,McLaren,Zandvoort,2024,Q,,3.0
+George Russell,Mercedes,Zandvoort,2024,Q,,4.0
+Sergio Perez,Red Bull Racing,Zandvoort,2024,Q,,5.0
+Charles Leclerc,Ferrari,Zandvoort,2024,Q,,6.0
+Fernando Alonso,Aston Martin,Zandvoort,2024,Q,,7.0
+Lance Stroll,Aston Martin,Zandvoort,2024,Q,,8.0
+Pierre Gasly,Alpine,Zandvoort,2024,Q,,9.0
+Carlos Sainz,Ferrari,Zandvoort,2024,Q,,10.0
+Alexander Albon,Williams,Zandvoort,2024,Q,,10.0
+Lewis Hamilton,Mercedes,Zandvoort,2024,Q,,11.0
+Yuki Tsunoda,RB,Zandvoort,2024,Q,,12.0
+Nico Hulkenberg,Haas F1 Team,Zandvoort,2024,Q,,13.0
+Kevin Magnussen,Haas F1 Team,Zandvoort,2024,Q,,14.0
+Daniel Ricciardo,RB,Zandvoort,2024,Q,,15.0
+Esteban Ocon,Alpine,Zandvoort,2024,Q,,16.0
+Valtteri Bottas,Kick Sauber,Zandvoort,2024,Q,,17.0
+Guanyu Zhou,Kick Sauber,Zandvoort,2024,Q,,18.0
+Logan Sargeant,Williams,Zandvoort,2024,Q,,20.0
+Lando Norris,McLaren,Zandvoort,2024,R,1.0,1.0
+Max Verstappen,Red Bull Racing,Zandvoort,2024,R,2.0,2.0
+Charles Leclerc,Ferrari,Zandvoort,2024,R,6.0,3.0
+Oscar Piastri,McLaren,Zandvoort,2024,R,3.0,4.0
+Carlos Sainz,Ferrari,Zandvoort,2024,R,10.0,5.0
+Sergio Perez,Red Bull Racing,Zandvoort,2024,R,5.0,6.0
+George Russell,Mercedes,Zandvoort,2024,R,4.0,7.0
+Lewis Hamilton,Mercedes,Zandvoort,2024,R,14.0,8.0
+Pierre Gasly,Alpine,Zandvoort,2024,R,9.0,9.0
+Fernando Alonso,Aston Martin,Zandvoort,2024,R,7.0,10.0
+Nico Hulkenberg,Haas F1 Team,Zandvoort,2024,R,12.0,11.0
+Daniel Ricciardo,RB,Zandvoort,2024,R,13.0,12.0
+Lance Stroll,Aston Martin,Zandvoort,2024,R,8.0,13.0
+Alexander Albon,Williams,Zandvoort,2024,R,19.0,14.0
+Esteban Ocon,Alpine,Zandvoort,2024,R,15.0,15.0
+Logan Sargeant,Williams,Zandvoort,2024,R,18.0,16.0
+Yuki Tsunoda,RB,Zandvoort,2024,R,11.0,17.0
+Kevin Magnussen,Haas F1 Team,Zandvoort,2024,R,20.0,18.0
+Valtteri Bottas,Kick Sauber,Zandvoort,2024,R,16.0,19.0
+Guanyu Zhou,Kick Sauber,Zandvoort,2024,R,17.0,20.0
+Lando Norris,McLaren,Monza,2024,Q,,1.0
+Oscar Piastri,McLaren,Monza,2024,Q,,2.0
+George Russell,Mercedes,Monza,2024,Q,,3.0
+Charles Leclerc,Ferrari,Monza,2024,Q,,4.0
+Carlos Sainz,Ferrari,Monza,2024,Q,,5.0
+Lewis Hamilton,Mercedes,Monza,2024,Q,,6.0
+Max Verstappen,Red Bull Racing,Monza,2024,Q,,7.0
+Sergio Perez,Red Bull Racing,Monza,2024,Q,,8.0
+Alexander Albon,Williams,Monza,2024,Q,,9.0
+Nico Hulkenberg,Haas F1 Team,Monza,2024,Q,,10.0
+Fernando Alonso,Aston Martin,Monza,2024,Q,,11.0
+Daniel Ricciardo,RB,Monza,2024,Q,,12.0
+Kevin Magnussen,Haas F1 Team,Monza,2024,Q,,13.0
+Pierre Gasly,Alpine,Monza,2024,Q,,14.0
+Esteban Ocon,Alpine,Monza,2024,Q,,15.0
+Yuki Tsunoda,RB,Monza,2024,Q,,16.0
+Lance Stroll,Aston Martin,Monza,2024,Q,,17.0
+Franco Colapinto,Williams,Monza,2024,Q,,18.0
+Valtteri Bottas,Kick Sauber,Monza,2024,Q,,19.0
+Guanyu Zhou,Kick Sauber,Monza,2024,Q,,20.0
+Charles Leclerc,Ferrari,Monza,2024,R,4.0,1.0
+Oscar Piastri,McLaren,Monza,2024,R,2.0,2.0
+Lando Norris,McLaren,Monza,2024,R,1.0,3.0
+Carlos Sainz,Ferrari,Monza,2024,R,5.0,4.0
+Lewis Hamilton,Mercedes,Monza,2024,R,6.0,5.0
+Max Verstappen,Red Bull Racing,Monza,2024,R,7.0,6.0
+George Russell,Mercedes,Monza,2024,R,3.0,7.0
+Sergio Perez,Red Bull Racing,Monza,2024,R,8.0,8.0
+Alexander Albon,Williams,Monza,2024,R,9.0,9.0
+Kevin Magnussen,Haas F1 Team,Monza,2024,R,13.0,10.0
+Fernando Alonso,Aston Martin,Monza,2024,R,11.0,11.0
+Franco Colapinto,Williams,Monza,2024,R,18.0,12.0
+Daniel Ricciardo,RB,Monza,2024,R,12.0,13.0
+Esteban Ocon,Alpine,Monza,2024,R,15.0,14.0
+Pierre Gasly,Alpine,Monza,2024,R,14.0,15.0
+Valtteri Bottas,Kick Sauber,Monza,2024,R,19.0,16.0
+Nico Hulkenberg,Haas F1 Team,Monza,2024,R,10.0,17.0
+Guanyu Zhou,Kick Sauber,Monza,2024,R,20.0,18.0
+Lance Stroll,Aston Martin,Monza,2024,R,17.0,19.0
+Yuki Tsunoda,RB,Monza,2024,R,16.0,20.0
+Charles Leclerc,Ferrari,Baku,2024,Q,,1.0
+Oscar Piastri,McLaren,Baku,2024,Q,,2.0
+Carlos Sainz,Ferrari,Baku,2024,Q,,3.0
+Sergio Perez,Red Bull Racing,Baku,2024,Q,,4.0
+George Russell,Mercedes,Baku,2024,Q,,5.0
+Max Verstappen,Red Bull Racing,Baku,2024,Q,,6.0
+Lewis Hamilton,Mercedes,Baku,2024,Q,,7.0
+Fernando Alonso,Aston Martin,Baku,2024,Q,,8.0
+Franco Colapinto,Williams,Baku,2024,Q,,9.0
+Alexander Albon,Williams,Baku,2024,Q,,10.0
+Oliver Bearman,Haas F1 Team,Baku,2024,Q,,11.0
+Yuki Tsunoda,RB,Baku,2024,Q,,12.0
+Nico Hulkenberg,Haas F1 Team,Baku,2024,Q,,13.0
+Lance Stroll,Aston Martin,Baku,2024,Q,,14.0
+Daniel Ricciardo,RB,Baku,2024,Q,,15.0
+Pierre Gasly,Alpine,Baku,2024,Q,,15.0
+Lando Norris,McLaren,Baku,2024,Q,,16.0
+Valtteri Bottas,Kick Sauber,Baku,2024,Q,,17.0
+Guanyu Zhou,Kick Sauber,Baku,2024,Q,,18.0
+Esteban Ocon,Alpine,Baku,2024,Q,,19.0
+Oscar Piastri,McLaren,Baku,2024,R,2.0,1.0
+Charles Leclerc,Ferrari,Baku,2024,R,1.0,2.0
+George Russell,Mercedes,Baku,2024,R,5.0,3.0
+Lando Norris,McLaren,Baku,2024,R,15.0,4.0
+Max Verstappen,Red Bull Racing,Baku,2024,R,6.0,5.0
+Fernando Alonso,Aston Martin,Baku,2024,R,7.0,6.0
+Alexander Albon,Williams,Baku,2024,R,9.0,7.0
+Franco Colapinto,Williams,Baku,2024,R,8.0,8.0
+Lewis Hamilton,Mercedes,Baku,2024,R,19.0,9.0
+Oliver Bearman,Haas F1 Team,Baku,2024,R,10.0,10.0
+Nico Hulkenberg,Haas F1 Team,Baku,2024,R,12.0,11.0
+Pierre Gasly,Alpine,Baku,2024,R,18.0,12.0
+Daniel Ricciardo,RB,Baku,2024,R,14.0,13.0
+Guanyu Zhou,Kick Sauber,Baku,2024,R,17.0,14.0
+Esteban Ocon,Alpine,Baku,2024,R,20.0,15.0
+Valtteri Bottas,Kick Sauber,Baku,2024,R,16.0,16.0
+Sergio Perez,Red Bull Racing,Baku,2024,R,4.0,17.0
+Carlos Sainz,Ferrari,Baku,2024,R,3.0,18.0
+Lance Stroll,Aston Martin,Baku,2024,R,13.0,19.0
+Yuki Tsunoda,RB,Baku,2024,R,11.0,20.0
+Lando Norris,McLaren,Marina Bay,2024,Q,,1.0
+Max Verstappen,Red Bull Racing,Marina Bay,2024,Q,,2.0
+Lewis Hamilton,Mercedes,Marina Bay,2024,Q,,3.0
+George Russell,Mercedes,Marina Bay,2024,Q,,4.0
+Oscar Piastri,McLaren,Marina Bay,2024,Q,,5.0
+Nico Hulkenberg,Haas F1 Team,Marina Bay,2024,Q,,6.0
+Fernando Alonso,Aston Martin,Marina Bay,2024,Q,,7.0
+Yuki Tsunoda,RB,Marina Bay,2024,Q,,8.0
+Charles Leclerc,Ferrari,Marina Bay,2024,Q,,9.0
+Carlos Sainz,Ferrari,Marina Bay,2024,Q,,10.0
+Alexander Albon,Williams,Marina Bay,2024,Q,,11.0
+Franco Colapinto,Williams,Marina Bay,2024,Q,,12.0
+Sergio Perez,Red Bull Racing,Marina Bay,2024,Q,,13.0
+Kevin Magnussen,Haas F1 Team,Marina Bay,2024,Q,,14.0
+Esteban Ocon,Alpine,Marina Bay,2024,Q,,15.0
+Daniel Ricciardo,RB,Marina Bay,2024,Q,,16.0
+Lance Stroll,Aston Martin,Marina Bay,2024,Q,,17.0
+Pierre Gasly,Alpine,Marina Bay,2024,Q,,18.0
+Valtteri Bottas,Kick Sauber,Marina Bay,2024,Q,,19.0
+Guanyu Zhou,Kick Sauber,Marina Bay,2024,Q,,20.0
+Lando Norris,McLaren,Marina Bay,2024,R,1.0,1.0
+Max Verstappen,Red Bull Racing,Marina Bay,2024,R,2.0,2.0
+Oscar Piastri,McLaren,Marina Bay,2024,R,5.0,3.0
+George Russell,Mercedes,Marina Bay,2024,R,4.0,4.0
+Charles Leclerc,Ferrari,Marina Bay,2024,R,9.0,5.0
+Lewis Hamilton,Mercedes,Marina Bay,2024,R,3.0,6.0
+Carlos Sainz,Ferrari,Marina Bay,2024,R,10.0,7.0
+Fernando Alonso,Aston Martin,Marina Bay,2024,R,7.0,8.0
+Nico Hulkenberg,Haas F1 Team,Marina Bay,2024,R,6.0,9.0
+Sergio Perez,Red Bull Racing,Marina Bay,2024,R,13.0,10.0
+Franco Colapinto,Williams,Marina Bay,2024,R,12.0,11.0
+Yuki Tsunoda,RB,Marina Bay,2024,R,8.0,12.0
+Esteban Ocon,Alpine,Marina Bay,2024,R,15.0,13.0
+Lance Stroll,Aston Martin,Marina Bay,2024,R,17.0,14.0
+Guanyu Zhou,Kick Sauber,Marina Bay,2024,R,20.0,15.0
+Valtteri Bottas,Kick Sauber,Marina Bay,2024,R,19.0,16.0
+Pierre Gasly,Alpine,Marina Bay,2024,R,18.0,17.0
+Daniel Ricciardo,RB,Marina Bay,2024,R,16.0,18.0
+Kevin Magnussen,Haas F1 Team,Marina Bay,2024,R,14.0,19.0
+Alexander Albon,Williams,Marina Bay,2024,R,11.0,20.0
+Lando Norris,McLaren,Austin,2024,Q,,1.0
+Max Verstappen,Red Bull Racing,Austin,2024,Q,,2.0
+Carlos Sainz,Ferrari,Austin,2024,Q,,3.0
+Charles Leclerc,Ferrari,Austin,2024,Q,,4.0
+Oscar Piastri,McLaren,Austin,2024,Q,,5.0
+George Russell,Mercedes,Austin,2024,Q,,6.0
+Pierre Gasly,Alpine,Austin,2024,Q,,7.0
+Fernando Alonso,Aston Martin,Austin,2024,Q,,8.0
+Kevin Magnussen,Haas F1 Team,Austin,2024,Q,,9.0
+Sergio Perez,Red Bull Racing,Austin,2024,Q,,10.0
+Yuki Tsunoda,RB,Austin,2024,Q,,11.0
+Nico Hulkenberg,Haas F1 Team,Austin,2024,Q,,12.0
+Esteban Ocon,Alpine,Austin,2024,Q,,13.0
+Lance Stroll,Aston Martin,Austin,2024,Q,,14.0
+Liam Lawson,RB,Austin,2024,Q,,15.0
+Alexander Albon,Williams,Austin,2024,Q,,16.0
+Franco Colapinto,Williams,Austin,2024,Q,,17.0
+Valtteri Bottas,Kick Sauber,Austin,2024,Q,,18.0
+Lewis Hamilton,Mercedes,Austin,2024,Q,,19.0
+Guanyu Zhou,Kick Sauber,Austin,2024,Q,,20.0
+Charles Leclerc,Ferrari,Austin,2024,R,4.0,1.0
+Carlos Sainz,Ferrari,Austin,2024,R,3.0,2.0
+Max Verstappen,Red Bull Racing,Austin,2024,R,2.0,3.0
+Lando Norris,McLaren,Austin,2024,R,1.0,4.0
+Oscar Piastri,McLaren,Austin,2024,R,5.0,5.0
+George Russell,Mercedes,Austin,2024,R,20.0,6.0
+Sergio Perez,Red Bull Racing,Austin,2024,R,9.0,7.0
+Nico Hulkenberg,Haas F1 Team,Austin,2024,R,11.0,8.0
+Liam Lawson,RB,Austin,2024,R,19.0,9.0
+Franco Colapinto,Williams,Austin,2024,R,15.0,10.0
+Kevin Magnussen,Haas F1 Team,Austin,2024,R,8.0,11.0
+Pierre Gasly,Alpine,Austin,2024,R,6.0,12.0
+Fernando Alonso,Aston Martin,Austin,2024,R,7.0,13.0
+Yuki Tsunoda,RB,Austin,2024,R,10.0,14.0
+Lance Stroll,Aston Martin,Austin,2024,R,13.0,15.0
+Alexander Albon,Williams,Austin,2024,R,14.0,16.0
+Valtteri Bottas,Kick Sauber,Austin,2024,R,16.0,17.0
+Esteban Ocon,Alpine,Austin,2024,R,12.0,18.0
+Guanyu Zhou,Kick Sauber,Austin,2024,R,18.0,19.0
+Lewis Hamilton,Mercedes,Austin,2024,R,17.0,20.0
+Carlos Sainz,Ferrari,Mexico City,2024,Q,,1.0
+Max Verstappen,Red Bull Racing,Mexico City,2024,Q,,2.0
+Lando Norris,McLaren,Mexico City,2024,Q,,3.0
+Charles Leclerc,Ferrari,Mexico City,2024,Q,,4.0
+George Russell,Mercedes,Mexico City,2024,Q,,5.0
+Lewis Hamilton,Mercedes,Mexico City,2024,Q,,6.0
+Kevin Magnussen,Haas F1 Team,Mexico City,2024,Q,,7.0
+Pierre Gasly,Alpine,Mexico City,2024,Q,,8.0
+Alexander Albon,Williams,Mexico City,2024,Q,,9.0
+Nico Hulkenberg,Haas F1 Team,Mexico City,2024,Q,,10.0
+Yuki Tsunoda,RB,Mexico City,2024,Q,,11.0
+Liam Lawson,RB,Mexico City,2024,Q,,12.0
+Fernando Alonso,Aston Martin,Mexico City,2024,Q,,13.0
+Lance Stroll,Aston Martin,Mexico City,2024,Q,,14.0
+Valtteri Bottas,Kick Sauber,Mexico City,2024,Q,,15.0
+Franco Colapinto,Williams,Mexico City,2024,Q,,16.0
+Oscar Piastri,McLaren,Mexico City,2024,Q,,17.0
+Sergio Perez,Red Bull Racing,Mexico City,2024,Q,,18.0
+Esteban Ocon,Alpine,Mexico City,2024,Q,,19.0
+Guanyu Zhou,Kick Sauber,Mexico City,2024,Q,,20.0
+Carlos Sainz,Ferrari,Mexico City,2024,R,1.0,1.0
+Lando Norris,McLaren,Mexico City,2024,R,3.0,2.0
+Charles Leclerc,Ferrari,Mexico City,2024,R,4.0,3.0
+Lewis Hamilton,Mercedes,Mexico City,2024,R,6.0,4.0
+George Russell,Mercedes,Mexico City,2024,R,5.0,5.0
+Max Verstappen,Red Bull Racing,Mexico City,2024,R,2.0,6.0
+Kevin Magnussen,Haas F1 Team,Mexico City,2024,R,7.0,7.0
+Oscar Piastri,McLaren,Mexico City,2024,R,17.0,8.0
+Nico Hulkenberg,Haas F1 Team,Mexico City,2024,R,10.0,9.0
+Pierre Gasly,Alpine,Mexico City,2024,R,8.0,10.0
+Lance Stroll,Aston Martin,Mexico City,2024,R,14.0,11.0
+Franco Colapinto,Williams,Mexico City,2024,R,16.0,12.0
+Esteban Ocon,Alpine,Mexico City,2024,R,0.0,13.0
+Valtteri Bottas,Kick Sauber,Mexico City,2024,R,15.0,14.0
+Guanyu Zhou,Kick Sauber,Mexico City,2024,R,19.0,15.0
+Liam Lawson,RB,Mexico City,2024,R,12.0,16.0
+Sergio Perez,Red Bull Racing,Mexico City,2024,R,18.0,17.0
+Fernando Alonso,Aston Martin,Mexico City,2024,R,13.0,18.0
+Alexander Albon,Williams,Mexico City,2024,R,9.0,19.0
+Yuki Tsunoda,RB,Mexico City,2024,R,11.0,20.0
+Lando Norris,McLaren,São Paulo,2024,Q,,1.0
+George Russell,Mercedes,São Paulo,2024,Q,,2.0
+Yuki Tsunoda,RB,São Paulo,2024,Q,,3.0
+Esteban Ocon,Alpine,São Paulo,2024,Q,,4.0
+Liam Lawson,RB,São Paulo,2024,Q,,5.0
+Charles Leclerc,Ferrari,São Paulo,2024,Q,,6.0
+Alexander Albon,Williams,São Paulo,2024,Q,,7.0
+Oscar Piastri,McLaren,São Paulo,2024,Q,,8.0
+Fernando Alonso,Aston Martin,São Paulo,2024,Q,,9.0
+Lance Stroll,Aston Martin,São Paulo,2024,Q,,10.0
+Valtteri Bottas,Kick Sauber,São Paulo,2024,Q,,11.0
+Max Verstappen,Red Bull Racing,São Paulo,2024,Q,,12.0
+Sergio Perez,Red Bull Racing,São Paulo,2024,Q,,13.0
+Carlos Sainz,Ferrari,São Paulo,2024,Q,,14.0
+Pierre Gasly,Alpine,São Paulo,2024,Q,,15.0
+Lewis Hamilton,Mercedes,São Paulo,2024,Q,,16.0
+Oliver Bearman,Haas F1 Team,São Paulo,2024,Q,,17.0
+Franco Colapinto,Williams,São Paulo,2024,Q,,18.0
+Nico Hulkenberg,Haas F1 Team,São Paulo,2024,Q,,19.0
+Guanyu Zhou,Kick Sauber,São Paulo,2024,Q,,20.0
+Max Verstappen,Red Bull Racing,São Paulo,2024,R,17.0,1.0
+Esteban Ocon,Alpine,São Paulo,2024,R,4.0,2.0
+Pierre Gasly,Alpine,São Paulo,2024,R,13.0,3.0
+George Russell,Mercedes,São Paulo,2024,R,2.0,4.0
+Charles Leclerc,Ferrari,São Paulo,2024,R,6.0,5.0
+Lando Norris,McLaren,São Paulo,2024,R,1.0,6.0
+Yuki Tsunoda,RB,São Paulo,2024,R,3.0,7.0
+Oscar Piastri,McLaren,São Paulo,2024,R,8.0,8.0
+Liam Lawson,RB,São Paulo,2024,R,5.0,9.0
+Lewis Hamilton,Mercedes,São Paulo,2024,R,14.0,10.0
+Sergio Perez,Red Bull Racing,São Paulo,2024,R,12.0,11.0
+Oliver Bearman,Haas F1 Team,São Paulo,2024,R,15.0,12.0
+Valtteri Bottas,Kick Sauber,São Paulo,2024,R,11.0,13.0
+Fernando Alonso,Aston Martin,São Paulo,2024,R,9.0,14.0
+Guanyu Zhou,Kick Sauber,São Paulo,2024,R,19.0,15.0
+Carlos Sainz,Ferrari,São Paulo,2024,R,20.0,16.0
+Franco Colapinto,Williams,São Paulo,2024,R,16.0,17.0
+Alexander Albon,Williams,São Paulo,2024,R,7.0,18.0
+Lance Stroll,Aston Martin,São Paulo,2024,R,10.0,19.0
+Nico Hulkenberg,Haas F1 Team,São Paulo,2024,R,18.0,20.0
+George Russell,Mercedes,Las Vegas,2024,Q,,1.0
+Carlos Sainz,Ferrari,Las Vegas,2024,Q,,2.0
+Pierre Gasly,Alpine,Las Vegas,2024,Q,,3.0
+Charles Leclerc,Ferrari,Las Vegas,2024,Q,,4.0
+Max Verstappen,Red Bull Racing,Las Vegas,2024,Q,,5.0
+Lando Norris,McLaren,Las Vegas,2024,Q,,6.0
+Yuki Tsunoda,RB,Las Vegas,2024,Q,,7.0
+Oscar Piastri,McLaren,Las Vegas,2024,Q,,8.0
+Nico Hulkenberg,Haas F1 Team,Las Vegas,2024,Q,,9.0
+Lewis Hamilton,Mercedes,Las Vegas,2024,Q,,10.0
+Esteban Ocon,Alpine,Las Vegas,2024,Q,,11.0
+Kevin Magnussen,Haas F1 Team,Las Vegas,2024,Q,,12.0
+Guanyu Zhou,Kick Sauber,Las Vegas,2024,Q,,13.0
+Franco Colapinto,Williams,Las Vegas,2024,Q,,14.0
+Liam Lawson,RB,Las Vegas,2024,Q,,15.0
+Sergio Perez,Red Bull Racing,Las Vegas,2024,Q,,16.0
+Fernando Alonso,Aston Martin,Las Vegas,2024,Q,,17.0
+Alexander Albon,Williams,Las Vegas,2024,Q,,18.0
+Valtteri Bottas,Kick Sauber,Las Vegas,2024,Q,,19.0
+Lance Stroll,Aston Martin,Las Vegas,2024,Q,,20.0
+George Russell,Mercedes,Las Vegas,2024,R,1.0,1.0
+Lewis Hamilton,Mercedes,Las Vegas,2024,R,10.0,2.0
+Carlos Sainz,Ferrari,Las Vegas,2024,R,2.0,3.0
+Charles Leclerc,Ferrari,Las Vegas,2024,R,4.0,4.0
+Max Verstappen,Red Bull Racing,Las Vegas,2024,R,5.0,5.0
+Lando Norris,McLaren,Las Vegas,2024,R,6.0,6.0
+Oscar Piastri,McLaren,Las Vegas,2024,R,8.0,7.0
+Nico Hulkenberg,Haas F1 Team,Las Vegas,2024,R,9.0,8.0
+Yuki Tsunoda,RB,Las Vegas,2024,R,7.0,9.0
+Sergio Perez,Red Bull Racing,Las Vegas,2024,R,15.0,10.0
+Fernando Alonso,Aston Martin,Las Vegas,2024,R,16.0,11.0
+Kevin Magnussen,Haas F1 Team,Las Vegas,2024,R,12.0,12.0
+Guanyu Zhou,Kick Sauber,Las Vegas,2024,R,13.0,13.0
+Franco Colapinto,Williams,Las Vegas,2024,R,20.0,14.0
+Lance Stroll,Aston Martin,Las Vegas,2024,R,18.0,15.0
+Liam Lawson,RB,Las Vegas,2024,R,14.0,16.0
+Esteban Ocon,Alpine,Las Vegas,2024,R,11.0,17.0
+Valtteri Bottas,Kick Sauber,Las Vegas,2024,R,19.0,18.0
+Alexander Albon,Williams,Las Vegas,2024,R,17.0,19.0
+Pierre Gasly,Alpine,Las Vegas,2024,R,3.0,20.0
+Max Verstappen,Red Bull Racing,Lusail,2024,Q,,1.0
+George Russell,Mercedes,Lusail,2024,Q,,2.0
+Lando Norris,McLaren,Lusail,2024,Q,,3.0
+Oscar Piastri,McLaren,Lusail,2024,Q,,4.0
+Charles Leclerc,Ferrari,Lusail,2024,Q,,5.0
+Lewis Hamilton,Mercedes,Lusail,2024,Q,,6.0
+Carlos Sainz,Ferrari,Lusail,2024,Q,,7.0
+Fernando Alonso,Aston Martin,Lusail,2024,Q,,8.0
+Sergio Perez,Red Bull Racing,Lusail,2024,Q,,9.0
+Kevin Magnussen,Haas F1 Team,Lusail,2024,Q,,10.0
+Pierre Gasly,Alpine,Lusail,2024,Q,,11.0
+Guanyu Zhou,Kick Sauber,Lusail,2024,Q,,12.0
+Valtteri Bottas,Kick Sauber,Lusail,2024,Q,,13.0
+Yuki Tsunoda,RB,Lusail,2024,Q,,14.0
+Lance Stroll,Aston Martin,Lusail,2024,Q,,15.0
+Alexander Albon,Williams,Lusail,2024,Q,,16.0
+Liam Lawson,RB,Lusail,2024,Q,,17.0
+Nico Hulkenberg,Haas F1 Team,Lusail,2024,Q,,18.0
+Franco Colapinto,Williams,Lusail,2024,Q,,19.0
+Esteban Ocon,Alpine,Lusail,2024,Q,,20.0
+Max Verstappen,Red Bull Racing,Lusail,2024,R,2.0,1.0
+Charles Leclerc,Ferrari,Lusail,2024,R,5.0,2.0
+Oscar Piastri,McLaren,Lusail,2024,R,4.0,3.0
+George Russell,Mercedes,Lusail,2024,R,1.0,4.0
+Pierre Gasly,Alpine,Lusail,2024,R,11.0,5.0
+Carlos Sainz,Ferrari,Lusail,2024,R,7.0,6.0
+Fernando Alonso,Aston Martin,Lusail,2024,R,8.0,7.0
+Guanyu Zhou,Kick Sauber,Lusail,2024,R,12.0,8.0
+Kevin Magnussen,Haas F1 Team,Lusail,2024,R,10.0,9.0
+Lando Norris,McLaren,Lusail,2024,R,3.0,10.0
+Valtteri Bottas,Kick Sauber,Lusail,2024,R,13.0,11.0
+Lewis Hamilton,Mercedes,Lusail,2024,R,6.0,12.0
+Yuki Tsunoda,RB,Lusail,2024,R,14.0,13.0
+Liam Lawson,RB,Lusail,2024,R,17.0,14.0
+Alexander Albon,Williams,Lusail,2024,R,16.0,15.0
+Nico Hulkenberg,Haas F1 Team,Lusail,2024,R,18.0,16.0
+Sergio Perez,Red Bull Racing,Lusail,2024,R,9.0,17.0
+Lance Stroll,Aston Martin,Lusail,2024,R,15.0,18.0
+Franco Colapinto,Williams,Lusail,2024,R,19.0,19.0
+Esteban Ocon,Alpine,Lusail,2024,R,20.0,20.0
+Lando Norris,McLaren,Yas Island,2024,Q,,1.0
+Oscar Piastri,McLaren,Yas Island,2024,Q,,2.0
+Carlos Sainz,Ferrari,Yas Island,2024,Q,,3.0
+Nico Hulkenberg,Haas F1 Team,Yas Island,2024,Q,,4.0
+Max Verstappen,Red Bull Racing,Yas Island,2024,Q,,5.0
+Pierre Gasly,Alpine,Yas Island,2024,Q,,6.0
+George Russell,Mercedes,Yas Island,2024,Q,,7.0
+Fernando Alonso,Aston Martin,Yas Island,2024,Q,,8.0
+Valtteri Bottas,Kick Sauber,Yas Island,2024,Q,,9.0
+Sergio Perez,Red Bull Racing,Yas Island,2024,Q,,10.0
+Yuki Tsunoda,RB,Yas Island,2024,Q,,11.0
+Liam Lawson,RB,Yas Island,2024,Q,,12.0
+Lance Stroll,Aston Martin,Yas Island,2024,Q,,13.0
+Charles Leclerc,Ferrari,Yas Island,2024,Q,,14.0
+Kevin Magnussen,Haas F1 Team,Yas Island,2024,Q,,15.0
+Alexander Albon,Williams,Yas Island,2024,Q,,16.0
+Guanyu Zhou,Kick Sauber,Yas Island,2024,Q,,17.0
+Lewis Hamilton,Mercedes,Yas Island,2024,Q,,18.0
+Franco Colapinto,Williams,Yas Island,2024,Q,,19.0
+Jack Doohan,Alpine,Yas Island,2024,Q,,20.0
+Lando Norris,McLaren,Yas Island,2024,R,1.0,1.0
+Carlos Sainz,Ferrari,Yas Island,2024,R,3.0,2.0
+Charles Leclerc,Ferrari,Yas Island,2024,R,19.0,3.0
+Lewis Hamilton,Mercedes,Yas Island,2024,R,16.0,4.0
+George Russell,Mercedes,Yas Island,2024,R,6.0,5.0
+Max Verstappen,Red Bull Racing,Yas Island,2024,R,4.0,6.0
+Pierre Gasly,Alpine,Yas Island,2024,R,5.0,7.0
+Nico Hulkenberg,Haas F1 Team,Yas Island,2024,R,7.0,8.0
+Fernando Alonso,Aston Martin,Yas Island,2024,R,8.0,9.0
+Oscar Piastri,McLaren,Yas Island,2024,R,2.0,10.0
+Alexander Albon,Williams,Yas Island,2024,R,18.0,11.0
+Yuki Tsunoda,RB,Yas Island,2024,R,11.0,12.0
+Guanyu Zhou,Kick Sauber,Yas Island,2024,R,15.0,13.0
+Lance Stroll,Aston Martin,Yas Island,2024,R,13.0,14.0
+Jack Doohan,Alpine,Yas Island,2024,R,17.0,15.0
+Kevin Magnussen,Haas F1 Team,Yas Island,2024,R,14.0,16.0
+Liam Lawson,RB,Yas Island,2024,R,12.0,17.0
+Valtteri Bottas,Kick Sauber,Yas Island,2024,R,9.0,18.0
+Franco Colapinto,Williams,Yas Island,2024,R,20.0,19.0
+Sergio Perez,Red Bull Racing,Yas Island,2024,R,10.0,20.0
